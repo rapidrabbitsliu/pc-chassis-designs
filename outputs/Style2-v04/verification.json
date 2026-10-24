@@ -1,0 +1,32 @@
+{
+  "parts": 16,
+  "interference_count": 0,
+  "height_mm": 313.8,
+  "base_depth_mm": 257,
+  "previous_base_depth_mm": 300,
+  "rear_reduction_mm": 43,
+  "psu_shift_toward_board_mm": 17,
+  "psu_to_crossbar_gap_mm": 6,
+  "psu_to_upright_gap_mm": 18,
+  "side_frame_to_psu_top_and_rear_gap_mm": 2,
+  "psu_envelope_mm": {
+    "x": [
+      -0.84,
+      139.16
+    ],
+    "y": [
+      38,
+      124
+    ],
+    "z": [
+      22,
+      172
+    ]
+  },
+  "air_path_checks": {
+    "exhaust_100mm": [],
+    "fan_inlet_30mm": []
+  },
+  "timeline_health": "healthy",
+  "status": "layout prototype, cable fit, stability and PETG strength not validated"
+}

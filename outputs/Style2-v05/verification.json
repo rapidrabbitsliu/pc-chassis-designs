@@ -1,0 +1,20 @@
+{
+  "parts": 16,
+  "interference_count": 0,
+  "height_mm": 313.8,
+  "base_depth_mm": 257,
+  "psu_front_back_clearance_each_mm": 0.5,
+  "stop_height_above_support_mm": 10,
+  "entry_ramp_deg": 45,
+  "ramp_crest_flat_mm": 2,
+  "ramp_width_mm": 90,
+  "insertion_path": "hold PSU 10.6mm above final seat, push 60mm toward motherboard, lower vertically",
+  "insertion_sample_count": 85,
+  "insertion_collision_count": 0,
+  "air_path_checks": {
+    "exhaust_100mm": [],
+    "fan_inlet_30mm": []
+  },
+  "timeline_health": "healthy",
+  "status": "geometric prototype; measured PSU details, retention, stability and strength not validated"
+}

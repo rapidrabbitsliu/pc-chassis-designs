@@ -1,0 +1,22 @@
+{
+  "status": "STRUCTURAL_CONCEPT_PREVIEW_NOT_FOR_PRINTING",
+  "board_bottom_z_mm": 158,
+  "upper_ear_ledge_z_mm": 282,
+  "upper_height_travel_mm": 30,
+  "lower_tab_slots_nominal_centres_x_mm": [
+    96,
+    116
+  ],
+  "lower_slot_width_y_mm": 2.4,
+  "lower_slots_open_bottom": true,
+  "lower_height_travel_mm": 8,
+  "tower_wall_mm": 10,
+  "tower_foot_mm": 8,
+  "insert_pilot_mm": 4.6,
+  "insert_pilot_requires_coupon_test": true,
+  "hardware": "M3 screws with washers and rear nuts for carrier clamps; base screws longer than 6mm required",
+  "real_GPU_bracket_measurement_required": true,
+  "strength_analysis": "No FEA or load test; geometry and load path revision only",
+  "timeline_health": "healthy",
+  "interference_count": 0
+}

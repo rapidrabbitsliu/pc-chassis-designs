@@ -1,0 +1,25 @@
+{
+  "status": "JOINT_PREVIEW_NOT_FOR_PRINTING",
+  "old_PCI_end_gap_mm": [
+    10.6875,
+    12.45
+  ],
+  "new_PCI_end_nominal_gap_mm": 0,
+  "rear_beam_depth_mm": 23.16,
+  "centre_lap_length_mm": 60,
+  "lap_joint_through_bolts": 2,
+  "lap_bolt_axis_x_mm": [
+    132,
+    172
+  ],
+  "end_fastening_ears": 2,
+  "lowest_centre_gusset_z_mm": 120,
+  "PSU_top_mm": 116,
+  "centre_gusset_above_PSU_top_mm": 4,
+  "bottom_width_mm": 290,
+  "board_bottom_mm": 158,
+  "load_test_or_FEA": false,
+  "timeline_health": "healthy",
+  "interference_count": 0,
+  "nominal_fits_require_print_clearance_review": true
+}

@@ -1,0 +1,249 @@
+[
+  {
+    "name": "10_GPU_140_FAN_MOUNT",
+    "native_size_mm": [
+      140.0,
+      6.000000000000001,
+      140.0
+    ],
+    "volume_mm3": 37578.922724091026,
+    "orientation": "xz",
+    "angle_deg": 0,
+    "brim_mm": 5,
+    "note": "Check supports in slicer"
+  },
+  {
+    "name": "10_CPU_140_FAN_MOUNT",
+    "native_size_mm": [
+      139.99999999999997,
+      6.000000000000001,
+      140.0
+    ],
+    "volume_mm3": 37578.922724091004,
+    "orientation": "xz",
+    "angle_deg": 0,
+    "brim_mm": 5,
+    "note": "Check supports in slicer"
+  },
+  {
+    "name": "04_front_GROUND_BAR_290mm_FLAT_PSU",
+    "native_size_mm": [
+      258.0,
+      20.0,
+      8.0
+    ],
+    "volume_mm3": 41280.0,
+    "orientation": "xy",
+    "angle_deg": 45,
+    "brim_mm": 5,
+    "note": "Rotate 45 degrees on bed; no joint needed"
+  },
+  {
+    "name": "04_rear_GROUND_BAR_290mm_FLAT_PSU",
+    "native_size_mm": [
+      258.0,
+      20.0,
+      8.0
+    ],
+    "volume_mm3": 41280.0,
+    "orientation": "xy",
+    "angle_deg": 45,
+    "brim_mm": 5,
+    "note": "Rotate 45 degrees on bed; no joint needed"
+  },
+  {
+    "name": "05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE",
+    "native_size_mm": [
+      158.0,
+      184.0,
+      28.0
+    ],
+    "volume_mm3": 52695.99999999988,
+    "orientation": "xy",
+    "angle_deg": 0,
+    "brim_mm": 5,
+    "note": "Check supports in slicer"
+  },
+  {
+    "name": "12_front_PCI_SUPPORT_FRAME",
+    "native_size_mm": [
+      156.1,
+      16.0,
+      140.0
+    ],
+    "volume_mm3": 170389.68581412575,
+    "orientation": "xz",
+    "angle_deg": 0,
+    "brim_mm": 5,
+    "note": "Check supports in slicer"
+  },
+  {
+    "name": "12_front_CPU_SUPPORT_FRAME",
+    "native_size_mm": [
+      149.74999999999997,
+      16.0,
+      140.0
+    ],
+    "volume_mm3": 171438.45720941722,
+    "orientation": "xz",
+    "angle_deg": 0,
+    "brim_mm": 5,
+    "note": "Check supports in slicer"
+  },
+  {
+    "name": "07_GPU_REINFORCED_REAR_TOWER",
+    "native_size_mm": [
+      103.99999999999999,
+      38.00000000000001,
+      162.00000000000003
+    ],
+    "volume_mm3": 135505.33102279194,
+    "orientation": "yz",
+    "angle_deg": 0,
+    "brim_mm": 5,
+    "note": "Tower on side; inspect local supports around holes and foot"
+  },
+  {
+    "name": "08_GPU_UPPER_EAR_LEDGE_ADJUSTABLE",
+    "native_size_mm": [
+      96.0,
+      15.159999999999947,
+      36.000000000000014
+    ],
+    "volume_mm3": 27372.60223998617,
+    "orientation": "xz",
+    "angle_deg": 0,
+    "brim_mm": 5,
+    "note": "Check supports in slicer"
+  },
+  {
+    "name": "08_GPU_LOWER_TWO_TAB_RECEIVER_ADJUSTABLE",
+    "native_size_mm": [
+      96.0,
+      15.159999999999982,
+      15.999999999999996
+    ],
+    "volume_mm3": 13564.649566773518,
+    "orientation": "xz",
+    "angle_deg": 0,
+    "brim_mm": 5,
+    "note": "Check supports in slicer"
+  },
+  {
+    "name": "16_CPU_VERTICAL_SIDE_FLUSH_TO_BEAM",
+    "native_size_mm": [
+      16.000000000000014,
+      247.83999999999997,
+      140.0
+    ],
+    "volume_mm3": 221260.03354602322,
+    "orientation": "yz",
+    "angle_deg": 0,
+    "brim_mm": 3,
+    "note": "Side frame laid on its side; PCI taper may need local support"
+  },
+  {
+    "name": "16_PCI_INSET_SIDE_16_45mm",
+    "native_size_mm": [
+      32.449999999999996,
+      247.83999999999997,
+      140.0
+    ],
+    "volume_mm3": 221260.03354602377,
+    "orientation": "yz",
+    "angle_deg": 0,
+    "brim_mm": 3,
+    "note": "Side frame laid on its side; PCI taper may need local support"
+  },
+  {
+    "name": "18_REAR_BEAM_PCI_TAPERED_END_AND_FRONT_LAP",
+    "native_size_mm": [
+      184.4,
+      47.33999999999998,
+      20.0
+    ],
+    "volume_mm3": 50457.69205624935,
+    "orientation": "xy",
+    "angle_deg": 0,
+    "brim_mm": 5,
+    "note": "Check supports in slicer"
+  },
+  {
+    "name": "18_REAR_BEAM_CPU_END_AND_REAR_LAP",
+    "native_size_mm": [
+      180.04999999999995,
+      23.15999999999999,
+      20.0
+    ],
+    "volume_mm3": 46031.46804172175,
+    "orientation": "xy",
+    "angle_deg": 0,
+    "brim_mm": 5,
+    "note": "Check supports in slicer"
+  },
+  {
+    "name": "19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "native_size_mm": [
+      29.51,
+      243.84,
+      17.99999999999999
+    ],
+    "volume_mm3": 58673.40758160829,
+    "orientation": "xy",
+    "angle_deg": 0,
+    "brim_mm": 5,
+    "note": "Bosses upward; middle rail uses continuous underside rib; inspect 6 mm end overhangs"
+  },
+  {
+    "name": "19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "native_size_mm": [
+      18.000000000000007,
+      243.84,
+      29.999999999999982
+    ],
+    "volume_mm3": 64852.26038160829,
+    "orientation": "xy",
+    "angle_deg": 0,
+    "brim_mm": 5,
+    "note": "Bosses upward; middle rail uses continuous underside rib; inspect 6 mm end overhangs"
+  },
+  {
+    "name": "19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "native_size_mm": [
+      15.999999999999979,
+      243.84,
+      17.99999999999999
+    ],
+    "volume_mm3": 32319.18038160822,
+    "orientation": "xy",
+    "angle_deg": 0,
+    "brim_mm": 5,
+    "note": "Bosses upward; middle rail uses continuous underside rib; inspect 6 mm end overhangs"
+  },
+  {
+    "name": "20_GPU_INDEPENDENT_FAN_SHOE_140mm",
+    "native_size_mm": [
+      140.0,
+      31.0,
+      20.0
+    ],
+    "volume_mm3": 16825.782322471503,
+    "orientation": "xz",
+    "angle_deg": 0,
+    "brim_mm": 5,
+    "note": "Check supports in slicer"
+  },
+  {
+    "name": "20_CPU_INDEPENDENT_FAN_SHOE_140mm",
+    "native_size_mm": [
+      139.99999999999997,
+      31.0,
+      20.0
+    ],
+    "volume_mm3": 16825.78232247149,
+    "orientation": "xz",
+    "angle_deg": 0,
+    "brim_mm": 5,
+    "note": "Check supports in slicer"
+  }
+]

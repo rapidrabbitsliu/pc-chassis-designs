@@ -1,0 +1,11 @@
+{
+  "overall_xyz_mm": [
+    299.84,
+    280.0,
+    314.0
+  ],
+  "GPU_to_motherboard_plane_mm": 55.0,
+  "GPU_shift_mm": 12.4,
+  "intersections": [],
+  "note": "55 mm is requested envelope gap; real protruding components, cable fit and thermals remain unverified. Not sliced."
+}

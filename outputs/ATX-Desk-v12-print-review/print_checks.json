@@ -1,0 +1,382 @@
+[
+  {
+    "name": "10_GPU_140_FAN_MOUNT",
+    "print_xyz_mm": [
+      140.0,
+      140.0,
+      6.0
+    ],
+    "brim_mm": 5,
+    "bed_with_brim_mm": [
+      150.0,
+      150.0
+    ],
+    "closed_manifold": true,
+    "volume_mm3": 37633.62,
+    "bed_contact_mm2": 6272.27,
+    "elevated_downward_horizontal_area_mm2": 0,
+    "orientation": "xz",
+    "angle_deg": 0,
+    "note": "Check supports in slicer"
+  },
+  {
+    "name": "10_CPU_140_FAN_MOUNT",
+    "print_xyz_mm": [
+      140.0,
+      140.0,
+      6.0
+    ],
+    "brim_mm": 5,
+    "bed_with_brim_mm": [
+      150.0,
+      150.0
+    ],
+    "closed_manifold": true,
+    "volume_mm3": 37633.63,
+    "bed_contact_mm2": 6272.27,
+    "elevated_downward_horizontal_area_mm2": 0,
+    "orientation": "xz",
+    "angle_deg": 0,
+    "note": "Check supports in slicer"
+  },
+  {
+    "name": "04_front_GROUND_BAR_290mm_FLAT_PSU",
+    "print_xyz_mm": [
+      196.576,
+      196.576,
+      8.0
+    ],
+    "brim_mm": 5,
+    "bed_with_brim_mm": [
+      206.576,
+      206.576
+    ],
+    "closed_manifold": true,
+    "volume_mm3": 41280.0,
+    "bed_contact_mm2": 5160.0,
+    "elevated_downward_horizontal_area_mm2": 0,
+    "orientation": "xy",
+    "angle_deg": 45,
+    "note": "Rotate 45 degrees on bed; no joint needed"
+  },
+  {
+    "name": "04_rear_GROUND_BAR_290mm_FLAT_PSU",
+    "print_xyz_mm": [
+      196.576,
+      196.576,
+      8.0
+    ],
+    "brim_mm": 5,
+    "bed_with_brim_mm": [
+      206.576,
+      206.576
+    ],
+    "closed_manifold": true,
+    "volume_mm3": 41280.0,
+    "bed_contact_mm2": 5160.0,
+    "elevated_downward_horizontal_area_mm2": 0,
+    "orientation": "xy",
+    "angle_deg": 45,
+    "note": "Rotate 45 degrees on bed; no joint needed"
+  },
+  {
+    "name": "05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE",
+    "print_xyz_mm": [
+      158.0,
+      184.0,
+      28.0
+    ],
+    "brim_mm": 5,
+    "bed_with_brim_mm": [
+      168.0,
+      194.0
+    ],
+    "closed_manifold": true,
+    "volume_mm3": 52696.0,
+    "bed_contact_mm2": 400.0,
+    "elevated_downward_horizontal_area_mm2": 7232.0,
+    "orientation": "xy",
+    "angle_deg": 0,
+    "note": "Check supports in slicer"
+  },
+  {
+    "name": "12_front_PCI_SUPPORT_FRAME",
+    "print_xyz_mm": [
+      156.1,
+      140.0,
+      16.0
+    ],
+    "brim_mm": 5,
+    "bed_with_brim_mm": [
+      166.1,
+      150.0
+    ],
+    "closed_manifold": true,
+    "volume_mm3": 170393.55,
+    "bed_contact_mm2": 10670.5,
+    "elevated_downward_horizontal_area_mm2": 23.93,
+    "orientation": "xz",
+    "angle_deg": 0,
+    "note": "Check supports in slicer"
+  },
+  {
+    "name": "12_front_CPU_SUPPORT_FRAME",
+    "print_xyz_mm": [
+      149.75,
+      140.0,
+      16.0
+    ],
+    "brim_mm": 5,
+    "bed_with_brim_mm": [
+      159.75,
+      150.0
+    ],
+    "closed_manifold": true,
+    "volume_mm3": 171441.06,
+    "bed_contact_mm2": 10729.0,
+    "elevated_downward_horizontal_area_mm2": 15.95,
+    "orientation": "xz",
+    "angle_deg": 0,
+    "note": "Check supports in slicer"
+  },
+  {
+    "name": "07_GPU_REINFORCED_REAR_TOWER",
+    "print_xyz_mm": [
+      38.0,
+      162.0,
+      104.0
+    ],
+    "brim_mm": 5,
+    "bed_with_brim_mm": [
+      48.0,
+      172.0
+    ],
+    "closed_manifold": true,
+    "volume_mm3": 135511.95,
+    "bed_contact_mm2": 2228.0,
+    "elevated_downward_horizontal_area_mm2": 2239.2,
+    "orientation": "yz",
+    "angle_deg": 0,
+    "note": "Tower on side; inspect local supports around holes and foot"
+  },
+  {
+    "name": "08_GPU_UPPER_EAR_LEDGE_ADJUSTABLE",
+    "print_xyz_mm": [
+      96.0,
+      36.0,
+      15.16
+    ],
+    "brim_mm": 5,
+    "bed_with_brim_mm": [
+      106.0,
+      46.0
+    ],
+    "closed_manifold": true,
+    "volume_mm3": 27375.79,
+    "bed_contact_mm2": 3438.05,
+    "elevated_downward_horizontal_area_mm2": 6.94,
+    "orientation": "xz",
+    "angle_deg": 0,
+    "note": "Check supports in slicer"
+  },
+  {
+    "name": "08_GPU_LOWER_TWO_TAB_RECEIVER_ADJUSTABLE",
+    "print_xyz_mm": [
+      96.0,
+      16.0,
+      15.16
+    ],
+    "brim_mm": 5,
+    "bed_with_brim_mm": [
+      106.0,
+      26.0
+    ],
+    "closed_manifold": true,
+    "volume_mm3": 13565.89,
+    "bed_contact_mm2": 1518.05,
+    "elevated_downward_horizontal_area_mm2": 280.0,
+    "orientation": "xz",
+    "angle_deg": 0,
+    "note": "Check supports in slicer"
+  },
+  {
+    "name": "16_CPU_VERTICAL_SIDE_FLUSH_TO_BEAM",
+    "print_xyz_mm": [
+      247.84,
+      140.0,
+      16.0
+    ],
+    "brim_mm": 3,
+    "bed_with_brim_mm": [
+      253.84,
+      146.0
+    ],
+    "closed_manifold": true,
+    "volume_mm3": 221263.83,
+    "bed_contact_mm2": 13849.6,
+    "elevated_downward_horizontal_area_mm2": 23.76,
+    "orientation": "yz",
+    "angle_deg": 0,
+    "note": "Side frame laid on its side; PCI taper may need local support"
+  },
+  {
+    "name": "16_PCI_INSET_SIDE_16_45mm",
+    "print_xyz_mm": [
+      247.84,
+      140.0,
+      32.45
+    ],
+    "brim_mm": 3,
+    "bed_with_brim_mm": [
+      253.84,
+      146.0
+    ],
+    "closed_manifold": true,
+    "volume_mm3": 221263.83,
+    "bed_contact_mm2": 0,
+    "elevated_downward_horizontal_area_mm2": 13968.63,
+    "orientation": "yz",
+    "angle_deg": 0,
+    "note": "Side frame laid on its side; PCI taper may need local support"
+  },
+  {
+    "name": "18_REAR_BEAM_PCI_TAPERED_END_AND_FRONT_LAP",
+    "print_xyz_mm": [
+      184.4,
+      47.34,
+      20.0
+    ],
+    "brim_mm": 5,
+    "bed_with_brim_mm": [
+      194.4,
+      57.34
+    ],
+    "closed_manifold": true,
+    "volume_mm3": 50465.89,
+    "bed_contact_mm2": 693.36,
+    "elevated_downward_horizontal_area_mm2": 2790.56,
+    "orientation": "xy",
+    "angle_deg": 0,
+    "note": "Check supports in slicer"
+  },
+  {
+    "name": "18_REAR_BEAM_CPU_END_AND_REAR_LAP",
+    "print_xyz_mm": [
+      180.05,
+      23.16,
+      20.0
+    ],
+    "brim_mm": 5,
+    "bed_with_brim_mm": [
+      190.05,
+      33.16
+    ],
+    "closed_manifold": true,
+    "volume_mm3": 46034.7,
+    "bed_contact_mm2": 694.8,
+    "elevated_downward_horizontal_area_mm2": 2333.86,
+    "orientation": "xy",
+    "angle_deg": 0,
+    "note": "Check supports in slicer"
+  },
+  {
+    "name": "19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "print_xyz_mm": [
+      29.51,
+      243.84,
+      18.0
+    ],
+    "brim_mm": 5,
+    "bed_with_brim_mm": [
+      39.51,
+      253.84
+    ],
+    "closed_manifold": true,
+    "volume_mm3": 58660.8,
+    "bed_contact_mm2": 7177.77,
+    "elevated_downward_horizontal_area_mm2": 0,
+    "orientation": "xy",
+    "angle_deg": 0,
+    "note": "Bosses upward; middle rail uses continuous underside rib; inspect 6 mm end overhangs"
+  },
+  {
+    "name": "19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "print_xyz_mm": [
+      18.0,
+      243.84,
+      30.0
+    ],
+    "brim_mm": 5,
+    "bed_with_brim_mm": [
+      28.0,
+      253.84
+    ],
+    "closed_manifold": true,
+    "volume_mm3": 64839.65,
+    "bed_contact_mm2": 1854.72,
+    "elevated_downward_horizontal_area_mm2": 391.45,
+    "orientation": "xy",
+    "angle_deg": 0,
+    "note": "Bosses upward; middle rail uses continuous underside rib; inspect 6 mm end overhangs"
+  },
+  {
+    "name": "19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "print_xyz_mm": [
+      16.0,
+      243.84,
+      18.0
+    ],
+    "brim_mm": 5,
+    "bed_with_brim_mm": [
+      26.0,
+      253.84
+    ],
+    "closed_manifold": true,
+    "volume_mm3": 32306.57,
+    "bed_contact_mm2": 3883.49,
+    "elevated_downward_horizontal_area_mm2": 0,
+    "orientation": "xy",
+    "angle_deg": 0,
+    "note": "Bosses upward; middle rail uses continuous underside rib; inspect 6 mm end overhangs"
+  },
+  {
+    "name": "20_GPU_INDEPENDENT_FAN_SHOE_140mm",
+    "print_xyz_mm": [
+      140.0,
+      20.0,
+      31.0
+    ],
+    "brim_mm": 5,
+    "bed_with_brim_mm": [
+      150.0,
+      30.0
+    ],
+    "closed_manifold": true,
+    "volume_mm3": 16828.68,
+    "bed_contact_mm2": 280.0,
+    "elevated_downward_horizontal_area_mm2": 1584.85,
+    "orientation": "xz",
+    "angle_deg": 0,
+    "note": "Check supports in slicer"
+  },
+  {
+    "name": "20_CPU_INDEPENDENT_FAN_SHOE_140mm",
+    "print_xyz_mm": [
+      140.0,
+      20.0,
+      31.0
+    ],
+    "brim_mm": 5,
+    "bed_with_brim_mm": [
+      150.0,
+      30.0
+    ],
+    "closed_manifold": true,
+    "volume_mm3": 16828.68,
+    "bed_contact_mm2": 280.0,
+    "elevated_downward_horizontal_area_mm2": 1584.85,
+    "orientation": "xz",
+    "angle_deg": 0,
+    "note": "Check supports in slicer"
+  }
+]

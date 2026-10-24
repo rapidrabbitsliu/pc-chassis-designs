@@ -1,0 +1,189 @@
+[
+  {
+    "name": "01_UPRIGHT_1",
+    "flat_face_normal_axis": "Y",
+    "in_plane_rotation_deg": 46.75,
+    "footprint_including_5mm_brim_mm": [
+      246.35,
+      246.46
+    ],
+    "watertight_edge_check": true,
+    "fits_A1_256mm": true
+  },
+  {
+    "name": "01_UPRIGHT_2",
+    "flat_face_normal_axis": "Y",
+    "in_plane_rotation_deg": 135.0,
+    "footprint_including_5mm_brim_mm": [
+      240.38,
+      240.38
+    ],
+    "watertight_edge_check": true,
+    "fits_A1_256mm": true
+  },
+  {
+    "name": "01_UPRIGHT_3",
+    "flat_face_normal_axis": "Y",
+    "in_plane_rotation_deg": 45.0,
+    "footprint_including_5mm_brim_mm": [
+      240.38,
+      240.38
+    ],
+    "watertight_edge_check": true,
+    "fits_A1_256mm": true
+  },
+  {
+    "name": "02_FOOT_1",
+    "flat_face_normal_axis": "Z",
+    "in_plane_rotation_deg": 45.0,
+    "footprint_including_5mm_brim_mm": [
+      243.35,
+      243.35
+    ],
+    "watertight_edge_check": true,
+    "fits_A1_256mm": true
+  },
+  {
+    "name": "02_FOOT_2",
+    "flat_face_normal_axis": "Z",
+    "in_plane_rotation_deg": 45.0,
+    "footprint_including_5mm_brim_mm": [
+      243.35,
+      243.35
+    ],
+    "watertight_edge_check": true,
+    "fits_A1_256mm": true
+  },
+  {
+    "name": "02_FOOT_3",
+    "flat_face_normal_axis": "Z",
+    "in_plane_rotation_deg": 45.0,
+    "footprint_including_5mm_brim_mm": [
+      243.35,
+      243.35
+    ],
+    "watertight_edge_check": true,
+    "fits_A1_256mm": true
+  },
+  {
+    "name": "03_LOWER_CROSSBAR",
+    "flat_face_normal_axis": "Y",
+    "in_plane_rotation_deg": 45.0,
+    "footprint_including_5mm_brim_mm": [
+      199.03,
+      199.03
+    ],
+    "watertight_edge_check": true,
+    "fits_A1_256mm": true
+  },
+  {
+    "name": "03_UPPER_CROSSBAR",
+    "flat_face_normal_axis": "Y",
+    "in_plane_rotation_deg": 135.0,
+    "footprint_including_5mm_brim_mm": [
+      199.03,
+      199.03
+    ],
+    "watertight_edge_check": true,
+    "fits_A1_256mm": true
+  },
+  {
+    "name": "04_REAR_DIAGONAL",
+    "flat_face_normal_axis": "Y",
+    "in_plane_rotation_deg": 85.5,
+    "footprint_including_5mm_brim_mm": [
+      243.83,
+      244.44
+    ],
+    "watertight_edge_check": true,
+    "fits_A1_256mm": true
+  },
+  {
+    "name": "05_SIDE_BRACE_1",
+    "flat_face_normal_axis": "X",
+    "in_plane_rotation_deg": 10.5,
+    "footprint_including_5mm_brim_mm": [
+      235.96,
+      235.9
+    ],
+    "watertight_edge_check": true,
+    "fits_A1_256mm": true
+  },
+  {
+    "name": "05_SIDE_BRACE_3",
+    "flat_face_normal_axis": "X",
+    "in_plane_rotation_deg": 10.5,
+    "footprint_including_5mm_brim_mm": [
+      235.96,
+      235.9
+    ],
+    "watertight_edge_check": true,
+    "fits_A1_256mm": true
+  },
+  {
+    "name": "06_GPU_CARRIER",
+    "flat_face_normal_axis": "Z",
+    "in_plane_rotation_deg": 135.0,
+    "footprint_including_5mm_brim_mm": [
+      221.66,
+      221.66
+    ],
+    "watertight_edge_check": true,
+    "fits_A1_256mm": true
+  },
+  {
+    "name": "07_RISER_TRAY_PENDING_MEASUREMENT",
+    "flat_face_normal_axis": "Z",
+    "in_plane_rotation_deg": 45.0,
+    "footprint_including_5mm_brim_mm": [
+      144.35,
+      144.35
+    ],
+    "watertight_edge_check": true,
+    "fits_A1_256mm": true
+  },
+  {
+    "name": "08_GPU_PAD_LEFT_FIT_REQUIRED",
+    "flat_face_normal_axis": "Z",
+    "in_plane_rotation_deg": 135.0,
+    "footprint_including_5mm_brim_mm": [
+      53.84,
+      53.84
+    ],
+    "watertight_edge_check": true,
+    "fits_A1_256mm": true
+  },
+  {
+    "name": "08_GPU_PAD_RIGHT_FIT_REQUIRED",
+    "flat_face_normal_axis": "Z",
+    "in_plane_rotation_deg": 135.0,
+    "footprint_including_5mm_brim_mm": [
+      53.84,
+      53.84
+    ],
+    "watertight_edge_check": true,
+    "fits_A1_256mm": true
+  },
+  {
+    "name": "09_PSU_SADDLE_FRONT",
+    "flat_face_normal_axis": "Z",
+    "in_plane_rotation_deg": 135.0,
+    "footprint_including_5mm_brim_mm": [
+      200.45,
+      200.45
+    ],
+    "watertight_edge_check": true,
+    "fits_A1_256mm": true
+  },
+  {
+    "name": "09_PSU_SADDLE_REAR",
+    "flat_face_normal_axis": "Z",
+    "in_plane_rotation_deg": 45.0,
+    "footprint_including_5mm_brim_mm": [
+      200.45,
+      200.45
+    ],
+    "watertight_edge_check": true,
+    "fits_A1_256mm": true
+  }
+]

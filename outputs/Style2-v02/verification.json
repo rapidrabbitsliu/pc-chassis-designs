@@ -1,0 +1,16 @@
+{
+  "interference_count": 0,
+  "timeline_health": "healthy",
+  "single_solid_print_parts": 17,
+  "height_mm": 313.8,
+  "top_matches_motherboard": true,
+  "psu_xyz_mm": [
+    140,
+    86,
+    150
+  ],
+  "psu_exhaust_direction": "-X, same as motherboard rear I/O",
+  "exhaust_corridor_length_mm": 100,
+  "exhaust_corridor_obstructing_parts": [],
+  "status": "layout prototype; physical fit and strength not validated"
+}

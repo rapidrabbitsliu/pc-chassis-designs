@@ -1,0 +1,14 @@
+{
+  "status": "LAYOUT_PREVIEW_NOT_FOR_PRINTING",
+  "board_bottom_z_mm": 158,
+  "board_lowered_mm": 50,
+  "PSU_top_mm": 116,
+  "board_to_PSU_gap_mm": 42,
+  "lowest_board_beam_z_mm": 128,
+  "PSU_retainer_top_mm": 125,
+  "front_cover_removed": true,
+  "support_layout": "front and rear frames; open sides with low ties and top rails",
+  "floor_width_mm": 290,
+  "timeline_health": "healthy",
+  "interference_count": 0
+}

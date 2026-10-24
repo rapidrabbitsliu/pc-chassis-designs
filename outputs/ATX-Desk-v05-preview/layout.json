@@ -1,0 +1,40 @@
+{
+  "status": "LAYOUT_PREVIEW_NOT_FOR_PRINTING",
+  "PSU_bounds_mm": [
+    [
+      77.4,
+      51.92,
+      30
+    ],
+    [
+      227.4,
+      191.92,
+      116
+    ]
+  ],
+  "PSU_center_xy_mm": [
+    152.4,
+    121.92
+  ],
+  "PSU_intake_face": "-Z downward",
+  "PSU_exhaust_face": "+Y toward GPU display ports",
+  "nominal_floor_to_PSU_bottom_mm": 30,
+  "PSU_body_height_mm": 86,
+  "old_PSU_top_mm": 170,
+  "new_PSU_top_mm": 116,
+  "old_PSU_geometric_center_z_mm": 95,
+  "new_PSU_geometric_center_z_mm": 73,
+  "center_drop_mm": 22,
+  "ground_crossbar_y_mm": [
+    39.92,
+    203.92
+  ],
+  "intake_marker_diameter_mm": 120,
+  "fan_marker_is_approximate": true,
+  "ground_width_mm": 290,
+  "board_bottom_z_mm": 208,
+  "front_cover_retained": true,
+  "timeline_features": 573,
+  "timeline_health": "healthy",
+  "interference_count": 0
+}

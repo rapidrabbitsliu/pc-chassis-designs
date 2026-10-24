@@ -1,0 +1,47 @@
+{
+  "status": "LAYOUT_PREVIEW_NOT_FOR_PRINTING",
+  "cover_thickness_mm": 3,
+  "main_cover_z_mm": [
+    8,
+    182
+  ],
+  "bottom_gap_mm": 8,
+  "upper_gap_to_main_beam_mm": 8,
+  "center_seam_mm": 0.6,
+  "front_cover_y_mm": [
+    -14.4,
+    -11.4
+  ],
+  "screw_plan": {
+    "M3x16": 2,
+    "M3x8": 2,
+    "M3x6": 2,
+    "short_M3_insert_OD5_H4.5": 6
+  },
+  "parts": [
+    {
+      "name": "11_LOWER_FRONT_COVER_PCI_HALF",
+      "volume_mm3": 81711.23073518884,
+      "bounds_xyz_mm": [
+        165.47578947368422,
+        11.75,
+        188.49999999999997
+      ]
+    },
+    {
+      "name": "11_LOWER_FRONT_COVER_CPU_HALF",
+      "volume_mm3": 76978.59030561245,
+      "bounds_xyz_mm": [
+        145.75,
+        11.75,
+        188.49999999999997
+      ]
+    }
+  ],
+  "timeline_features": 544,
+  "timeline_health": "healthy",
+  "interference_count": 0,
+  "PSU_side_intake_open": true,
+  "PSU_rear_exhaust_open": true,
+  "ground_width_mm": 290
+}

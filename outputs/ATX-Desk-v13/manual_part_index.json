@@ -1,0 +1,121 @@
+{
+  "16_PCI_INSET_SIDE_16_45mm": {
+    "id": "P01",
+    "name": "左侧内斜框",
+    "nuts": 7,
+    "note": "只有这一侧向内收；上边缘比底边更靠左。",
+    "plate": "2"
+  },
+  "16_CPU_VERTICAL_SIDE_FLUSH_TO_BEAM": {
+    "id": "P02",
+    "name": "右侧垂直框",
+    "nuts": 7,
+    "note": "CPU 侧，外侧保持垂直；不可与左侧框互换。",
+    "plate": "1"
+  },
+  "12_front_PCI_SUPPORT_FRAME": {
+    "id": "P03",
+    "name": "前左框",
+    "nuts": 5,
+    "note": "中缝接收两个连接耳螺丝；上方还有中纵梁和风扇梁接收孔。",
+    "plate": "3"
+  },
+  "12_front_CPU_SUPPORT_FRAME": {
+    "id": "P04",
+    "name": "前右框",
+    "nuts": 2,
+    "note": "中缝上下各带一个一体连接耳；不是独立连接片。",
+    "plate": "4"
+  },
+  "18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm": {
+    "id": "P05",
+    "name": "一体后横梁",
+    "nuts": 4,
+    "note": "304.45 mm 连续整根；中间前伸座承托中纵梁，后侧有显卡塔安装孔。",
+    "plate": "5"
+  },
+  "04_front_GROUND_BAR_290mm_FLAT_PSU": {
+    "id": "P06",
+    "name": "前底横条",
+    "nuts": 2,
+    "note": "实际长 274 mm，两端底搭接薄耳；装在靠风扇一端。",
+    "plate": "9"
+  },
+  "04_rear_GROUND_BAR_290mm_FLAT_PSU": {
+    "id": "P07",
+    "name": "后底横条",
+    "nuts": 2,
+    "note": "实际长 274 mm；与前条几何相同，可互换，本编号按安装位置区分。",
+    "plate": "9"
+  },
+  "05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE": {
+    "id": "P08",
+    "name": "电源开放托架",
+    "nuts": 0,
+    "note": "四脚落在底横条上；中央为向下进风开口，边缘有细扎带槽。",
+    "plate": "8"
+  },
+  "19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm": {
+    "id": "P09",
+    "name": "左主板纵梁",
+    "nuts": 3,
+    "note": "较宽，承接主板 1、4、7 号孔；安装柱朝上。",
+    "plate": "1"
+  },
+  "19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm": {
+    "id": "P10",
+    "name": "中主板纵梁",
+    "nuts": 3,
+    "note": "底部有连续加强筋；承接主板 2、5、8 号孔。",
+    "plate": "1"
+  },
+  "19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm": {
+    "id": "P11",
+    "name": "右主板纵梁",
+    "nuts": 3,
+    "note": "较窄，承接主板 3、6、9 号孔；3 号孔前后位置错开。",
+    "plate": "1"
+  },
+  "07_GPU_REINFORCED_REAR_TOWER": {
+    "id": "P12",
+    "name": "显卡固定塔",
+    "nuts": 0,
+    "note": "底座有三个固定孔；竖面有上下滑槽、接口窗口和两侧加强筋。",
+    "plate": "8"
+  },
+  "08_GPU_UPPER_EAR_LEDGE_ADJUSTABLE": {
+    "id": "P13",
+    "name": "显卡上托片",
+    "nuts": 4,
+    "note": "较高的滑片，前伸水平托台承接金属安装耳；两个上耳孔为待实卡核对的预留。",
+    "plate": "3"
+  },
+  "08_GPU_LOWER_TWO_TAB_RECEIVER_ADJUSTABLE": {
+    "id": "P14",
+    "name": "显卡下插脚座",
+    "nuts": 2,
+    "note": "较矮滑片，两个薄插脚槽向下贯通；不能封住下方出口。",
+    "plate": "3"
+  },
+  "20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm": {
+    "id": "P15",
+    "name": "双风扇一体底梁",
+    "nuts": 4,
+    "note": "长 284 mm，四条支臂连接前框；四个小托台接收面板安装耳。",
+    "plate": "5"
+  },
+  "10_GPU_140_FAN_MOUNT": {
+    "id": "P16",
+    "name": "左风扇面板",
+    "nuts": 0,
+    "note": "对应显卡侧；底部两个安装耳。与右面板可按位置区分。",
+    "plate": "6"
+  },
+  "10_CPU_140_FAN_MOUNT": {
+    "id": "P17",
+    "name": "右风扇面板",
+    "nuts": 0,
+    "note": "对应 CPU 与内存侧；风扇外框孔不装热熔螺母。",
+    "plate": "7"
+  }
+}

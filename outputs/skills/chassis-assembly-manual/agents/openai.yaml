@@ -1,0 +1,4 @@
+interface:
+  display_name: "机架安装说明书"
+  short_description: "为本项目生成带零件编号、独立零件图和分步装配图的离线安装说明书"
+  default_prompt: "使用 $chassis-assembly-manual，为本项目当前确认版本生成或更新图解 HTML 安装说明书。"

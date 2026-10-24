@@ -1,0 +1,33 @@
+{
+  "status": "LAYOUT_PREVIEW_NOT_FOR_PRINTING",
+  "PSU_shift_rear_mm": 60,
+  "PSU_bounds_mm": [
+    [
+      77.4,
+      111.92,
+      30
+    ],
+    [
+      227.4,
+      251.92,
+      116
+    ]
+  ],
+  "PSU_rear_face_to_frame_outer_face_mm": 1.92,
+  "PSU_bottom_gap_mm": 30,
+  "rear_clear_opening_x_mm": [
+    68,
+    236.8
+  ],
+  "rear_clear_opening_z_mm": [
+    16,
+    125
+  ],
+  "rear_seam_bridges": 2,
+  "board_bottom_z_mm": 158,
+  "GPU_support_retained": true,
+  "floor_width_mm": 290,
+  "timeline_health": "healthy",
+  "interference_count": 0,
+  "actual_plug_and_switch_access": "Not yet checked against physical PSU; full rear body envelope kept open"
+}

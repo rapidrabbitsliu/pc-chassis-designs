@@ -1,0 +1,11 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "script",
+  "author": "CAD project",
+  "description": {
+    "": "Single bracket V04 4.0 hook and M3 retained key; test fit only"
+  },
+  "version": "0.5.0",
+  "runOnStartup": false,
+  "supportedOS": "windows|mac"
+}

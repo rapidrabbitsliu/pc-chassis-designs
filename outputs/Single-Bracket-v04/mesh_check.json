@@ -1,0 +1,25 @@
+{
+  "meshes": [
+    {
+      "part": "Bracket",
+      "closed": true,
+      "volume_mm3": 56072.4454387502,
+      "print_bounds_mm": [
+        107.0,
+        120.0,
+        32.0
+      ]
+    },
+    {
+      "part": "AntiLiftKey",
+      "closed": true,
+      "volume_mm3": 351.54407661267624,
+      "print_bounds_mm": [
+        9.0,
+        13.0,
+        11.5
+      ]
+    }
+  ],
+  "assembly_interferences": 0
+}

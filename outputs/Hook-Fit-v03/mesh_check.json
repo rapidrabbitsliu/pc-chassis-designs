@@ -1,0 +1,24 @@
+[
+  {
+    "depth_mm": 4.0,
+    "bounds_mm": [
+      32.0,
+      15.0,
+      10.0
+    ],
+    "volume_mm3": 1677.4879517760273,
+    "triangles": 148,
+    "closed": true
+  },
+  {
+    "depth_mm": 4.2,
+    "bounds_mm": [
+      32.0,
+      15.0,
+      10.199999809265137
+    ],
+    "volume_mm3": 1684.1521289024324,
+    "triangles": 164,
+    "closed": true
+  }
+]

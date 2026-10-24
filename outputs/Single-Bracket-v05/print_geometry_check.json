@@ -1,0 +1,10 @@
+{
+  "04": {
+    "elevated_horizontal_downward_faces_mm2": 3209.1563153422903,
+    "bed_contact_mm2": 684.0
+  },
+  "05": {
+    "elevated_horizontal_downward_faces_mm2": 131.156309065409,
+    "bed_contact_mm2": 3841.0
+  }
+}

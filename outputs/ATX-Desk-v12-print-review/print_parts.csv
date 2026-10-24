@@ -1,0 +1,20 @@
+﻿part,print_X_mm,print_Y_mm,print_Z_mm,brim_mm,bed_with_brim_X_mm,bed_with_brim_Y_mm,note
+10_GPU_140_FAN_MOUNT,140.0,140.0,6.0,5,150.0,150.0,Check supports in slicer
+10_CPU_140_FAN_MOUNT,140.0,140.0,6.0,5,150.0,150.0,Check supports in slicer
+04_front_GROUND_BAR_290mm_FLAT_PSU,196.576,196.576,8.0,5,206.576,206.576,Rotate 45 degrees on bed; no joint needed
+04_rear_GROUND_BAR_290mm_FLAT_PSU,196.576,196.576,8.0,5,206.576,206.576,Rotate 45 degrees on bed; no joint needed
+05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE,158.0,184.0,28.0,5,168.0,194.0,Check supports in slicer
+12_front_PCI_SUPPORT_FRAME,156.1,140.0,16.0,5,166.1,150.0,Check supports in slicer
+12_front_CPU_SUPPORT_FRAME,149.75,140.0,16.0,5,159.75,150.0,Check supports in slicer
+07_GPU_REINFORCED_REAR_TOWER,38.0,162.0,104.0,5,48.0,172.0,Tower on side; inspect local supports around holes and foot
+08_GPU_UPPER_EAR_LEDGE_ADJUSTABLE,96.0,36.0,15.16,5,106.0,46.0,Check supports in slicer
+08_GPU_LOWER_TWO_TAB_RECEIVER_ADJUSTABLE,96.0,16.0,15.16,5,106.0,26.0,Check supports in slicer
+16_CPU_VERTICAL_SIDE_FLUSH_TO_BEAM,247.84,140.0,16.0,3,253.84,146.0,Side frame laid on its side; PCI taper may need local support
+16_PCI_INSET_SIDE_16_45mm,247.84,140.0,32.45,3,253.84,146.0,Side frame laid on its side; PCI taper may need local support
+18_REAR_BEAM_PCI_TAPERED_END_AND_FRONT_LAP,184.4,47.34,20.0,5,194.4,57.34,Check supports in slicer
+18_REAR_BEAM_CPU_END_AND_REAR_LAP,180.05,23.16,20.0,5,190.05,33.16,Check supports in slicer
+19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm,29.51,243.84,18.0,5,39.51,253.84,Bosses upward; middle rail uses continuous underside rib; inspect 6 mm end overhangs
+19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm,18.0,243.84,30.0,5,28.0,253.84,Bosses upward; middle rail uses continuous underside rib; inspect 6 mm end overhangs
+19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm,16.0,243.84,18.0,5,26.0,253.84,Bosses upward; middle rail uses continuous underside rib; inspect 6 mm end overhangs
+20_GPU_INDEPENDENT_FAN_SHOE_140mm,140.0,20.0,31.0,5,150.0,30.0,Check supports in slicer
+20_CPU_INDEPENDENT_FAN_SHOE_140mm,140.0,20.0,31.0,5,150.0,30.0,Check supports in slicer

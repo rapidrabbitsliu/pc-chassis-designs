@@ -1,0 +1,21 @@
+{
+  "slicer": "Bambu Studio 02.07.01.62",
+  "plates": 9,
+  "objects": 17,
+  "all_sliced": true,
+  "total_filament_g": 1175.48,
+  "support_g": 34.89,
+  "total_minutes": 3168,
+  "plate_minutes": [
+    765,
+    432,
+    424,
+    341,
+    314,
+    104,
+    104,
+    511,
+    174
+  ],
+  "new_print_sent": false
+}

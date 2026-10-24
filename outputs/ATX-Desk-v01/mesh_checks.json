@@ -1,0 +1,338 @@
+[
+  {
+    "part": "01_Side_L_rear",
+    "triangles": 1084,
+    "closed_manifold": true,
+    "consistent_normals": true,
+    "volume_mm3": 265050.4359999265,
+    "print_bounds_mm": [
+      156.0,
+      190.0,
+      18.0
+    ],
+    "bed_contact_mm2": 14770.0,
+    "elevated_horizontal_down_faces_mm2": 0,
+    "print_orientation": "yz_flip",
+    "bed_rotation_deg": 0
+  },
+  {
+    "part": "01_Side_L_front",
+    "triangles": 908,
+    "closed_manifold": true,
+    "consistent_normals": true,
+    "volume_mm3": 274556.3706521094,
+    "print_bounds_mm": [
+      163.60000610351562,
+      190.0,
+      18.0
+    ],
+    "bed_contact_mm2": 15293.600311279297,
+    "elevated_horizontal_down_faces_mm2": 0,
+    "print_orientation": "yz_flip",
+    "bed_rotation_deg": 0
+  },
+  {
+    "part": "01_Side_R_rear",
+    "triangles": 1084,
+    "closed_manifold": true,
+    "consistent_normals": true,
+    "volume_mm3": 265050.43511349603,
+    "print_bounds_mm": [
+      156.0,
+      190.0,
+      18.0
+    ],
+    "bed_contact_mm2": 14770.0,
+    "elevated_horizontal_down_faces_mm2": 0,
+    "print_orientation": "yz",
+    "bed_rotation_deg": 0
+  },
+  {
+    "part": "01_Side_R_front",
+    "triangles": 908,
+    "closed_manifold": true,
+    "consistent_normals": true,
+    "volume_mm3": 274556.3697758182,
+    "print_bounds_mm": [
+      163.60000610351562,
+      190.0,
+      18.0
+    ],
+    "bed_contact_mm2": 15293.600311279297,
+    "elevated_horizontal_down_faces_mm2": 0,
+    "print_orientation": "yz",
+    "bed_rotation_deg": 0
+  },
+  {
+    "part": "02_Splice_L_low",
+    "triangles": 620,
+    "closed_manifold": true,
+    "consistent_normals": true,
+    "volume_mm3": 5383.469034720679,
+    "print_bounds_mm": [
+      50.0,
+      28.0,
+      4.0
+    ],
+    "bed_contact_mm2": 1345.8672586801695,
+    "elevated_horizontal_down_faces_mm2": 0,
+    "print_orientation": "yz",
+    "bed_rotation_deg": 0
+  },
+  {
+    "part": "02_Splice_L_high",
+    "triangles": 620,
+    "closed_manifold": true,
+    "consistent_normals": true,
+    "volume_mm3": 5383.46887263655,
+    "print_bounds_mm": [
+      50.0,
+      28.0,
+      4.0
+    ],
+    "bed_contact_mm2": 1345.8672181591392,
+    "elevated_horizontal_down_faces_mm2": 0,
+    "print_orientation": "yz",
+    "bed_rotation_deg": 0
+  },
+  {
+    "part": "02_Splice_R_low",
+    "triangles": 620,
+    "closed_manifold": true,
+    "consistent_normals": true,
+    "volume_mm3": 5383.469034720679,
+    "print_bounds_mm": [
+      50.0,
+      28.0,
+      4.0
+    ],
+    "bed_contact_mm2": 1345.8672586801695,
+    "elevated_horizontal_down_faces_mm2": 0,
+    "print_orientation": "yz",
+    "bed_rotation_deg": 0
+  },
+  {
+    "part": "02_Splice_R_high",
+    "triangles": 620,
+    "closed_manifold": true,
+    "consistent_normals": true,
+    "volume_mm3": 5383.46887263655,
+    "print_bounds_mm": [
+      50.0,
+      28.0,
+      4.0
+    ],
+    "bed_contact_mm2": 1345.8672181591392,
+    "elevated_horizontal_down_faces_mm2": 0,
+    "print_orientation": "yz",
+    "bed_rotation_deg": 0
+  },
+  {
+    "part": "03_BoardBeam_CPU",
+    "triangles": 1772,
+    "closed_manifold": true,
+    "consistent_normals": true,
+    "volume_mm3": 80371.6322850416,
+    "print_bounds_mm": [
+      217.78888894263144,
+      217.78888894263144,
+      30.0
+    ],
+    "bed_contact_mm2": 2016.0001201629657,
+    "elevated_horizontal_down_faces_mm2": 701.933669730903,
+    "print_orientation": "xy",
+    "bed_rotation_deg": 45
+  },
+  {
+    "part": "03_BoardBeam_MID",
+    "triangles": 2348,
+    "closed_manifold": true,
+    "consistent_normals": true,
+    "volume_mm3": 80047.11377886584,
+    "print_bounds_mm": [
+      217.78888860545666,
+      217.78888860545663,
+      30.0
+    ],
+    "bed_contact_mm2": 2015.9999999999989,
+    "elevated_horizontal_down_faces_mm2": 701.9336615465875,
+    "print_orientation": "xy",
+    "bed_rotation_deg": 45
+  },
+  {
+    "part": "03_BoardBeam_PCI",
+    "triangles": 1772,
+    "closed_manifold": true,
+    "consistent_normals": true,
+    "volume_mm3": 80371.62920143949,
+    "print_bounds_mm": [
+      217.78888860545666,
+      217.78888860545666,
+      30.0
+    ],
+    "bed_contact_mm2": 2016.0000000000018,
+    "elevated_horizontal_down_faces_mm2": 701.9336347940555,
+    "print_orientation": "xy",
+    "bed_rotation_deg": 45
+  },
+  {
+    "part": "04_PSU_Shelf_rear",
+    "triangles": 700,
+    "closed_manifold": true,
+    "consistent_normals": true,
+    "volume_mm3": 53315.20403527626,
+    "print_bounds_mm": [
+      224.8599564173221,
+      224.85995641732214,
+      12.0
+    ],
+    "bed_contact_mm2": 8549.46734531622,
+    "elevated_horizontal_down_faces_mm2": 0,
+    "print_orientation": "xy",
+    "bed_rotation_deg": 45
+  },
+  {
+    "part": "05_PSU_Hoop_rear",
+    "triangles": 316,
+    "closed_manifold": true,
+    "consistent_normals": true,
+    "volume_mm3": 29284.91143556318,
+    "print_bounds_mm": [
+      160.0,
+      159.0,
+      8.0
+    ],
+    "bed_contact_mm2": 3696.0,
+    "elevated_horizontal_down_faces_mm2": 0,
+    "print_orientation": "xz",
+    "bed_rotation_deg": 0
+  },
+  {
+    "part": "04_PSU_Shelf_front",
+    "triangles": 700,
+    "closed_manifold": true,
+    "consistent_normals": true,
+    "volume_mm3": 53315.20418458766,
+    "print_bounds_mm": [
+      224.8599564173221,
+      224.8599564173221,
+      12.0
+    ],
+    "bed_contact_mm2": 8549.467339683872,
+    "elevated_horizontal_down_faces_mm2": 0,
+    "print_orientation": "xy",
+    "bed_rotation_deg": 45
+  },
+  {
+    "part": "05_PSU_Hoop_front",
+    "triangles": 316,
+    "closed_manifold": true,
+    "consistent_normals": true,
+    "volume_mm3": 29284.911546560823,
+    "print_bounds_mm": [
+      160.0,
+      159.0,
+      8.0
+    ],
+    "bed_contact_mm2": 3696.0,
+    "elevated_horizontal_down_faces_mm2": 0,
+    "print_orientation": "xz",
+    "bed_rotation_deg": 0
+  },
+  {
+    "part": "06_GPU_RearTower",
+    "triangles": 944,
+    "closed_manifold": true,
+    "consistent_normals": true,
+    "volume_mm3": 75997.00577338267,
+    "print_bounds_mm": [
+      96.0,
+      152.0,
+      33.0
+    ],
+    "bed_contact_mm2": 7727.534011879936,
+    "elevated_horizontal_down_faces_mm2": 0,
+    "print_orientation": "yz",
+    "bed_rotation_deg": 0
+  },
+  {
+    "part": "07_GPU_RearSlider",
+    "triangles": 488,
+    "closed_manifold": true,
+    "consistent_normals": true,
+    "volume_mm3": 29357.912426421637,
+    "print_bounds_mm": [
+      29.0,
+      30.0,
+      96.0
+    ],
+    "bed_contact_mm2": 414.0,
+    "elevated_horizontal_down_faces_mm2": 130.0,
+    "print_orientation": "xz",
+    "bed_rotation_deg": 0
+  },
+  {
+    "part": "08_GPU_SlidingNut",
+    "triangles": 292,
+    "closed_manifold": true,
+    "consistent_normals": true,
+    "volume_mm3": 515.1019260827386,
+    "print_bounds_mm": [
+      10.0,
+      10.0,
+      6.0
+    ],
+    "bed_contact_mm2": 100.0,
+    "elevated_horizontal_down_faces_mm2": 0,
+    "print_orientation": "xy",
+    "bed_rotation_deg": 0
+  },
+  {
+    "part": "09_GPU_TailTower",
+    "triangles": 920,
+    "closed_manifold": true,
+    "consistent_normals": true,
+    "volume_mm3": 17856.933670675484,
+    "print_bounds_mm": [
+      18.0,
+      58.16999816894531,
+      52.0
+    ],
+    "bed_contact_mm2": 990.6938452258473,
+    "elevated_horizontal_down_faces_mm2": 38.29979431128595,
+    "print_orientation": "xy",
+    "bed_rotation_deg": 0
+  },
+  {
+    "part": "10_GPU_TailSlider",
+    "triangles": 324,
+    "closed_manifold": true,
+    "consistent_normals": true,
+    "volume_mm3": 12596.834758725796,
+    "print_bounds_mm": [
+      40.0,
+      28.0,
+      28.0
+    ],
+    "bed_contact_mm2": 460.0,
+    "elevated_horizontal_down_faces_mm2": 6.536762928545202,
+    "print_orientation": "xz",
+    "bed_rotation_deg": 0
+  },
+  {
+    "part": "11_INSERT_FIT_FIRST",
+    "triangles": 1884,
+    "closed_manifold": true,
+    "consistent_normals": true,
+    "volume_mm3": 8526.45895856073,
+    "print_bounds_mm": [
+      64.0,
+      30.0,
+      16.0
+    ],
+    "bed_contact_mm2": 1920.0,
+    "elevated_horizontal_down_faces_mm2": 0,
+    "print_orientation": "xy",
+    "bed_rotation_deg": 0
+  }
+]

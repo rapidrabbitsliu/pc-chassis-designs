@@ -1,0 +1,10 @@
+{
+  "overall_xyz_mm": [
+    299.84,
+    280.0,
+    314.0
+  ],
+  "intersections": [],
+  "print_parts": 19,
+  "note": "GPU thermal path, CPU cooler and cables remain unverified; V07 sliced project is obsolete for modified parts."
+}

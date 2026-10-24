@@ -1,0 +1,20 @@
+{
+  "print_parts": 19,
+  "interference_count": 0,
+  "overall_height_mm": 314,
+  "fan_dimensions_mm": [
+    140,
+    140,
+    25
+  ],
+  "fan_hole_pitch_mm": 124.5,
+  "fan_holes_unmeasured": true,
+  "fan_flow": "-X, RAM toward rear I/O; upper CPU_RAM lower GPU",
+  "frame_fore_aft_mm": 306,
+  "hardware_width_mm": 299.84,
+  "base_depth_mm": 257,
+  "M3_H4_5_OD5_insert_count": 62,
+  "M3x6_count": 62,
+  "fan_through_fasteners": "8 x M4x40, 8 standard M4 nuts; verify actual fan holes",
+  "limits": "CPU cooler and RAM envelopes unmeasured; physical fit, strength and airflow not validated"
+}

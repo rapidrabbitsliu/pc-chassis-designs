@@ -1,0 +1,155 @@
+[
+  {
+    "name": "10_GPU_140_FAN_MOUNT",
+    "native_size_mm": [
+      140.0,
+      16.0,
+      140.0
+    ],
+    "volume_mm3": 38244.44750747779
+  },
+  {
+    "name": "10_CPU_140_FAN_MOUNT",
+    "native_size_mm": [
+      139.99999999999997,
+      16.0,
+      140.0
+    ],
+    "volume_mm3": 38244.44750747776
+  },
+  {
+    "name": "04_front_GROUND_BAR_290mm_FLAT_PSU",
+    "native_size_mm": [
+      274.0,
+      20.0,
+      8.0
+    ],
+    "volume_mm3": 42020.350311696355
+  },
+  {
+    "name": "04_rear_GROUND_BAR_290mm_FLAT_PSU",
+    "native_size_mm": [
+      274.0,
+      20.0,
+      8.0
+    ],
+    "volume_mm3": 42020.350311696355
+  },
+  {
+    "name": "05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE",
+    "native_size_mm": [
+      158.0,
+      184.0,
+      28.0
+    ],
+    "volume_mm3": 49779.58182295626
+  },
+  {
+    "name": "12_front_PCI_SUPPORT_FRAME",
+    "native_size_mm": [
+      156.1,
+      16.0,
+      140.0
+    ],
+    "volume_mm3": 169220.15726299226
+  },
+  {
+    "name": "12_front_CPU_SUPPORT_FRAME",
+    "native_size_mm": [
+      162.45,
+      19.0,
+      140.0
+    ],
+    "volume_mm3": 172839.99623225324
+  },
+  {
+    "name": "07_GPU_REINFORCED_REAR_TOWER",
+    "native_size_mm": [
+      103.99999999999999,
+      38.00000000000001,
+      162.00000000000003
+    ],
+    "volume_mm3": 130064.86171263589
+  },
+  {
+    "name": "08_GPU_UPPER_EAR_LEDGE_ADJUSTABLE",
+    "native_size_mm": [
+      96.0,
+      18.15999999999999,
+      36.000000000000014
+    ],
+    "volume_mm3": 29382.058398117068
+  },
+  {
+    "name": "08_GPU_LOWER_TWO_TAB_RECEIVER_ADJUSTABLE",
+    "native_size_mm": [
+      96.0,
+      15.159999999999982,
+      15.999999999999996
+    ],
+    "volume_mm3": 13483.601188699882
+  },
+  {
+    "name": "16_CPU_VERTICAL_SIDE_FLUSH_TO_BEAM",
+    "native_size_mm": [
+      16.000000000000014,
+      247.83999999999997,
+      140.0
+    ],
+    "volume_mm3": 219750.0999648575
+  },
+  {
+    "name": "16_PCI_INSET_SIDE_16_45mm",
+    "native_size_mm": [
+      32.449999999999996,
+      247.84000000000003,
+      140.0
+    ],
+    "volume_mm3": 219774.5249248582
+  },
+  {
+    "name": "19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "native_size_mm": [
+      29.51,
+      243.84,
+      17.99999999999999
+    ],
+    "volume_mm3": 58422.0801693211
+  },
+  {
+    "name": "19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "native_size_mm": [
+      18.000000000000007,
+      243.84,
+      29.999999999999982
+    ],
+    "volume_mm3": 64649.79797404172
+  },
+  {
+    "name": "19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "native_size_mm": [
+      15.999999999999979,
+      243.84,
+      17.99999999999999
+    ],
+    "volume_mm3": 32067.85296932103
+  },
+  {
+    "name": "18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm",
+    "native_size_mm": [
+      304.45,
+      47.33999999999998,
+      20.0
+    ],
+    "volume_mm3": 98496.93816224506
+  },
+  {
+    "name": "20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm",
+    "native_size_mm": [
+      284.0,
+      31.0,
+      20.0
+    ],
+    "volume_mm3": 38142.63844971364
+  }
+]

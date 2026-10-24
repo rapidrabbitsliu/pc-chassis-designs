@@ -1,0 +1,13 @@
+{
+  "parts": 16,
+  "interference_count": 0,
+  "height_mm": 313.8,
+  "psu_exhaust_x_mm": -0.84,
+  "left_upright_outer_x_mm": -0.84,
+  "psu_shift_x_mm": -50.84,
+  "full_diagonal_removed": true,
+  "crossbar_connection": "two screws per upright plus four short integral corner knees",
+  "exhaust_corridor_100mm_blocked": [],
+  "timeline_health": "healthy",
+  "status": "layout prototype, not strength validated"
+}

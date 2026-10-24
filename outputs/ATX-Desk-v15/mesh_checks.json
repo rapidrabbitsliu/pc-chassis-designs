@@ -1,0 +1,172 @@
+[
+  {
+    "part": "10_GPU_140_FAN_MOUNT",
+    "closed_oriented_mesh": true,
+    "print_size_mm": [
+      140.0,
+      140.0,
+      16.0
+    ],
+    "cad_volume_error_pct": 0.14726360550412584
+  },
+  {
+    "part": "10_CPU_140_FAN_MOUNT",
+    "closed_oriented_mesh": true,
+    "print_size_mm": [
+      140.0,
+      140.0,
+      16.0
+    ],
+    "cad_volume_error_pct": 0.14727593057739607
+  },
+  {
+    "part": "04_front_GROUND_BAR_290mm_FLAT_PSU",
+    "closed_oriented_mesh": true,
+    "print_size_mm": [
+      207.889,
+      207.889,
+      8.0
+    ],
+    "cad_volume_error_pct": 0.007679742339642202
+  },
+  {
+    "part": "04_rear_GROUND_BAR_290mm_FLAT_PSU",
+    "closed_oriented_mesh": true,
+    "print_size_mm": [
+      207.889,
+      207.889,
+      8.0
+    ],
+    "cad_volume_error_pct": 0.007689501103934384
+  },
+  {
+    "part": "05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE",
+    "closed_oriented_mesh": true,
+    "print_size_mm": [
+      158.0,
+      184.0,
+      28.0
+    ],
+    "cad_volume_error_pct": 0.06194794492202394
+  },
+  {
+    "part": "12_front_PCI_SUPPORT_FRAME",
+    "closed_oriented_mesh": true,
+    "print_size_mm": [
+      156.1,
+      140.0,
+      16.0
+    ],
+    "cad_volume_error_pct": 0.010152041605287846
+  },
+  {
+    "part": "12_front_CPU_SUPPORT_FRAME",
+    "closed_oriented_mesh": true,
+    "print_size_mm": [
+      162.45,
+      140.0,
+      19.0
+    ],
+    "cad_volume_error_pct": 0.008081323346798792
+  },
+  {
+    "part": "07_GPU_REINFORCED_REAR_TOWER",
+    "closed_oriented_mesh": true,
+    "print_size_mm": [
+      38.0,
+      162.0,
+      104.0
+    ],
+    "cad_volume_error_pct": 0.020360160154180462
+  },
+  {
+    "part": "08_GPU_UPPER_EAR_LEDGE_ADJUSTABLE",
+    "closed_oriented_mesh": true,
+    "print_size_mm": [
+      36.0,
+      96.0,
+      17.16
+    ],
+    "cad_volume_error_pct": 0.01321653823230131
+  },
+  {
+    "part": "08_GPU_LOWER_TWO_TAB_RECEIVER_ADJUSTABLE",
+    "closed_oriented_mesh": true,
+    "print_size_mm": [
+      96.0,
+      16.0,
+      15.16
+    ],
+    "cad_volume_error_pct": 0.01227047427428358
+  },
+  {
+    "part": "16_CPU_VERTICAL_SIDE_FLUSH_TO_BEAM",
+    "closed_oriented_mesh": true,
+    "print_size_mm": [
+      247.84,
+      140.0,
+      16.0
+    ],
+    "cad_volume_error_pct": 0.004064063438485025
+  },
+  {
+    "part": "16_PCI_INSET_SIDE_16_45mm",
+    "closed_oriented_mesh": true,
+    "print_size_mm": [
+      247.84,
+      142.83,
+      15.891
+    ],
+    "cad_volume_error_pct": 0.00406393284595041
+  },
+  {
+    "part": "19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "closed_oriented_mesh": true,
+    "print_size_mm": [
+      243.84,
+      29.51,
+      18.0
+    ],
+    "cad_volume_error_pct": 0.016686995153242117
+  },
+  {
+    "part": "19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "closed_oriented_mesh": true,
+    "print_size_mm": [
+      243.84,
+      18.0,
+      30.0
+    ],
+    "cad_volume_error_pct": 0.01757921019409901
+  },
+  {
+    "part": "19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "closed_oriented_mesh": true,
+    "print_size_mm": [
+      243.84,
+      16.0,
+      18.0
+    ],
+    "cad_volume_error_pct": 0.03040603805575716
+  },
+  {
+    "part": "18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm",
+    "closed_oriented_mesh": true,
+    "print_size_mm": [
+      220.936,
+      220.936,
+      20.0
+    ],
+    "cad_volume_error_pct": 0.00981468933209535
+  },
+  {
+    "part": "20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm",
+    "closed_oriented_mesh": true,
+    "print_size_mm": [
+      209.304,
+      209.304,
+      31.0
+    ],
+    "cad_volume_error_pct": 0.06163991888354461
+  }
+]

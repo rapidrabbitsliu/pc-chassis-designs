@@ -1,0 +1,22 @@
+[
+  {
+    "part": "Bracket",
+    "volume_mm3": 61408.09408062654,
+    "bounds_mm": [
+      107.0,
+      120.0,
+      32.0
+    ],
+    "solid": true
+  },
+  {
+    "part": "AntiLiftKey",
+    "volume_mm3": 351.50159446225047,
+    "bounds_mm": [
+      11.5,
+      13.0,
+      9.000000000000002
+    ],
+    "solid": true
+  }
+]

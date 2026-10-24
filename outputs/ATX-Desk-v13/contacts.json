@@ -1,0 +1,32 @@
+[
+  {
+    "one": "18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm",
+    "two": "16_PCI_INSET_SIDE_16_45mm",
+    "distance_mm": 0.0
+  },
+  {
+    "one": "18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm",
+    "two": "16_CPU_VERTICAL_SIDE_FLUSH_TO_BEAM",
+    "distance_mm": 0.0
+  },
+  {
+    "one": "18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm",
+    "two": "07_GPU_REINFORCED_REAR_TOWER",
+    "distance_mm": 0.0
+  },
+  {
+    "one": "18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm",
+    "two": "19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "distance_mm": 0.0
+  },
+  {
+    "one": "20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm",
+    "two": "12_front_PCI_SUPPORT_FRAME",
+    "distance_mm": 1.1102230246251565e-15
+  },
+  {
+    "one": "20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm",
+    "two": "12_front_CPU_SUPPORT_FRAME",
+    "distance_mm": 1.1102230246251565e-15
+  }
+]

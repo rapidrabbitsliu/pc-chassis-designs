@@ -1,0 +1,34 @@
+{
+  "slicer": "Bambu Studio 02.07.01.62",
+  "parts": 16,
+  "plates": 10,
+  "all_sliced_in_gui": true,
+  "total_minutes": 2627,
+  "total_filament_g": 932.24,
+  "support_g": 0,
+  "plate_minutes": [
+    289,
+    263,
+    268,
+    368,
+    207,
+    145,
+    325,
+    323,
+    274,
+    165
+  ],
+  "project_settings_verified": {
+    "printer_model": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "wall_loops": "5",
+    "sparse_infill_density": "40%",
+    "sparse_infill_pattern": "gyroid",
+    "top_shell_layers": "6",
+    "bottom_shell_layers": "5",
+    "print_sequence": "by layer",
+    "enable_prime_tower": "0"
+  },
+  "new_print_sent": false,
+  "note": "Editable project saved after GUI slicing; Bambu may require reslicing after reopening."
+}

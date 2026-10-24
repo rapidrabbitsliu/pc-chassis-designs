@@ -1,0 +1,17 @@
+{
+  "status": "LAYOUT_PREVIEW_NOT_FOR_PRINTING",
+  "floor_x_mm": [
+    12.45,
+    302.45
+  ],
+  "floor_width_mm": 290.0,
+  "CPU_vertical_face_and_beam_end_x_mm": 302.45,
+  "PCI_inward_taper_mm": 16.45,
+  "PCI_old_taper_mm": 12.45,
+  "board_and_nine_hole_centres_unchanged": true,
+  "PCB_edge_x_mm": 304.8,
+  "PCB_overhang_beyond_frame_mm": 2.35,
+  "PSU_still_centered_under_board": true,
+  "timeline_health": "healthy",
+  "interference_count": 0
+}

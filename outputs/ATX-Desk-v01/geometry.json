@@ -1,0 +1,275 @@
+{
+  "holes_mm": {
+    "A": [
+      10.16,
+      288.29
+    ],
+    "C": [
+      10.16,
+      163.83
+    ],
+    "F": [
+      33.02,
+      6.35
+    ],
+    "G": [
+      165.1,
+      288.29
+    ],
+    "H": [
+      165.1,
+      163.83
+    ],
+    "J": [
+      165.1,
+      6.35
+    ],
+    "K": [
+      237.49,
+      288.29
+    ],
+    "L": [
+      237.49,
+      163.83
+    ],
+    "M": [
+      237.49,
+      6.35
+    ]
+  },
+  "parts": [
+    {
+      "part": "01_Side_L_rear",
+      "orientation": "yz",
+      "angle_deg": 0,
+      "volume_mm3": 265046.31100935873,
+      "bounds_mm": [
+        18.000000000000004,
+        156.0,
+        190.0
+      ]
+    },
+    {
+      "part": "01_Side_L_front",
+      "orientation": "yz",
+      "angle_deg": 0,
+      "volume_mm3": 274552.65340287733,
+      "bounds_mm": [
+        18.0,
+        163.6,
+        190.0
+      ]
+    },
+    {
+      "part": "01_Side_R_rear",
+      "orientation": "yz",
+      "angle_deg": 0,
+      "volume_mm3": 265046.3110093588,
+      "bounds_mm": [
+        18.000000000000007,
+        156.0,
+        190.0
+      ]
+    },
+    {
+      "part": "01_Side_R_front",
+      "orientation": "yz",
+      "angle_deg": 0,
+      "volume_mm3": 274552.6534028774,
+      "bounds_mm": [
+        18.000000000000007,
+        163.6,
+        190.0
+      ]
+    },
+    {
+      "part": "02_Splice_L_low",
+      "orientation": "yz",
+      "angle_deg": 0,
+      "volume_mm3": 5382.732755698003,
+      "bounds_mm": [
+        3.999999999999999,
+        50.000000000000014,
+        28.000000000000004
+      ]
+    },
+    {
+      "part": "02_Splice_L_high",
+      "orientation": "yz",
+      "angle_deg": 0,
+      "volume_mm3": 5382.732755697997,
+      "bounds_mm": [
+        3.999999999999999,
+        50.000000000000014,
+        27.99999999999999
+      ]
+    },
+    {
+      "part": "02_Splice_R_low",
+      "orientation": "yz",
+      "angle_deg": 0,
+      "volume_mm3": 5382.732755697984,
+      "bounds_mm": [
+        3.999999999999986,
+        50.000000000000014,
+        28.000000000000004
+      ]
+    },
+    {
+      "part": "02_Splice_R_high",
+      "orientation": "yz",
+      "angle_deg": 0,
+      "volume_mm3": 5382.732755697979,
+      "bounds_mm": [
+        3.999999999999986,
+        50.000000000000014,
+        27.99999999999999
+      ]
+    },
+    {
+      "part": "03_BoardBeam_CPU",
+      "orientation": "xy",
+      "angle_deg": 45,
+      "volume_mm3": 80376.86534371156,
+      "bounds_mm": [
+        288.0,
+        20.000000000000004,
+        30.0
+      ]
+    },
+    {
+      "part": "03_BoardBeam_MID",
+      "orientation": "xy",
+      "angle_deg": 45,
+      "volume_mm3": 80050.69576963797,
+      "bounds_mm": [
+        288.0,
+        20.000000000000018,
+        30.0
+      ]
+    },
+    {
+      "part": "03_BoardBeam_PCI",
+      "orientation": "xy",
+      "angle_deg": 45,
+      "volume_mm3": 80376.86534371156,
+      "bounds_mm": [
+        288.0,
+        20.0,
+        30.0
+      ]
+    },
+    {
+      "part": "04_PSU_Shelf_rear",
+      "orientation": "xy",
+      "angle_deg": 45,
+      "volume_mm3": 53314.099133547024,
+      "bounds_mm": [
+        288.0,
+        30.0,
+        12.000000000000002
+      ]
+    },
+    {
+      "part": "05_PSU_Hoop_rear",
+      "orientation": "xz",
+      "angle_deg": 0,
+      "volume_mm3": 29283.469094957014,
+      "bounds_mm": [
+        160.0,
+        7.999999999999998,
+        159.0
+      ]
+    },
+    {
+      "part": "04_PSU_Shelf_front",
+      "orientation": "xy",
+      "angle_deg": 45,
+      "volume_mm3": 53314.09913354702,
+      "bounds_mm": [
+        288.0,
+        30.0,
+        12.000000000000002
+      ]
+    },
+    {
+      "part": "05_PSU_Hoop_front",
+      "orientation": "xz",
+      "angle_deg": 0,
+      "volume_mm3": 29283.469094957036,
+      "bounds_mm": [
+        160.0,
+        8.000000000000007,
+        159.0
+      ]
+    },
+    {
+      "part": "06_GPU_RearTower",
+      "orientation": "yz",
+      "angle_deg": 0,
+      "volume_mm3": 75995.12879245207,
+      "bounds_mm": [
+        33.0,
+        96.00000000000001,
+        152.0
+      ]
+    },
+    {
+      "part": "07_GPU_RearSlider",
+      "orientation": "xz",
+      "angle_deg": 0,
+      "volume_mm3": 29356.193878343816,
+      "bounds_mm": [
+        29.0,
+        96.00000000000001,
+        30.0
+      ]
+    },
+    {
+      "part": "08_GPU_SlidingNut",
+      "orientation": "xy",
+      "angle_deg": 0,
+      "volume_mm3": 514.9877173956955,
+      "bounds_mm": [
+        10.0,
+        10.0,
+        6.000000000000014
+      ]
+    },
+    {
+      "part": "09_GPU_TailTower",
+      "orientation": "xy",
+      "angle_deg": 0,
+      "volume_mm3": 17855.088792452083,
+      "bounds_mm": [
+        18.000000000000007,
+        58.16999999999999,
+        51.99999999999999
+      ]
+    },
+    {
+      "part": "10_GPU_TailSlider",
+      "orientation": "xz",
+      "angle_deg": 0,
+      "volume_mm3": 12595.469094957056,
+      "bounds_mm": [
+        40.0,
+        28.000000000000007,
+        28.000000000000007
+      ]
+    },
+    {
+      "part": "11_INSERT_FIT_FIRST",
+      "orientation": "xy",
+      "angle_deg": 0,
+      "volume_mm3": 8535.866501016737,
+      "bounds_mm": [
+        63.999999999999986,
+        30.0,
+        16.0
+      ]
+    }
+  ],
+  "timeline_features": 688,
+  "timeline_health": "healthy"
+}

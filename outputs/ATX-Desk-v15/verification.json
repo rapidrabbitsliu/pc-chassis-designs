@@ -1,0 +1,29 @@
+{
+  "style": 1,
+  "version": "V15",
+  "platform_extension_mm": 2,
+  "platform_front_y_mm": 242.84,
+  "hole_offset_y_mm": -3,
+  "hole_centres_xy_mm": [
+    [
+      120.0,
+      246.5
+    ],
+    [
+      100.0,
+      246.5
+    ]
+  ],
+  "nut_OD5_front_wall_mm": 1.16,
+  "unchanged_parts_from_v14": 16,
+  "changed_parts_from_v14": [
+    "08_GPU_UPPER_EAR_LEDGE_ADJUSTABLE"
+  ],
+  "material_removed_mm3": 699.9999999999964,
+  "structure_interferences": 0,
+  "timeline_health": "healthy",
+  "channel_nominal_mm": 8.2,
+  "head_sweep_check_inherited_from_v14": "P12 unchanged; all four continuous 7.5 mm gauge checks remain applicable",
+  "simplified_gpu_envelope_overlap_y_mm": 1,
+  "physical_retest_required": true
+}

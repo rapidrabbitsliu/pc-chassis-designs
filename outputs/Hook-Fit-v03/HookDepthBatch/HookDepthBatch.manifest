@@ -1,0 +1,11 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "script",
+  "author": "CAD project",
+  "description": {
+    "": "Two-hook depth coupons, recessed 4.0 and 4.2 labels"
+  },
+  "version": "0.3.0",
+  "runOnStartup": false,
+  "supportedOS": "windows|mac"
+}

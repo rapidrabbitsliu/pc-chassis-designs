@@ -1,0 +1,109 @@
+{
+  "status": "LAYOUT_PREVIEW_NOT_FOR_PRINTING",
+  "holes_mm": {
+    "1": [
+      16.51,
+      233.68
+    ],
+    "2": [
+      140.97,
+      233.68
+    ],
+    "3": [
+      298.45,
+      210.82
+    ],
+    "4": [
+      16.51,
+      78.74
+    ],
+    "5": [
+      140.97,
+      78.74
+    ],
+    "6": [
+      298.45,
+      78.74
+    ],
+    "7": [
+      16.51,
+      6.35
+    ],
+    "8": [
+      140.97,
+      6.35
+    ],
+    "9": [
+      298.45,
+      6.35
+    ]
+  },
+  "ground_contact_x_mm": [
+    8.45,
+    298.45
+  ],
+  "ground_width_mm": 290,
+  "desk_range_x_mm": [
+    8.45,
+    298.45
+  ],
+  "PSU_bounds_mm": [
+    [
+      109.4,
+      51.92,
+      20
+    ],
+    [
+      195.4,
+      191.92,
+      170
+    ]
+  ],
+  "PSU_center_xy_mm": [
+    152.4,
+    121.92
+  ],
+  "PSU_fan": "+X toward CPU",
+  "GPU_fans": "-X toward second PCIe",
+  "approx_primary_slot_x_mm": 126.4,
+  "tail_support_removed": true,
+  "CPU_side_vertical": true,
+  "PCI_side_tapered_only": true,
+  "case_fans": {
+    "count": 2,
+    "size_mm": [
+      140,
+      140,
+      25
+    ],
+    "hole_pitch_mm": 124.5,
+    "airflow": "+Y front to rear",
+    "model": "unconfirmed"
+  },
+  "added_front_extent_mm": 50,
+  "timeline_features": 473,
+  "timeline_health": "healthy",
+  "printable_candidate_parts": [
+    "01_PCI_front_INSET_SIDE",
+    "01_PCI_rear_INSET_SIDE",
+    "01_CPU_front_VERTICAL_SIDE",
+    "01_CPU_rear_VERTICAL_SIDE",
+    "02_PCI_low_SEAM_PLATE",
+    "02_PCI_high_SEAM_PLATE",
+    "02_CPU_low_SEAM_PLATE",
+    "02_CPU_high_SEAM_PLATE",
+    "03_FRONT_MOTHERBOARD_BEAM",
+    "03_MID_MOTHERBOARD_BEAM",
+    "03_REAR_MOTHERBOARD_BEAM",
+    "04_front_GROUND_BAR_290mm",
+    "04_rear_GROUND_BAR_290mm",
+    "05_CENTERED_PSU_CRADLE",
+    "06_PCI_PSU_RETAINER",
+    "06_CPU_PSU_RETAINER",
+    "07_GPU_REAR_TOWER",
+    "08_GPU_REAR_SLIDER",
+    "09_FRONT_DUAL_FAN_CARRIER",
+    "10_GPU_140_FAN_MOUNT",
+    "10_CPU_140_FAN_MOUNT"
+  ]
+}

@@ -1,0 +1,25 @@
+# Local dependencies and generated caches; keep project/CAD/print artifacts.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+work/skill-validation-deps/
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak
+*.log
+
+# Machine-specific configuration and credentials.
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+*.pem
+*.key
+

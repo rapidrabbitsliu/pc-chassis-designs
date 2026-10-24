@@ -1,0 +1,27 @@
+{
+  "slicer": "Bambu Studio 02.07.01.62",
+  "parts": 19,
+  "plates": 13,
+  "all_sliced_in_gui": true,
+  "filament_g": 1014.88,
+  "estimated_total_minutes": 2850,
+  "support_g": 0,
+  "rounded_plate_minutes": [
+    289,
+    263,
+    271,
+    367,
+    207,
+    145,
+    209,
+    226,
+    273,
+    165,
+    205,
+    115,
+    115
+  ],
+  "print_sent": false,
+  "settings_verified": true,
+  "note": "Per-plate estimates are rounded by the slicer. Re-slice after reopen if Bambu requests it."
+}

@@ -1,0 +1,4601 @@
+{
+  "schema": 1,
+  "algorithm": "sha256",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 91,
+      "sha256": "9a81a52e9d5ab85405d37d2d78fcdaee767ce8f0bb9b74aea7f26d2b41573df2"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 337,
+      "sha256": "0c0128af831e77021feab57dac88bf5bc39ddeacb30a5bc4f15e893e20b4eb13"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 702,
+      "sha256": "6b70abda59ccd28acb5ae154f697973707799cdec4d5f31008ee5a7c0b0cf807"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4263,
+      "sha256": "41d68f41b2bd2bbe053ad5aba22f3f7e25efc8a1bec48b20a1d0317b72260fa5"
+    },
+    {
+      "path": "docs/其他电脑恢复项目.md",
+      "bytes": 4683,
+      "sha256": "adfc902e1b068c7393bc0737b5662196c71262fadeaa80321f25ae014d64b8e7"
+    },
+    {
+      "path": "docs/硬件尺寸与通用设计基准.md",
+      "bytes": 7914,
+      "sha256": "04e97adacd078b47d89ad196c8f00ce219c49d6300084b51e655e552cc3db3c2"
+    },
+    {
+      "path": "docs/风格1 桌面双层开放式机箱.md",
+      "bytes": 11778,
+      "sha256": "9f3c72aad0ad959252f8379f4a35797580961fd0f6b7b928c64eb93411c969a5"
+    },
+    {
+      "path": "docs/风格2 竖板前置显卡机架.md",
+      "bytes": 14874,
+      "sha256": "3c3a55446cdf6a6ca88cf1455c4a083d2a50fe8766d1d0fa9e692b23f2a20131"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01.zip",
+      "bytes": 2698950,
+      "sha256": "1ccb4f2cba72b19400e4d0e1242c8f69ec656943099d4f20cfccea3d8b042da4"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/ATX_Desk_v01.f3d",
+      "bytes": 1805754,
+      "sha256": "ddb3b774a18d920136d995d5450d87f2a789f14686f820657f1a231680fd4874"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/Build_ATX_Desk_v01.py",
+      "bytes": 13150,
+      "sha256": "133ebb71a98e926c11f1cf27e61f8de6df32126d820a31f2661333eb2d616ce6"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/PRINT_01_Side_L_front.stl",
+      "bytes": 45484,
+      "sha256": "5974968e8ff6cc3f206f230488e63533443310c752a1473c1248a5e56eb9b445"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/PRINT_01_Side_L_rear.stl",
+      "bytes": 54284,
+      "sha256": "19b200e582ed489b221fa1752db7b3aa62c39bdcf798901524d078f023e96aaa"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/PRINT_01_Side_R_front.stl",
+      "bytes": 45484,
+      "sha256": "1f656de7eb656305c2f93f9368e63f147cecd35b746b2c630814bc94afd3bc69"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/PRINT_01_Side_R_rear.stl",
+      "bytes": 54284,
+      "sha256": "4190b96f065cbb1a759db95a029a0a60a22e61f661125b33c743122329e35aa8"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/PRINT_02_Splice_L_high.stl",
+      "bytes": 31084,
+      "sha256": "e221c6f3a94a5bd2882a3715dad47017e4b1b40a30c2827c73d262eedd856f6c"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/PRINT_02_Splice_L_low.stl",
+      "bytes": 31084,
+      "sha256": "a21f8df1b66cfe0b71471b3b2513fabf57b60b26a0b5ddd0b715e01221e7014e"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/PRINT_02_Splice_R_high.stl",
+      "bytes": 31084,
+      "sha256": "53826debf8fed7267d9955c3398b32919503706165958376f2058595dfc3a910"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/PRINT_02_Splice_R_low.stl",
+      "bytes": 31084,
+      "sha256": "1bf56a8f065da65ce77ee1d269dc8822612bf103b21f2b155c3e36702643484b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/PRINT_03_BoardBeam_CPU.stl",
+      "bytes": 88684,
+      "sha256": "c00e4df601cffbb73cb97c81435d82df898801586e1859681eadc55d44764d62"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/PRINT_03_BoardBeam_MID.stl",
+      "bytes": 117484,
+      "sha256": "8500648f8d1d23743ffa79a2e9747f6b87d451d55f345739bd1f50dcef32ae24"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/PRINT_03_BoardBeam_PCI.stl",
+      "bytes": 88684,
+      "sha256": "9d455f785286b9aa4605bd3dcedf95fb13da5990cd780a50c3b5aa8b7a0ee8cd"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/PRINT_04_PSU_Shelf_front.stl",
+      "bytes": 35084,
+      "sha256": "e554b3e8ef911fc358cdf4f12b25f391cebaef88ad3112cd98067384a4cb1def"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/PRINT_04_PSU_Shelf_rear.stl",
+      "bytes": 35084,
+      "sha256": "88cc467695400e8bbb1a0c0f9387a2b07ecf8a5175906e4da4ba47b26a324e50"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/PRINT_05_PSU_Hoop_front.stl",
+      "bytes": 15884,
+      "sha256": "ef2e7107814eee765e139f3ca316c9338be4ed9e5621d617931420b3e39b2260"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/PRINT_05_PSU_Hoop_rear.stl",
+      "bytes": 15884,
+      "sha256": "1584dea989218cad0f2365724db829b0908b6290a90122bab89af4ee2286b740"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/PRINT_06_GPU_RearTower.stl",
+      "bytes": 47284,
+      "sha256": "4dc78358c266207e692a494f521136bdaabae18c7b9c36a8f4ab21d6574f7132"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/PRINT_07_GPU_RearSlider.stl",
+      "bytes": 24484,
+      "sha256": "291b5180e7e597c26268a30ed023c1e0330abaf9987ce11aef41995234bfd4e9"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/PRINT_08_GPU_SlidingNut.stl",
+      "bytes": 14684,
+      "sha256": "bf205ed0a72930aad2fdada06726ab9d33a8e64cb6f0024add94383b7043e537"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/PRINT_09_GPU_TailTower.stl",
+      "bytes": 46084,
+      "sha256": "745a5bed5d36281710ef602988fae0de28791356df32fe2dd50da330041ef393"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/PRINT_10_GPU_TailSlider.stl",
+      "bytes": 16284,
+      "sha256": "f666a3724e080123c1a2bf8ae66925a307c5f0c48c624aa3cb1016cfdd09adfc"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/PRINT_11_INSERT_FIT_FIRST.stl",
+      "bytes": 94284,
+      "sha256": "4f8cd01a021cdd8d60cb419627dae18a32d7b6f3ef70fc2e97286dbb307cd361"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/Preview.png",
+      "bytes": 590444,
+      "sha256": "f8e3a9575d7ce74315b98352dee2366acea5127b2ea86d3ede7da1db5b47fb3b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/README.txt",
+      "bytes": 8012,
+      "sha256": "ef3e1dd6e5c353d57b5bc3627bb5f696cff4fcf1243fa4857706ae015ec70dbb"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/geometry.json",
+      "bytes": 5511,
+      "sha256": "6d5087c0672ef6a8e8ddf9245c63fcbc17103e88133040d701bc9c67959bcd70"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/interference.json",
+      "bytes": 154,
+      "sha256": "274b5699892a783cc3248f86901f3e580f574250430844f0a7a7417ca44867ca"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/mesh_checks.json",
+      "bytes": 8359,
+      "sha256": "83887c957464ee260232867c7ff9511afd84bbb072822dd5d4d18f799078e840"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/raw_01_Side_L_front.stl",
+      "bytes": 45484,
+      "sha256": "955e0336efb5a736245d565e594e0689c427157997c91bcbe17853fa6e599828"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/raw_01_Side_L_rear.stl",
+      "bytes": 54284,
+      "sha256": "a621eed85f64f05b42cef844799a48f52dce11c1b69f00112f861ea91d689507"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/raw_01_Side_R_front.stl",
+      "bytes": 45484,
+      "sha256": "d0e77da2e9499f992bdcde40682c26da7f2022b9a6a2d05ee71674cd2a72edd4"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/raw_01_Side_R_rear.stl",
+      "bytes": 54284,
+      "sha256": "93c02af25510f28f214b1f69a36b0a438e7fc7825c89e15eeb31e74fc5e6b793"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/raw_02_Splice_L_high.stl",
+      "bytes": 31084,
+      "sha256": "d19903a12c3ec7db33291f1a260af5680831df1f48e2ca5e1f18a3c40f08ff62"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/raw_02_Splice_L_low.stl",
+      "bytes": 31084,
+      "sha256": "2a541e2c2cefbcbd5d3aa33ad52fc58deb5206eca13ab4481597be1db641fdfd"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/raw_02_Splice_R_high.stl",
+      "bytes": 31084,
+      "sha256": "0958a30b39710f7df56d362e39e084d6787e7dde76d828bb8cc04b0cce522485"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/raw_02_Splice_R_low.stl",
+      "bytes": 31084,
+      "sha256": "d979c0db5d814af29e9cbd2924e9dce76f8a4b5504a330fc1bd4738da6ef5db1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/raw_03_BoardBeam_CPU.stl",
+      "bytes": 88684,
+      "sha256": "e16d229cb436ec5e1b103e435f998535cb5ea19867c711fe2b974ba8bf5aa872"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/raw_03_BoardBeam_MID.stl",
+      "bytes": 117484,
+      "sha256": "34a1b56139cb932d6b92aba7b48dc23f8acc3261a825ea2dda52d47404f9f27c"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/raw_03_BoardBeam_PCI.stl",
+      "bytes": 88684,
+      "sha256": "e29e19019331b173735417c8630f03801b04f68321ba9a0d13305bbb1ad08979"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/raw_04_PSU_Shelf_front.stl",
+      "bytes": 35084,
+      "sha256": "ad4211a98cd27f20dbcb8d546e79ae10c2efded72ece3ae4d57d7c7c07f547f0"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/raw_04_PSU_Shelf_rear.stl",
+      "bytes": 35084,
+      "sha256": "a456c5b7e71bff898e6b5945ab63f3c25015d9ac9067d29d687143411e86dfee"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/raw_05_PSU_Hoop_front.stl",
+      "bytes": 15884,
+      "sha256": "9af623f4aa1e0923d783d767cb9b13ec22e091ca968babb7cb480086dd677abe"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/raw_05_PSU_Hoop_rear.stl",
+      "bytes": 15884,
+      "sha256": "22c9013b388da1abb42f67d2eda1603e6fc906f2935f6c2f37af384fd6d01496"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/raw_06_GPU_RearTower.stl",
+      "bytes": 47284,
+      "sha256": "fa67d0ff9f129de1d537711ba8182ca77c6841bc52c9e71469a4fb4a27b3d139"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/raw_07_GPU_RearSlider.stl",
+      "bytes": 24484,
+      "sha256": "f460180d204014cbf0925d63d7bf92ec331422f0235189cd011e5487b904974b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/raw_08_GPU_SlidingNut.stl",
+      "bytes": 14684,
+      "sha256": "07ccdb8d9e76b84b3613e08575b7e9fff1e70a0f91659c7b99fb1083ebeefcb4"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/raw_09_GPU_TailTower.stl",
+      "bytes": 46084,
+      "sha256": "3410daff815b02c3d01da6373b8dc21d42f27aafafa4a33caa66929bf5935429"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/raw_10_GPU_TailSlider.stl",
+      "bytes": 16284,
+      "sha256": "1a8f0eea0c60853d929dbceba66f3f30dc7dec039752fd2ce8338ef3cef38288"
+    },
+    {
+      "path": "outputs/ATX-Desk-v01/raw_11_INSERT_FIT_FIRST.stl",
+      "bytes": 94284,
+      "sha256": "6243bad828fe378e2d3939f7e2f5a265a159329a43c8f7d3bb92a0443a986031"
+    },
+    {
+      "path": "outputs/ATX-Desk-v02-preview.zip",
+      "bytes": 2311481,
+      "sha256": "124a05a9c0c066de34527d1579dedde9fa5314e850b279cfd451a60f1a6b52e2"
+    },
+    {
+      "path": "outputs/ATX-Desk-v02-preview/ATX_Desk_v02_layout.f3d",
+      "bytes": 1501521,
+      "sha256": "15dfb9397b104060489841e6cddf8a40b908e03df5fceb767c3ee3b31608b722"
+    },
+    {
+      "path": "outputs/ATX-Desk-v02-preview/Build_V02_Preview.py",
+      "bytes": 12337,
+      "sha256": "61e3878dcbb42da3217829c806f3702136fc38defeeaaca44f60538f2f45b860"
+    },
+    {
+      "path": "outputs/ATX-Desk-v02-preview/Perspective.png",
+      "bytes": 689774,
+      "sha256": "dbd938185c5bdace7ee0c885079d86a9de1e047a63e17a73c4b2f73912aac877"
+    },
+    {
+      "path": "outputs/ATX-Desk-v02-preview/README.txt",
+      "bytes": 2651,
+      "sha256": "da2d0cddfd093607977f41614c33f2acf95c4587c1e7dba93ab2dbdb3aaf3044"
+    },
+    {
+      "path": "outputs/ATX-Desk-v02-preview/Top.png",
+      "bytes": 141819,
+      "sha256": "9fbc17ab804905da01dbdfe14c884086ac75f9df1896ae5cd8e63a16431ec916"
+    },
+    {
+      "path": "outputs/ATX-Desk-v02-preview/interference.json",
+      "bytes": 178,
+      "sha256": "fb34f9d1e5855ab7ca77b7158392e87f24e1cb2d06cd21b7913a789fbd65c973"
+    },
+    {
+      "path": "outputs/ATX-Desk-v02-preview/layout.json",
+      "bytes": 1659,
+      "sha256": "a8684c597d6eb0951c1eafd726e4cfdede629ef051c2e36b7b1dea79081a652c"
+    },
+    {
+      "path": "outputs/ATX-Desk-v03-preview.zip",
+      "bytes": 2529694,
+      "sha256": "dbd36218bd4446eded98b8a35cb2a6bff40a264ab54bda590480b4a87a6e4769"
+    },
+    {
+      "path": "outputs/ATX-Desk-v03-preview/ATX_Desk_v03_layout.f3d",
+      "bytes": 1728292,
+      "sha256": "27d78db29110fb4dbc6d887f11b27cbfd8e3d1756624dbb76dc8d1de89607e47"
+    },
+    {
+      "path": "outputs/ATX-Desk-v03-preview/Base-front.png",
+      "bytes": 49264,
+      "sha256": "3eae0c3f015337c135cfc3fbe6e31ef0d87344868a8a6514f7a148924519d546"
+    },
+    {
+      "path": "outputs/ATX-Desk-v03-preview/Build_V03_Preview.py",
+      "bytes": 14529,
+      "sha256": "2eb74b975be98ba0a3372382931d7a3d6c4ddb73ef20db41061cb2f2c6e122af"
+    },
+    {
+      "path": "outputs/ATX-Desk-v03-preview/Perspective.png",
+      "bytes": 775818,
+      "sha256": "a9d8866d93f18ab63465b9216e9be013c9090af4752ecdd61c3346bb51192862"
+    },
+    {
+      "path": "outputs/ATX-Desk-v03-preview/README.txt",
+      "bytes": 3415,
+      "sha256": "c6b0c80d6b62cf220a443ae04ef2b64266610fc00f356caf915c0fd43bf2271b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v03-preview/interference.json",
+      "bytes": 173,
+      "sha256": "57a71d4930695c9058afabbebef8119ce9f581c67a4f8bab50f1b51c4980a74f"
+    },
+    {
+      "path": "outputs/ATX-Desk-v03-preview/layout.json",
+      "bytes": 2014,
+      "sha256": "e496c306fa0267475e8dded5aea3bfcd593c5c31ded009e2c8af1bf152df2dae"
+    },
+    {
+      "path": "outputs/ATX-Desk-v04-preview.zip",
+      "bytes": 4232301,
+      "sha256": "5ddca73ed9bb561e2b31c9eeba252aaa836dded55ebd5539a9fe6ce31dc780e1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v04-preview/ATX_Desk_v04_layout.f3d",
+      "bytes": 1842723,
+      "sha256": "751fdba42d1ead80c49a4766740333ec191fcde5aaf892ad6208327424ee8052"
+    },
+    {
+      "path": "outputs/ATX-Desk-v04-preview/Perspective.png",
+      "bytes": 703699,
+      "sha256": "efca2cdbb864f1f41c8222378fb538649c1660dc5e144ddd21313dd631322ec1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v04-preview/README.txt",
+      "bytes": 2164,
+      "sha256": "3e9aeebf39dbd16214fff3c873c076db323633eb5fa4c50eb1c50aa2030ceb81"
+    },
+    {
+      "path": "outputs/ATX-Desk-v04-preview/Sources/Add_Front_Cover.py",
+      "bytes": 6100,
+      "sha256": "0174a32c872c0494abd7f122e2bff94afca2d1128267ea3a8cfc3e27ee3f6525"
+    },
+    {
+      "path": "outputs/ATX-Desk-v04-preview/Sources/Base_v03.f3d",
+      "bytes": 1728292,
+      "sha256": "27d78db29110fb4dbc6d887f11b27cbfd8e3d1756624dbb76dc8d1de89607e47"
+    },
+    {
+      "path": "outputs/ATX-Desk-v04-preview/cover.json",
+      "bytes": 986,
+      "sha256": "a61451dfb44648c3abc52f79db8ed40bddb4b96a98eed171824f2f7854b099e4"
+    },
+    {
+      "path": "outputs/ATX-Desk-v04-preview/interference.json",
+      "bytes": 42,
+      "sha256": "1ee4a01e9742ebd247f64e832e89a6c6ae745b13bee5302f4e0ef27bc75feaa1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v04-preview/layout.json",
+      "bytes": 3112,
+      "sha256": "cca6b67842b804693ff01e94215d0fc4ddb64492482f2f24fd21e13d177a1063"
+    },
+    {
+      "path": "outputs/ATX-Desk-v05-preview.zip",
+      "bytes": 5193118,
+      "sha256": "1ae27dabd249b7f364aed70415316c42d6bc110106ae72a55e1577b1d6ec60af"
+    },
+    {
+      "path": "outputs/ATX-Desk-v05-preview/ATX_Desk_v05_layout.f3d",
+      "bytes": 1896257,
+      "sha256": "411f040f915812481de2e3b34725fefe10fe0d97d5f7602223e0f9b57d817914"
+    },
+    {
+      "path": "outputs/ATX-Desk-v05-preview/Internal.png",
+      "bytes": 798205,
+      "sha256": "9db2a0eb45c65b575f133a2a3ed23fe5af687bbf6b9053d0614db226e1faf25d"
+    },
+    {
+      "path": "outputs/ATX-Desk-v05-preview/Perspective.png",
+      "bytes": 706259,
+      "sha256": "c7f1798afc8722c1f398398910a345a1af0767337862ee8c24c39a38aebdf725"
+    },
+    {
+      "path": "outputs/ATX-Desk-v05-preview/README.txt",
+      "bytes": 641,
+      "sha256": "c5224f1c91dc7a57c637de3f926630f8ff81734c7045d08c9fe2861c0db9684d"
+    },
+    {
+      "path": "outputs/ATX-Desk-v05-preview/Sources/Base_v04.f3d",
+      "bytes": 1842723,
+      "sha256": "751fdba42d1ead80c49a4766740333ec191fcde5aaf892ad6208327424ee8052"
+    },
+    {
+      "path": "outputs/ATX-Desk-v05-preview/Sources/Build_V05.py",
+      "bytes": 8176,
+      "sha256": "5fc4cea8c246e99402dbdbb0b9a49a46dc9a517ce18d59682448a2d69b480d19"
+    },
+    {
+      "path": "outputs/ATX-Desk-v05-preview/interference.json",
+      "bytes": 42,
+      "sha256": "1ee4a01e9742ebd247f64e832e89a6c6ae745b13bee5302f4e0ef27bc75feaa1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v05-preview/layout.json",
+      "bytes": 871,
+      "sha256": "2974bfe6a3dda5fece4e3b88d4f571e2b0a036cf92ec484005d6e5827863093b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v06-preview.zip",
+      "bytes": 5319464,
+      "sha256": "ae6af51cdf75d5fd04a36920a20a00a390ddd2974770c5de20c569cad62a525b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v06-preview/ATX_Desk_v06_layout.f3d",
+      "bytes": 1807343,
+      "sha256": "e141cfad24f84daa284546455aa011177abdace343dd38945ca6440c9aa23edf"
+    },
+    {
+      "path": "outputs/ATX-Desk-v06-preview/Perspective.png",
+      "bytes": 786298,
+      "sha256": "5c21b969cbc7717218d4be0888dd0ef181036193900cde800359ecadc92ee777"
+    },
+    {
+      "path": "outputs/ATX-Desk-v06-preview/README.txt",
+      "bytes": 770,
+      "sha256": "0ce5973ce55b1cb818a98d695ced9efbbda23321cfe2bf591be047652f4fa2e1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v06-preview/Rear.png",
+      "bytes": 876379,
+      "sha256": "ce9761b8bf683752d052c1e64152fa8a5108c9dff262c3c916edd5206ae1cd01"
+    },
+    {
+      "path": "outputs/ATX-Desk-v06-preview/Sources/Base_v05.f3d",
+      "bytes": 1896257,
+      "sha256": "411f040f915812481de2e3b34725fefe10fe0d97d5f7602223e0f9b57d817914"
+    },
+    {
+      "path": "outputs/ATX-Desk-v06-preview/Sources/Build_V06.py",
+      "bytes": 7176,
+      "sha256": "f5064e08472eb4ea43c53ec12303905a1c391cba537b4224d3680af19d5c87ce"
+    },
+    {
+      "path": "outputs/ATX-Desk-v06-preview/interference.json",
+      "bytes": 42,
+      "sha256": "1ee4a01e9742ebd247f64e832e89a6c6ae745b13bee5302f4e0ef27bc75feaa1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v06-preview/layout.json",
+      "bytes": 429,
+      "sha256": "ab0e4a7d39c5d0da516f816c3672deae4cb1987dea9e04dd0784284fbcfe8851"
+    },
+    {
+      "path": "outputs/ATX-Desk-v07-preview.zip",
+      "bytes": 4700320,
+      "sha256": "8fb6e201994d4767ea802ebbe48a056a1a599a503d08a640e5e1d68853b3cade"
+    },
+    {
+      "path": "outputs/ATX-Desk-v07-preview/ATX_Desk_v07_layout.f3d",
+      "bytes": 1949470,
+      "sha256": "71cf576ccc78e50c7a89bffce37b80f9a3d44a71e0b5fa254d6a484d6bcae575"
+    },
+    {
+      "path": "outputs/ATX-Desk-v07-preview/Bracket_detail.png",
+      "bytes": 148770,
+      "sha256": "caa5383bc486bc5dab751ef9fcb3efa9b446abd336916b4d76f9d9cb61639cd0"
+    },
+    {
+      "path": "outputs/ATX-Desk-v07-preview/README.txt",
+      "bytes": 1248,
+      "sha256": "fef07ca62a638322d9df5f1fc8d3620aa2d4601ded825d27f2e28d90f58da421"
+    },
+    {
+      "path": "outputs/ATX-Desk-v07-preview/Rear.png",
+      "bytes": 842891,
+      "sha256": "19cfba52da0e3bc42c762918b0c64e9eeaa9b9b8dedbe1bd917040aed40ae5d4"
+    },
+    {
+      "path": "outputs/ATX-Desk-v07-preview/Sources/Base_v06.f3d",
+      "bytes": 1807343,
+      "sha256": "e141cfad24f84daa284546455aa011177abdace343dd38945ca6440c9aa23edf"
+    },
+    {
+      "path": "outputs/ATX-Desk-v07-preview/Sources/Build_V07.py",
+      "bytes": 8481,
+      "sha256": "cd970574e4bcc20f18230bb199144f2d2ce275d72294b8d2c3af1cffc9e0f6d8"
+    },
+    {
+      "path": "outputs/ATX-Desk-v07-preview/interference.json",
+      "bytes": 42,
+      "sha256": "1ee4a01e9742ebd247f64e832e89a6c6ae745b13bee5302f4e0ef27bc75feaa1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v07-preview/layout.json",
+      "bytes": 755,
+      "sha256": "fe327ba31c9df5aa8d15b8e9f6f08e99622c89945e98ca9b176ba1155462b1a1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v08-preview.zip",
+      "bytes": 5437634,
+      "sha256": "bfad44d5edfc67726d2fc95dd948c371798c8bb1c2b98c025253eec8fd58edca"
+    },
+    {
+      "path": "outputs/ATX-Desk-v08-preview/ATX_Desk_v08_layout.f3d",
+      "bytes": 1967037,
+      "sha256": "6b384746f7a9a145a039aa5da03df2063be82d6f7b420e51afdeca99a2db58a8"
+    },
+    {
+      "path": "outputs/ATX-Desk-v08-preview/Perspective.png",
+      "bytes": 753487,
+      "sha256": "8fd6d43d6f1cfb1a29bafc56ad1993101d8025412df7a254009f268f79d03226"
+    },
+    {
+      "path": "outputs/ATX-Desk-v08-preview/README.txt",
+      "bytes": 978,
+      "sha256": "0a9c4a5551197e537233c1bcec89ab79fe617401b83b7a190321855c2224de6d"
+    },
+    {
+      "path": "outputs/ATX-Desk-v08-preview/Rear.png",
+      "bytes": 812770,
+      "sha256": "7ddd2a77fae962c83fc342f84932b0d92ea66a110bcafd4082eb068a796134a0"
+    },
+    {
+      "path": "outputs/ATX-Desk-v08-preview/Sources/Base_v07.f3d",
+      "bytes": 1949470,
+      "sha256": "71cf576ccc78e50c7a89bffce37b80f9a3d44a71e0b5fa254d6a484d6bcae575"
+    },
+    {
+      "path": "outputs/ATX-Desk-v08-preview/Sources/Build_V08.py",
+      "bytes": 7256,
+      "sha256": "e8ed5091464d9baa7cf42c6beda0adbf4366c89bf4e217c355f8655932059a91"
+    },
+    {
+      "path": "outputs/ATX-Desk-v08-preview/interference.json",
+      "bytes": 42,
+      "sha256": "1ee4a01e9742ebd247f64e832e89a6c6ae745b13bee5302f4e0ef27bc75feaa1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v08-preview/layout.json",
+      "bytes": 692,
+      "sha256": "13cb1ad7e4ff00ef3030ef119e17000c0dc0ab1a0f88390b5d387baae7c6c519"
+    },
+    {
+      "path": "outputs/ATX-Desk-v09-preview.zip",
+      "bytes": 5487320,
+      "sha256": "c77d5a7b6cba600499dba7b842931be1e80da75a7e7f5784e1ca5349ddf993c7"
+    },
+    {
+      "path": "outputs/ATX-Desk-v09-preview/ATX_Desk_v09_layout.f3d",
+      "bytes": 1993596,
+      "sha256": "4897f30a1b1a54e69a7e38d7e0460c9f6532a78f692a6dda5d5a055e28ac4f1e"
+    },
+    {
+      "path": "outputs/ATX-Desk-v09-preview/Perspective.png",
+      "bytes": 781969,
+      "sha256": "b8ccf2b729622fe3bdd25cd9fef3d81b23b106e45133f50b3e7e677a834eb3c6"
+    },
+    {
+      "path": "outputs/ATX-Desk-v09-preview/README.txt",
+      "bytes": 960,
+      "sha256": "773a2bc2ff76bd92a26958f904b91c216e308acab0dd05969fc5a275cacca88c"
+    },
+    {
+      "path": "outputs/ATX-Desk-v09-preview/Rear.png",
+      "bytes": 805962,
+      "sha256": "b20eeb4593cdf8bb9f5dcefce216d2c53900b333567130dd9f7e31bd72516a09"
+    },
+    {
+      "path": "outputs/ATX-Desk-v09-preview/Sources/Base_v07.f3d",
+      "bytes": 1949470,
+      "sha256": "71cf576ccc78e50c7a89bffce37b80f9a3d44a71e0b5fa254d6a484d6bcae575"
+    },
+    {
+      "path": "outputs/ATX-Desk-v09-preview/Sources/Build_V09.py",
+      "bytes": 7082,
+      "sha256": "e77a5cfefd983a531590755d4acf3f0097a868cbfb6f2efc71bb7b9c73e0fcc2"
+    },
+    {
+      "path": "outputs/ATX-Desk-v09-preview/interference.json",
+      "bytes": 42,
+      "sha256": "1ee4a01e9742ebd247f64e832e89a6c6ae745b13bee5302f4e0ef27bc75feaa1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v09-preview/layout.json",
+      "bytes": 528,
+      "sha256": "2e60a2e16686ccd7ad445f9f121d7c45e14d662dd89a5d688413eddacffc7e99"
+    },
+    {
+      "path": "outputs/ATX-Desk-v10-preview.zip",
+      "bytes": 4944259,
+      "sha256": "e8820d24fbdb49931590fc8138d188252b18905480d732fc999cefb14cf9f4f1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v10-preview/ATX_Desk_v10_layout.f3d",
+      "bytes": 2036607,
+      "sha256": "df65f139693a1a649b3ff4e918be8e5a9de26a293a5eff4cfc63ff3027e2437b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v10-preview/Front.png",
+      "bytes": 177474,
+      "sha256": "2fe4ca7920a2353de303630c736f952bd7974719076afe0a854da30fa9a3e76b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v10-preview/Perspective.png",
+      "bytes": 779714,
+      "sha256": "8a4b9502efd70d949d285e75c91ba0b786d358d4c28a6264ec5877adfb8ff844"
+    },
+    {
+      "path": "outputs/ATX-Desk-v10-preview/README.txt",
+      "bytes": 710,
+      "sha256": "01b2539cc8df97ed7d0222e391bc5a4212a3ef94646acbf9cd02335544b94aa3"
+    },
+    {
+      "path": "outputs/ATX-Desk-v10-preview/Sources/Base_v09.f3d",
+      "bytes": 1993596,
+      "sha256": "4897f30a1b1a54e69a7e38d7e0460c9f6532a78f692a6dda5d5a055e28ac4f1e"
+    },
+    {
+      "path": "outputs/ATX-Desk-v10-preview/Sources/Build_V10.py",
+      "bytes": 7283,
+      "sha256": "263c499565f9c49eea81e6fbfddc95b52ac911f43564a698680bde17084d9094"
+    },
+    {
+      "path": "outputs/ATX-Desk-v10-preview/interference.json",
+      "bytes": 42,
+      "sha256": "1ee4a01e9742ebd247f64e832e89a6c6ae745b13bee5302f4e0ef27bc75feaa1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v10-preview/layout.json",
+      "bytes": 463,
+      "sha256": "132ad98f08d9e6b33d8bd2e2bcd9b714bbc6e978b82283a07057d13a724bdfe4"
+    },
+    {
+      "path": "outputs/ATX-Desk-v11-preview.zip",
+      "bytes": 5029021,
+      "sha256": "01a5b618a3f2afcf752f00501e8d6bc548609ed8758919d06225e3dc825e9762"
+    },
+    {
+      "path": "outputs/ATX-Desk-v11-preview/ATX_Desk_v11_layout.f3d",
+      "bytes": 2031361,
+      "sha256": "ca302b7ad211f209199c1ee65771eaa4df4756453c567aa1b24403efbe9b89b2"
+    },
+    {
+      "path": "outputs/ATX-Desk-v11-preview/Joint_detail.png",
+      "bytes": 269699,
+      "sha256": "126f73e2d85c24d868b7df93b902a2907c21193591d8f596844b26bac67adbbc"
+    },
+    {
+      "path": "outputs/ATX-Desk-v11-preview/README.txt",
+      "bytes": 1191,
+      "sha256": "d9bc28a3375dcd3469c6aaf8d401102480cd53b848e4856eca71bcddec913939"
+    },
+    {
+      "path": "outputs/ATX-Desk-v11-preview/Rear.png",
+      "bytes": 736626,
+      "sha256": "b071b8e0f250fbf38be2c80ce13cf72aa75abd27ddebe8f64b63992dcaf46a4f"
+    },
+    {
+      "path": "outputs/ATX-Desk-v11-preview/Sources/Base_v10.f3d",
+      "bytes": 2036607,
+      "sha256": "df65f139693a1a649b3ff4e918be8e5a9de26a293a5eff4cfc63ff3027e2437b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v11-preview/Sources/Build_V11.py",
+      "bytes": 7438,
+      "sha256": "0edcb4c1a6fc919be55304f9aa7c37186615b5a6eee1934a4aaf46999058fc83"
+    },
+    {
+      "path": "outputs/ATX-Desk-v11-preview/contacts.json",
+      "bytes": 582,
+      "sha256": "78bde9d34a1c450dfba03d329ab8ef88180c358403c54dc6267a039ee9b7dde7"
+    },
+    {
+      "path": "outputs/ATX-Desk-v11-preview/interference.json",
+      "bytes": 42,
+      "sha256": "1ee4a01e9742ebd247f64e832e89a6c6ae745b13bee5302f4e0ef27bc75feaa1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v11-preview/layout.json",
+      "bytes": 620,
+      "sha256": "706bc751b711a2e006eaadc2271deb380445a9bc870c15f7e5b98bbac6579e96"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-All-Parts-10-Plates.3mf",
+      "bytes": 259823,
+      "sha256": "7fa329bc9a503903405c22418fea679348022dabecf2e0471b0fa2308e1a6b4f"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-MultiPlate.3mf",
+      "bytes": 98912,
+      "sha256": "b73359424daa07d6cfd2ded6aa513a8ef1c28356fe3b83499b656ec8750e8762"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-STL-only.zip",
+      "bytes": 80646,
+      "sha256": "9f0e80b154e37dd94dc7aa6dcee716367973db50fbcc257ece60e904f804e49d"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-plate-checks.json",
+      "bytes": 6248,
+      "sha256": "fc9c4340c9f8b7af5311fdb3a8aea87b3d6a9a85f7f4f59df0f331f6af412385"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-plate-list.csv",
+      "bytes": 2075,
+      "sha256": "c104dae43b054acc04f433401543f5386a021fa7dcb3af132bea64677027f30d"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-plate-template.3mf",
+      "bytes": 33115,
+      "sha256": "73d0d220937353d72653a3d4bbe1e5593fa72736b34d9859597c81ee7a072362"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review.zip",
+      "bytes": 5643319,
+      "sha256": "63ddc840ece7c33320b0f2cd403d14374c82ddaf24a2ba6f31b4f0766f2ba4f5"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/ATX_Desk_v12_print_review.f3d",
+      "bytes": 2067513,
+      "sha256": "e8aea767198b3e00c0a0adbbea6366efaa19fc1da87c33475fb228915653e08b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/PRINT_STL/04_front_GROUND_BAR_290mm_FLAT_PSU.stl",
+      "bytes": 684,
+      "sha256": "f9e66de5aa6eaaeb74cde3401326fa4ddc3aee441cc991865c5fdb5123b562d1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/PRINT_STL/04_rear_GROUND_BAR_290mm_FLAT_PSU.stl",
+      "bytes": 684,
+      "sha256": "e9a6e5f281b91231c88b5bf45fc5f153614b98844df955bdc741a3fcb1c87c04"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/PRINT_STL/05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE.stl",
+      "bytes": 10484,
+      "sha256": "90b6c15b206f2fb65c1eb10bd72f439235a10c7b1b9b6c28f195adb53ef30bf0"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/PRINT_STL/07_GPU_REINFORCED_REAR_TOWER.stl",
+      "bytes": 41684,
+      "sha256": "cff3c20fcb8e5fd3bd7d1c47a980925794b994493d63bfde50eff9948c408c09"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/PRINT_STL/08_GPU_LOWER_TWO_TAB_RECEIVER_ADJUSTABLE.stl",
+      "bytes": 13484,
+      "sha256": "72bbf1024c49eb5406633b27eb33f62b3d52decb7112ad1113567f762da66678"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/PRINT_STL/08_GPU_UPPER_EAR_LEDGE_ADJUSTABLE.stl",
+      "bytes": 22884,
+      "sha256": "d3d044003deac2b8de9725c9b49499b4a6161911797fb4a71bda8b4142b19702"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/PRINT_STL/10_CPU_140_FAN_MOUNT.stl",
+      "bytes": 41284,
+      "sha256": "2907202e7741f2c222dad38f25272399e7fb7eba72b1a3afb60f4957359c1abd"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/PRINT_STL/10_GPU_140_FAN_MOUNT.stl",
+      "bytes": 41284,
+      "sha256": "0420e23c9807d0f9bcc49eeff94a4c1bcbf8c1653e1da611b2a8ee271077b33b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/PRINT_STL/12_front_CPU_SUPPORT_FRAME.stl",
+      "bytes": 11884,
+      "sha256": "73e37598cc188650b3787745b12365ceee8e7e76912a1d2b74aa5113e11b5b81"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/PRINT_STL/12_front_PCI_SUPPORT_FRAME.stl",
+      "bytes": 16684,
+      "sha256": "f9596735ec8eca87b851abea1cb2780ca677e430dd8c180e0de87a4dd2c531d9"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/PRINT_STL/16_CPU_VERTICAL_SIDE_FLUSH_TO_BEAM.stl",
+      "bytes": 16684,
+      "sha256": "d520288ec58c9534cb545916109227ee19345c70684465203ca7b5ca73d4a299"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/PRINT_STL/16_PCI_INSET_SIDE_16_45mm.stl",
+      "bytes": 16684,
+      "sha256": "0a260ef86a01343b9515b9ac61c6eb81a33ec2cdf49223707ac15de00a82afb6"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/PRINT_STL/18_REAR_BEAM_CPU_END_AND_REAR_LAP.stl",
+      "bytes": 22484,
+      "sha256": "b405913a69e3e5a5ce4ea77ac56fc4fb891680fedaa3ce64bcc28b3f41ee85a6"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/PRINT_STL/18_REAR_BEAM_PCI_TAPERED_END_AND_FRONT_LAP.stl",
+      "bytes": 45484,
+      "sha256": "e196b5f57712046bd7d69b982cc323d3c248ca1e3e58e7c056098a5f7aa78310"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/PRINT_STL/19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 39484,
+      "sha256": "2d7c243a1a8366968c135abb045345c0c36536494914412fc6a3a22fb8262a91"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/PRINT_STL/19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 41084,
+      "sha256": "b702a913266c035c34fee57032102b1250acbbc4321cfff1731d3cf4493bcd7f"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/PRINT_STL/19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 39484,
+      "sha256": "ac00fe1437d6cd85ff51e10627d00702da90dbdd103aed3bb0222262e97a92d1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/PRINT_STL/20_CPU_INDEPENDENT_FAN_SHOE_140mm.stl",
+      "bytes": 17484,
+      "sha256": "ffa48a0894ad337c93d5f760cd5fe50f2b4d677d0e88a73d40bc339bb4a9301e"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/PRINT_STL/20_GPU_INDEPENDENT_FAN_SHOE_140mm.stl",
+      "bytes": 17484,
+      "sha256": "25d93b3413034091655492bd51ef8e9f52406cde7d497b1c271174404f3c88a1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/Perspective.png",
+      "bytes": 758172,
+      "sha256": "9fbecab3b6ca8041f9f80f9e01fa41b153aebe28eb583f6f12d77fdfd0228992"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/README.txt",
+      "bytes": 2192,
+      "sha256": "0e645b0174cd42a82df4ed344a11e99935eb744b532b53aaf7540be999e202d3"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/Raw_STL/04_front_GROUND_BAR_290mm_FLAT_PSU.stl",
+      "bytes": 684,
+      "sha256": "facd96b2955ba44b8ab208ba35f5073910e51841239d6aaedadedee4ab858473"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/Raw_STL/04_rear_GROUND_BAR_290mm_FLAT_PSU.stl",
+      "bytes": 684,
+      "sha256": "9b9566db90faa22beedef142aefb457d5e73a18fc045a44594b3f2dab99d1127"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/Raw_STL/05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE.stl",
+      "bytes": 10484,
+      "sha256": "0014dc02de3de7ab923b42e02583d248ff66b50ea90ac4396fdb05d797f30eef"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/Raw_STL/07_GPU_REINFORCED_REAR_TOWER.stl",
+      "bytes": 41684,
+      "sha256": "823a1dd90a172b177657796fb0ac8fd57f468fcb568989be1c3cf342442646e0"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/Raw_STL/08_GPU_LOWER_TWO_TAB_RECEIVER_ADJUSTABLE.stl",
+      "bytes": 13484,
+      "sha256": "0c1408c0a51cc791b28f4e7f825eabfc4c7cf29005547208d009b41158a226be"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/Raw_STL/08_GPU_UPPER_EAR_LEDGE_ADJUSTABLE.stl",
+      "bytes": 22884,
+      "sha256": "8980f096406a388680dedd967ea243a617748ab0450fd4cf7f78d8aedbe90194"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/Raw_STL/10_CPU_140_FAN_MOUNT.stl",
+      "bytes": 41284,
+      "sha256": "acdd5d351945c2e716d4b1f5bb06aeb6f65967b10460bc9a7f0a8b96af28eea0"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/Raw_STL/10_GPU_140_FAN_MOUNT.stl",
+      "bytes": 41284,
+      "sha256": "7019d33a9aae815496097d2d897f618c9ffd44ef9bf619bfa1c5cb3bc4c78909"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/Raw_STL/12_front_CPU_SUPPORT_FRAME.stl",
+      "bytes": 11884,
+      "sha256": "840df9db6f3f312201b93c87423235161e254e63a1974eadf363f2c7120344fd"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/Raw_STL/12_front_PCI_SUPPORT_FRAME.stl",
+      "bytes": 16684,
+      "sha256": "c881bc8323ed950b216f6d738f7d22abcc1a891d8417c4c9e423039b3f54172b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/Raw_STL/16_CPU_VERTICAL_SIDE_FLUSH_TO_BEAM.stl",
+      "bytes": 16684,
+      "sha256": "ba02094a0df6d8393a90ea194da85fb05d429c0eac9b6b167288bceb9a4355fe"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/Raw_STL/16_PCI_INSET_SIDE_16_45mm.stl",
+      "bytes": 16684,
+      "sha256": "f49018fb177897b3936b694471b7e7bba0517ede66344485ce3e82feba592f66"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/Raw_STL/18_REAR_BEAM_CPU_END_AND_REAR_LAP.stl",
+      "bytes": 22484,
+      "sha256": "4075bc10372eb045ecd98358cc68806600c2fde535c6d81624718b4eaf6ecc04"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/Raw_STL/18_REAR_BEAM_PCI_TAPERED_END_AND_FRONT_LAP.stl",
+      "bytes": 45484,
+      "sha256": "bb12271b3a3a04b4c6bb277adace29c47dbe28eb0a492c3b9970e5388e83c5ae"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/Raw_STL/19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 39484,
+      "sha256": "eadf85951aa15a029190983a696d1d10959278e51b78582decf94303e29c9284"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/Raw_STL/19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 41084,
+      "sha256": "53c52e6fdeefbe0c936180aacb8deaea1afdb241dc932aa430153a32f060cc02"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/Raw_STL/19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 39484,
+      "sha256": "b854679d94455466a91c7666d3c119fea6c20b3b2df09f548ac7ffeb76ba8de7"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/Raw_STL/20_CPU_INDEPENDENT_FAN_SHOE_140mm.stl",
+      "bytes": 17484,
+      "sha256": "46f93deb62982e05ad318957fe2a924d0c3a57adafe754899e29751df097440e"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/Raw_STL/20_GPU_INDEPENDENT_FAN_SHOE_140mm.stl",
+      "bytes": 17484,
+      "sha256": "10a918e47d0d8279ba1a99ff9fd1924da0ad6ca29483db7790203f0aba097267"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/Sources/Base_v11.f3d",
+      "bytes": 2031361,
+      "sha256": "ca302b7ad211f209199c1ee65771eaa4df4756453c567aa1b24403efbe9b89b2"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/Sources/Build_V12.py",
+      "bytes": 9653,
+      "sha256": "77d7cb26f6c45af2a22b1457ed1978ccefff518c5420f7dab22e47dc2571c332"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/Sources/Verify_Print_Meshes.py",
+      "bytes": 3699,
+      "sha256": "7e8ed9bd9c173cf45d56a2a1f2cb69e718bd1daf777c0e75144b5a60f52a8923"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/Structure.png",
+      "bytes": 662984,
+      "sha256": "b0d2ddb156e1f5076ee4107648a939fc959a842b9a6ebf1c2e8b1f9980bb6a66"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/contacts.json",
+      "bytes": 1044,
+      "sha256": "524a4ac7010ec0206af2ff8301e75e63402171e2f081e493b3af6dd2b59cd624"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/interference.json",
+      "bytes": 42,
+      "sha256": "1ee4a01e9742ebd247f64e832e89a6c6ae745b13bee5302f4e0ef27bc75feaa1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/parts.json",
+      "bytes": 5898,
+      "sha256": "f443243a264a71a7a2c483d6ebfc86fbd9a767ac8cf1a1146e6b2a669e0efcdf"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/print_checks.json",
+      "bytes": 8757,
+      "sha256": "76c36599aa20ed814a8d210e7d775ebab4363c18c71f4afcc352277c706613b3"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-print-review/print_parts.csv",
+      "bytes": 2148,
+      "sha256": "675d175a790e6d0bc5498915aa28a8e0e52855ccebe3fcf29dad5b6e88c0ff5c"
+    },
+    {
+      "path": "outputs/ATX-Desk-v12-printing-notes.txt",
+      "bytes": 846,
+      "sha256": "6eae52299007bfc17d8eff08365094c09c13544058fb7a186352b5aa08b99c68"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13-STL-only.zip",
+      "bytes": 140714,
+      "sha256": "365ecd0f202c34a8cdbc366939fff2d9acea80f0b1e425ff400098603ac85980"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13-complete.zip",
+      "bytes": 16324610,
+      "sha256": "61819274885517b7cda909ab1cfc3d40419d139b06c1466866b034bf368067e3"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/ATX-Desk-v13-All-Parts-9-Plates.3mf",
+      "bytes": 344045,
+      "sha256": "450682a98f3c3d000fcc28f04bd01a1a32f62dfa273db33f2eef4c1c27d8b064"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/ATX-Desk-v13-Arranged.3mf",
+      "bytes": 157967,
+      "sha256": "dbeb4c1e827a7c51d8ac79546d56ef02f4217d510fd42170e6a7c7a529669e93"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/ATX_Desk_v13_one_piece.f3d",
+      "bytes": 2470160,
+      "sha256": "1c1ea372da50756140f95dd6b5ec54d0b8e9b5c809de3a851b727a62b7e98d70"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Assembly.png",
+      "bytes": 850087,
+      "sha256": "761c748d42b8a74ade165c533fb41119aa571f635d346ea5e8f17d3febcd239e"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/N01.png",
+      "bytes": 31661,
+      "sha256": "e743e94b29a20cc542d6765562ff3c2ca6de621bd8a387baa5697c90526841b6"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/N02.png",
+      "bytes": 27499,
+      "sha256": "4e90802b492de20c9c5b831c53931de6de8c9760aae615ebabe4cbd34315991f"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/N03.png",
+      "bytes": 28870,
+      "sha256": "0695af65eed463817ec4d64588798f49ec6b23e332541217deaa9ceab2907613"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/N04.png",
+      "bytes": 31603,
+      "sha256": "788ea3347002120d45767999dd727e2a91a55810a0420d6b84bb1a851197ab57"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/N05.png",
+      "bytes": 31862,
+      "sha256": "96e7011ed14053a31bbb66303c7ccdfe0410999d57810e654398e515338106ec"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/N06.png",
+      "bytes": 26825,
+      "sha256": "f7951129c009be701a7ef21c44a93da81a49a0fc25b8c8ec77dab774d55c04eb"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/N07.png",
+      "bytes": 28018,
+      "sha256": "9840adf8670a8f93b1889b2c5abd6fefbfa6d9931efe74e65f73ed49545f5e1c"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/N08.png",
+      "bytes": 32431,
+      "sha256": "1df93ff4f06ff0e8800dca01a044b3dbfeb39dc0ac021086bfa4bcc3d91dcfe6"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/N09.png",
+      "bytes": 28504,
+      "sha256": "ecd999bd38078c75e3d980654b6fc33038cbdf2277678ba21ebc99c22467c143"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/N10.png",
+      "bytes": 28293,
+      "sha256": "285533e9cd3a5f29da09533d1a94a4c1d48e614e68987f16af1aeae1f12103d5"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/N11.png",
+      "bytes": 31369,
+      "sha256": "f622c9a7a67c2ffe6bac32929200f3270b48bde07e2be631689ad98e41015ba4"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/N12.png",
+      "bytes": 29470,
+      "sha256": "49547f48db032252cea00f4d966c7251a982960deb4c579e144c48552d179ef2"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/N13.png",
+      "bytes": 31939,
+      "sha256": "8acd82b559509e676fbb07bfed47c02e09ee4e4f7114b9523b21baa44cbe9849"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/N14.png",
+      "bytes": 31375,
+      "sha256": "93204c11f05f2ca0acfce281a7b31d4e6757c7ce0983fdd008ef7e3d3be792d5"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/N15.png",
+      "bytes": 32042,
+      "sha256": "8a10bfd79043e3a59f51e8b84cae29bc3b6ed8d863216df21e249f4f8a476709"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/N16.png",
+      "bytes": 31421,
+      "sha256": "480a27edafe09a756f9b038231c48b4349fa40a3d0cad9ef9fa1c01e5d2482ce"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/N17.png",
+      "bytes": 30640,
+      "sha256": "ee10178fa46ab05653b0c1155798ef6cd90c4b00091f1992f5b3059b91ce3c28"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/N18.png",
+      "bytes": 30401,
+      "sha256": "610b6421e60aefe969a4043c330b19827945afdd982f215ab2917dbdcc5efa79"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/N19.png",
+      "bytes": 33748,
+      "sha256": "094a8617292ed8f842ceb8f7ed3ef823210c2d9e7dc3974758da5f03c56d8e04"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/N20.png",
+      "bytes": 30427,
+      "sha256": "179be93dbef399454c64ceb422746905a39693acbf7762b1a1df7c9a4e496644"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/N21.png",
+      "bytes": 30638,
+      "sha256": "85a4752226e79d80de1034b4110d65cc1157ecae8bd9b7eb78f1b6dab152576a"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/P01.png",
+      "bytes": 25840,
+      "sha256": "bd73901b1cf88ef37dd283669d4bb02bec72e377a410719bf624a5d76b135d7e"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/P02.png",
+      "bytes": 23396,
+      "sha256": "4c287718b64ed1a587e74792db4104d7ac078a231d94ebe2c2c7510aa26957d2"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/P03.png",
+      "bytes": 22806,
+      "sha256": "95881946602ccd73aacaae9a330f53c0aeb1df3c3f0a3a9c8b46c50cbccf1dbf"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/P04.png",
+      "bytes": 22493,
+      "sha256": "dd5da5eb46565539f1632478ef6b137bf8f8a71b6ba465c30cabb0c05cde1c24"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/P05.png",
+      "bytes": 25588,
+      "sha256": "2ea804811f7715926cddc3a6ff60c8c6ae9ed1e237758bfcf6033693f4987c08"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/P06.png",
+      "bytes": 24234,
+      "sha256": "8085eee4add4f11cbccf81adb7d2f08047b3eaef8d6cbdb06ead6b0b28394634"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/P07.png",
+      "bytes": 23946,
+      "sha256": "72f8995143e3d5d57830a75ec1f6acf340deb1e81e4adf713472079a2093e92f"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/P08.png",
+      "bytes": 28804,
+      "sha256": "c292c2dd79bbeedec9623b50685aee290ca5af156f953894d843fa582f3ac4f7"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/P09.png",
+      "bytes": 25805,
+      "sha256": "656310ecf9fd2a9599e4b4c53267721ae0f62763c0ae01b220d1b31031d9ffa2"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/P10.png",
+      "bytes": 26139,
+      "sha256": "239b576e8d683670ffb0d1704cb09f849c04883848d01772ca3dc06e2ed78c88"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/P11.png",
+      "bytes": 24635,
+      "sha256": "2f7e71870a5ba85e6e5f06dc59ab00b8c62bf0b446f1325e0d7dfb58af314965"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/P12.png",
+      "bytes": 22503,
+      "sha256": "40ad317b54309c968622813d6dddc542eb9c040bc02da2524856e1b4109ffa1b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/P13.png",
+      "bytes": 24107,
+      "sha256": "84ce6a82d6925c12176435a3ee569f115fad8bf0ae2deb24f7091a76bcd3e362"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/P14.png",
+      "bytes": 24614,
+      "sha256": "82782beedc292ede4d0a25b8c5b14ccbcd31033a469b1c867a8738fe130d2f09"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/P15.png",
+      "bytes": 28503,
+      "sha256": "2f26b781df20b00fe59f7b2e583129c49b791a9fac786e6728be7b01a5d415ba"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/P16.png",
+      "bytes": 25216,
+      "sha256": "285e6aeb87ef2a67cf5d00dc528cd911550b6d51ab963f2a51f4de89993ac2b8"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/P17.png",
+      "bytes": 24697,
+      "sha256": "f79a8839123ffc79eb3dca07b0fcca8de24eb2971d74c018602ba20186a0625e"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/gpu-slide-detail.png",
+      "bytes": 31728,
+      "sha256": "28ecd40b1a75eb5c8e788644d5256ecae8c0ec14f6137c746dcef4d547bda875"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/step01.png",
+      "bytes": 207272,
+      "sha256": "5b5ef4b8ec449c5ef5dc369ce398c3d96842d0853bd2a782eba0539231cee6cb"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/step02.png",
+      "bytes": 41659,
+      "sha256": "d81d510e7961ee2b24e663a3b21925c1ba8f8853933543aef786af126cd6473c"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/step03.png",
+      "bytes": 41529,
+      "sha256": "dc8e5ae64c24afcdf5d75628da35ed582e978df46dbaee11ca44dc047a5f4633"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/step04.png",
+      "bytes": 42946,
+      "sha256": "28e397e9d0d0c488beaa33fd728f890570d6f9182bfd446634c4a0bc4d03e35d"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/step05.png",
+      "bytes": 46804,
+      "sha256": "ce17a21c0299089b8dd1a55a0a1111392d73ed10ef4ff937cb5ea915e922ee08"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/step06.png",
+      "bytes": 48572,
+      "sha256": "cd315297ace16631237480475e4ee1bc59547c1ad9528d73ea0af934114770f8"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/step07.png",
+      "bytes": 52286,
+      "sha256": "72979ec677eaa739fb64389dc3518eebc3fd2b1820934cb6cdabf9d160ab0512"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/step08.png",
+      "bytes": 47935,
+      "sha256": "e7bcc5074868e3f3d911e8533b0f8080104c34f9b5c25d765fe226851275df70"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/step09.png",
+      "bytes": 47409,
+      "sha256": "c72a5ff198a05a428c5a4af554151e72427f5517be6cb90765260fe5d5f01e75"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/step10.png",
+      "bytes": 43849,
+      "sha256": "31401467afe91771d368c2f43c95901b80cf978fd73da1d1b410503ecc1e9fa5"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/step11.png",
+      "bytes": 49717,
+      "sha256": "4c5b9af20506735edb0999e613ca89f683460fdceb7bd4a9792ff82854da8cfe"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/step12.png",
+      "bytes": 56509,
+      "sha256": "fde2be704b45481a6713e467b3fec7c76f9078755474f4c1d1a5a2add5b14570"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Images/step13.png",
+      "bytes": 54885,
+      "sha256": "a9198dad052eeb6599ad7910b0e125c1d44ee05fa2128c36a9402fa7db4a5e81"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Meshes/04_front_GROUND_BAR_290mm_FLAT_PSU.stl",
+      "bytes": 21084,
+      "sha256": "6ec0fda942e0693221391558ba1c651e9eebfb163c481b8454aacc83ac034bd1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Meshes/04_rear_GROUND_BAR_290mm_FLAT_PSU.stl",
+      "bytes": 21084,
+      "sha256": "5f4b8b1d7d8c294b35cecaace327650ab07b37116e08bfb03d2921d66d2d0d03"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Meshes/05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE.stl",
+      "bytes": 53684,
+      "sha256": "9ca5b1709428513cea511dd87a3a95a480d16ce034cc3419d5e368242331a8cf"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Meshes/07_GPU_REINFORCED_REAR_TOWER.stl",
+      "bytes": 77484,
+      "sha256": "baa9e4defb2cad498b9986d7b5764e18bf597099897d029352f3bde3fe283ac8"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Meshes/08_GPU_LOWER_TWO_TAB_RECEIVER_ADJUSTABLE.stl",
+      "bytes": 24684,
+      "sha256": "355a449f3a87d0a634ba3236ec56feea87cafb09f28b2ab462d24377f304aa71"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Meshes/08_GPU_UPPER_EAR_LEDGE_ADJUSTABLE.stl",
+      "bytes": 33684,
+      "sha256": "52510ab828e3d2c9b55101b54ae52f212297aca58a7db9f50359b9e24b42ec73"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Meshes/10_CPU_140_FAN_MOUNT.stl",
+      "bytes": 52684,
+      "sha256": "8a69d7d56cb2644a232e2d3a09668a9063136ffe0bb31e3097f3ce5a5b91e39b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Meshes/10_GPU_140_FAN_MOUNT.stl",
+      "bytes": 52684,
+      "sha256": "c1ab0d0ecb2e33257fb94ce20c890de004c3d96f1da73c3d56095b34f2ca9ec0"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Meshes/12_front_CPU_SUPPORT_FRAME.stl",
+      "bytes": 43284,
+      "sha256": "a59ad94e562f287e2ad529efd3ed05131bef703a7e94dbedc23023ef5bdbdfd7"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Meshes/12_front_PCI_SUPPORT_FRAME.stl",
+      "bytes": 45884,
+      "sha256": "0d94259a53f19f36314e2fae0128be7e1c59646bff98bcc5897c2fe712af9a9b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Meshes/16_CPU_VERTICAL_SIDE_FLUSH_TO_BEAM.stl",
+      "bytes": 37484,
+      "sha256": "9dccee4536c794a76305ab7f8a3244834a6a0b20c1800d255aee2e4d2a7371b4"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Meshes/16_PCI_INSET_SIDE_16_45mm.stl",
+      "bytes": 37484,
+      "sha256": "c5b03a0b997f43ca37e50c7c3476b53f288488b4c3fe80d108472f41d8cee6b6"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Meshes/18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm.stl",
+      "bytes": 46684,
+      "sha256": "5669a2e6f96245c15b0710725a5f9b2ff1d10f25f2be6c38463eb4cd1e6bd692"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Meshes/19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 49084,
+      "sha256": "aafaa2a76149a79c69d1963eab28d70ee9a67aef3ce3d13fd1814f70d40b0163"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Meshes/19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 48484,
+      "sha256": "08cedac4b43debf00329eb241a8fdcd0f5cb207572c0808740b5d15c8f5ad134"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Meshes/19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 49084,
+      "sha256": "62e7b11a67db15112ab31e91754ceea802eaeeacf25d79834c0e3cc0ff1d1619"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Meshes/20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm.stl",
+      "bytes": 66284,
+      "sha256": "aaab358aac8c01c819b8e39c989b660a666ca6d01007149ef2f6c6dc8d1172a9"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Meshes/REF_BOARD_304.8x243.84_NUMBERED_HOLES.stl",
+      "bytes": 45684,
+      "sha256": "e4e9798189e2b04030f72bf2b9453a6285abde809575dd82b01a9ce49002486f"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Meshes/REF_CASE_FAN_CPU_140x140x25.stl",
+      "bytes": 64084,
+      "sha256": "fe310d8361cf988250cde5371a6283377cf78c0eed629cc9f24943ed4dbe78fb"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Meshes/REF_CASE_FAN_GPU_140x140x25.stl",
+      "bytes": 64084,
+      "sha256": "d718dda6c1f93eaa95dc7708c71e6be375c7a127c281f2f80cb785827b56def7"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Meshes/REF_CPU_RIGHT.stl",
+      "bytes": 684,
+      "sha256": "25fdc429b8667843948ee42e60e887644c8bd5b52a59dfcd1cfa04d4d9a18613"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Meshes/REF_GPU_FANS_TO_MINUS_X.stl",
+      "bytes": 684,
+      "sha256": "f8888c270a4df205be6139c40b9481f38fd6012fc50df8c11a1aa05bfdecf3af"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Meshes/REF_MEMORY_RIGHT_FRONT.stl",
+      "bytes": 2484,
+      "sha256": "a2eb34e4e4bbf6e576adddd2e29176dcf673c006e26da59d274d38736efb80ab"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Meshes/REF_PRIMARY_PCIE_X126.4_APPROX.stl",
+      "bytes": 684,
+      "sha256": "978a961fdf9dfa025d0624e7e6a4316abde70f2f0cba70f65c6ff76d1ee7a4d5"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Meshes/REF_PSU_FLAT_CENTERED_150x140x86.stl",
+      "bytes": 684,
+      "sha256": "f7de1585abc577ca36a0d66eb8960a3da66a735cba0039f101b9159cf7474d49"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Manual_Meshes/REF_SECOND_LONG_PCIE_X60_APPROX.stl",
+      "bytes": 684,
+      "sha256": "d266f419af2be8f733194e3f725640f2ab556433f7d26b19bbf09474178551dd"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/One-piece-rear-beam.png",
+      "bytes": 273054,
+      "sha256": "4e0485024508b8010cfd3456cb444052aea9d8aa12c161b715e45fe89f70b73c"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/PRINT_STL/04_front_GROUND_BAR_290mm_FLAT_PSU.stl",
+      "bytes": 21084,
+      "sha256": "a691763a3d05d72b246c6eb55d3a069feb53dd3c546ee8c5b9ea6794cc2b3033"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/PRINT_STL/04_rear_GROUND_BAR_290mm_FLAT_PSU.stl",
+      "bytes": 21084,
+      "sha256": "2e903ae1907e02ec68a355620f632d14335e843ebc28a4fed451326e618ea2da"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/PRINT_STL/05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE.stl",
+      "bytes": 53684,
+      "sha256": "f3361b0f1d196b5e1e0f10f4e6ec017b7e6989a190c12ef52a54776211b4cf52"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/PRINT_STL/07_GPU_REINFORCED_REAR_TOWER.stl",
+      "bytes": 77484,
+      "sha256": "2ec4becd98bbe3b588d3636b12ec5c308e11c47452db65a6cc458d113ef5e90b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/PRINT_STL/08_GPU_LOWER_TWO_TAB_RECEIVER_ADJUSTABLE.stl",
+      "bytes": 24684,
+      "sha256": "47f3a9e61f1ef108404aa8d078b1db849015ef7f6ffb40839142a91b020bcea5"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/PRINT_STL/08_GPU_UPPER_EAR_LEDGE_ADJUSTABLE.stl",
+      "bytes": 33684,
+      "sha256": "975e94542f8a1e2bc30a6a6d2c8ee94b4a5518e53129e19090e9d7c832bd33f2"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/PRINT_STL/10_CPU_140_FAN_MOUNT.stl",
+      "bytes": 52684,
+      "sha256": "7676a0295f547ddcb1576395eb16edf0fec0dd4b47f12d08eb966aeb30d9460c"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/PRINT_STL/10_GPU_140_FAN_MOUNT.stl",
+      "bytes": 52684,
+      "sha256": "a434f8d4f41c3f9591fa31134de551756d195230b4494b65cdb78c319c89f5cf"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/PRINT_STL/12_front_CPU_SUPPORT_FRAME.stl",
+      "bytes": 43284,
+      "sha256": "d12cb79f1353597ae7f3b9b086d03d1d7669fa555c776f0d63cebf7230d25a8a"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/PRINT_STL/12_front_PCI_SUPPORT_FRAME.stl",
+      "bytes": 45884,
+      "sha256": "aede9288e5ff2e1b5aad6a932cd77074e3dcbac43a2153584e8d75220920f36b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/PRINT_STL/16_CPU_VERTICAL_SIDE_FLUSH_TO_BEAM.stl",
+      "bytes": 37484,
+      "sha256": "be2372346dc2e59e9d3cb9bd2d78b8024b629c13e55ba274d97bf65f71c67eca"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/PRINT_STL/16_PCI_INSET_SIDE_16_45mm.stl",
+      "bytes": 37484,
+      "sha256": "1a1fcc111a193587616f2e316070857931e748a4443b0b078b8b3f6d65a8b1d9"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/PRINT_STL/18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm.stl",
+      "bytes": 46684,
+      "sha256": "2e390681a67d9ff2017281fda152b64a480f5e8240a02856de37ad287856679e"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/PRINT_STL/19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 49084,
+      "sha256": "6604381a5abdf988f0b076cb7c2073d824eb030e78a88cc7401c6aeefd716bef"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/PRINT_STL/19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 48484,
+      "sha256": "71c03c7dc0e731b4829ccf6ba31780cd69fcadcc476831c1468b4d94037400ab"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/PRINT_STL/19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 49084,
+      "sha256": "4d74a1484c8c8ef8b4e3a0caf273ffe355de7a5d0d6ea9c63b5bf50ecdf36544"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/PRINT_STL/20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm.stl",
+      "bytes": 66284,
+      "sha256": "2dd173ba9be122d24b3a90d19a5f86b179dbb36342b6f3a0150d0ef89ffdc077"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/README.txt",
+      "bytes": 4887,
+      "sha256": "86cc7106dfeb4be7f82d954f72c2bccd3b178c67efcc3a2c7f551463c74cfa6a"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Raw_STL/04_front_GROUND_BAR_290mm_FLAT_PSU.stl",
+      "bytes": 21084,
+      "sha256": "bab5bb790af4026d58579f2e69880c11090d331f29415fd361b723d363b957ce"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Raw_STL/04_rear_GROUND_BAR_290mm_FLAT_PSU.stl",
+      "bytes": 21084,
+      "sha256": "6859354cc95a363bffdbfa6a10d088956095ca0fd221bf5773841b01daa7145f"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Raw_STL/05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE.stl",
+      "bytes": 53684,
+      "sha256": "9e7d6c0a4eb692eb0446f0c0de05d04548793f266da1e0d27a2d5783534d1b9b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Raw_STL/07_GPU_REINFORCED_REAR_TOWER.stl",
+      "bytes": 77484,
+      "sha256": "7b03ede17fff1fad8e3e003c6b3c30bc17cdf526bfa49a47e47d24290fc87553"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Raw_STL/08_GPU_LOWER_TWO_TAB_RECEIVER_ADJUSTABLE.stl",
+      "bytes": 24684,
+      "sha256": "45daf482f7ecb3ecd42882e0e87fb78b8a97f151831471c234899cd8d3310236"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Raw_STL/08_GPU_UPPER_EAR_LEDGE_ADJUSTABLE.stl",
+      "bytes": 33684,
+      "sha256": "9c44c2990fb502173d4afebe5564084b60800e385aca3456c77e595294fffb8f"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Raw_STL/10_CPU_140_FAN_MOUNT.stl",
+      "bytes": 52684,
+      "sha256": "61e8a9098a98e61524ef0d4e76679063bae40d0d3688045d6799fa0744a2db13"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Raw_STL/10_GPU_140_FAN_MOUNT.stl",
+      "bytes": 52684,
+      "sha256": "439c7b746e6e8a5ca149d350baf94d9edb2bbcbd177e5a7a7e09ed4c032c122f"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Raw_STL/12_front_CPU_SUPPORT_FRAME.stl",
+      "bytes": 43284,
+      "sha256": "77c4085fdcc45a07c68f75495eed26c8fcadaefedd32b9d0917c236f26644804"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Raw_STL/12_front_PCI_SUPPORT_FRAME.stl",
+      "bytes": 45884,
+      "sha256": "dfad0de217dc62be13fb778754eedeaa8305235a65ff5b054928d719d92a108b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Raw_STL/16_CPU_VERTICAL_SIDE_FLUSH_TO_BEAM.stl",
+      "bytes": 37484,
+      "sha256": "40af31e6041c44b421385f14a7ce518c02dde0f498e78ef6eb81281cb2c29f8a"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Raw_STL/16_PCI_INSET_SIDE_16_45mm.stl",
+      "bytes": 37484,
+      "sha256": "cb997c4b51e9086a005c6912cc8ac894a964152b7560fc83ae1c08dbbc0e8eb6"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Raw_STL/18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm.stl",
+      "bytes": 46684,
+      "sha256": "fa69363e1bd535feb5197fac56d8f687ac75bd3a7370d5864255465cdcc19ad1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Raw_STL/19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 49084,
+      "sha256": "4aceb234fba9de8f50e79166a87ed7ff1966b3855dff465f9456ec1ac7f4562b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Raw_STL/19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 48484,
+      "sha256": "8c7491eb9cf161b9b4d4b16f416e61aec173c960884a219fe337409db87c867c"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Raw_STL/19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 49084,
+      "sha256": "5d85588fc2af442c45422764d2b15a7f8ce04eeff932240d1415ea5c460284b1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Raw_STL/20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm.stl",
+      "bytes": 66284,
+      "sha256": "89da34277bedf0ef0c37db1ae80d09e635b0962922a568dbda064eccddb93355"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Sources/Arrange_V13.py",
+      "bytes": 6667,
+      "sha256": "baa776fcb5e27eb7892f21f8c930ec11413f8bb4404f8d8a42d48eaf0d6dd8b1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Sources/Base_V12.f3d",
+      "bytes": 2067513,
+      "sha256": "e8aea767198b3e00c0a0adbbea6366efaa19fc1da87c33475fb228915653e08b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Sources/Build_V13.py",
+      "bytes": 12140,
+      "sha256": "d04d3f9f44a3b2d7363551df2abe8238998f5da7cd19c4239df4ad2cef436eb9"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Sources/Common_V12_Package_Writer.py",
+      "bytes": 9980,
+      "sha256": "41c33eb760c737db771a8b23ab385503a4624325f1a51507cd64077d54743a20"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Sources/Finish_V13.py",
+      "bytes": 3704,
+      "sha256": "6d7cde39899ea3abb973b2f4bb67c74dfe5822d899446790cd20ee5d7b82ed0b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Style1_V13_Assembly_Manual.html",
+      "bytes": 3691776,
+      "sha256": "fed5faf6de2e4ab6eeea3af7dd306306cc9757e4b4dfcd3792436b2c085cf1e0"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/Style1_V13_Illustrated_Manual.zip",
+      "bytes": 5513124,
+      "sha256": "2f68dd947b45d0ef5be55bc2f1f4b0905e864e55dc351894741e97582492f868"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/contacts.json",
+      "bytes": 837,
+      "sha256": "cf90847874296fbb7ee1186cc4bd5ef2b13790003997423e454809e79ccdadd8"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/interference.json",
+      "bytes": 42,
+      "sha256": "1ee4a01e9742ebd247f64e832e89a6c6ae745b13bee5302f4e0ef27bc75feaa1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/manual_cylinder_audit.json",
+      "bytes": 18070,
+      "sha256": "397eb569cc5d4a4c612030036be725beac200e305c029c4fb2c025b5edf72936"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/manual_insert_ledger.json",
+      "bytes": 12382,
+      "sha256": "24ad52b156a3544cc9982e2936906e0620d5f2b52605bfae54f24bff379196b2"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/manual_mesh_index.json",
+      "bytes": 11564,
+      "sha256": "4b8c69531b829c975f82335f4e30dddb9d4f99d0500c2b79cec65a86bae97db7"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/manual_part_index.json",
+      "bytes": 3770,
+      "sha256": "72ac8be467aae56edd243b38d199dc0f7b47c7f43a59caca8d10b424f15cc1c6"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/manual_verification.json",
+      "bytes": 871,
+      "sha256": "3224a161a2580ad395170c00a4ef07429a91251f1d8f51ac163c318275fb1d1c"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/parts.json",
+      "bytes": 3137,
+      "sha256": "f7c1500904a7cbff9fe8ab4bdd78e1a98e4ccf031774b720031d8e413f898def"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/plate-checks.json",
+      "bytes": 5586,
+      "sha256": "94863cdcdf57cb8ff32d7ff49fe6b4fc009a4ad30761f862f4fb295b7a1d918f"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/plate-list.csv",
+      "bytes": 1880,
+      "sha256": "e6388348c1e2dba44c30860740039f7542f1b3947752fb7567563e6d5a7f704e"
+    },
+    {
+      "path": "outputs/ATX-Desk-v13/slice-summary.json",
+      "bytes": 327,
+      "sha256": "1fd6bc47667b66a956ee989004c4cefad477333dcf310c0edc97a41d32b30a5d"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/ATX_Desk_v14_gpu_fit.f3d",
+      "bytes": 2450511,
+      "sha256": "8e969e885921340b8904c49fb1253875646a923c6c2c7cc4aa5a58b2da5a1bf3"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/Assembly.png",
+      "bytes": 850941,
+      "sha256": "772e77cf8e230af8dc907f6d739140d8c9e1f6a922fa192f076ca22977d5d1e8"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/Fit_Photos/Fit_Issue_1.jpg",
+      "bytes": 94216,
+      "sha256": "b74ca6331ecf5045230e3bdcbaa872a866f87bc39aec5d2c490cb6f4ff497d4f"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/Fit_Photos/Fit_Issue_2.jpg",
+      "bytes": 212332,
+      "sha256": "191ed72cd0416981a711ccef3a6bc2110da74c621d1e5ad3442f9852fb679f7f"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/Fit_Photos/Fit_Issue_3.jpg",
+      "bytes": 239778,
+      "sha256": "102ce33f365de0e3e07d041a3792674c8bcd3c640dc097ea5f86218a24b4ad17"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/GPU_Bracket_Front.png",
+      "bytes": 156935,
+      "sha256": "0a4daadc473d458b8bdb9a8055391bbd3d36c1cd087395429466de0fdfac7b1c"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/GPU_Bracket_Rear.png",
+      "bytes": 85073,
+      "sha256": "3dfb2dc6447b3a156dde9c0b82784ad1559ab6df74304dfdbf143abb2e51b647"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/PRINT_STL/04_front_GROUND_BAR_290mm_FLAT_PSU.stl",
+      "bytes": 21084,
+      "sha256": "f65a56519c0b1cef928cdc196f3aac5d2208b5160a9d9ebb05d039f57a6d4853"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/PRINT_STL/04_rear_GROUND_BAR_290mm_FLAT_PSU.stl",
+      "bytes": 21084,
+      "sha256": "a470a9d12308fe4e9de12e9640b37f9141d5983d6cf504569a57d27b389d27e8"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/PRINT_STL/05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE.stl",
+      "bytes": 53684,
+      "sha256": "666bfe89e15e9002d65f4704a90f569a539384e48f3674eb258cff5662c26b04"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/PRINT_STL/07_GPU_REINFORCED_REAR_TOWER.stl",
+      "bytes": 80484,
+      "sha256": "8914d7385a8534a55ba5903469b828c460bb3780f4ff6e573a7243106776e4c6"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/PRINT_STL/08_GPU_LOWER_TWO_TAB_RECEIVER_ADJUSTABLE.stl",
+      "bytes": 24684,
+      "sha256": "cc08ddab1758febafe66389373fa8a99b7ec12278e73aa8714f4f63b0a798e0b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/PRINT_STL/08_GPU_UPPER_EAR_LEDGE_ADJUSTABLE.stl",
+      "bytes": 33884,
+      "sha256": "5fe442bc319fa43be505291ed588437912d8473ef2698f651b5f81d383114fd8"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/PRINT_STL/10_CPU_140_FAN_MOUNT.stl",
+      "bytes": 52684,
+      "sha256": "16cb1396ddc551ca6a23ef2cbceae51ac5da120e3f49dfb3af72851635957104"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/PRINT_STL/10_GPU_140_FAN_MOUNT.stl",
+      "bytes": 52684,
+      "sha256": "a8b4d4ef225df4c8d67c973245dde22768d7fe37fa29c2914d3186d2393d5350"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/PRINT_STL/12_front_CPU_SUPPORT_FRAME.stl",
+      "bytes": 43284,
+      "sha256": "150bf8159f884c4d2468b2431bfdbfe582a0dc7ecdb5f5773936590f4ed4b2b9"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/PRINT_STL/12_front_PCI_SUPPORT_FRAME.stl",
+      "bytes": 45884,
+      "sha256": "49430738a1a52a51affc935aba14e46d071dc973235adb1f2ea61bf18f9ea4e5"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/PRINT_STL/16_CPU_VERTICAL_SIDE_FLUSH_TO_BEAM.stl",
+      "bytes": 37484,
+      "sha256": "8080be33a05b6aceaa393fda554cbb72b78cc39a8cb1df6c38b77be248a838d7"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/PRINT_STL/16_PCI_INSET_SIDE_16_45mm.stl",
+      "bytes": 37484,
+      "sha256": "21a80e3b132832f017acc46324bef3ffa1970e5117e545cc24a498b3ae43c749"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/PRINT_STL/18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm.stl",
+      "bytes": 46684,
+      "sha256": "bfd334d3b1e4eae6b322a56f7f97f39e61796a45548d6ce04e16c5a43284ef1c"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/PRINT_STL/19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 49084,
+      "sha256": "b5296e494ff28b227f7555cec6d51a027007222b26762a347d296d16843872e3"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/PRINT_STL/19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 48484,
+      "sha256": "20e451643d36d1369271f21a52bc4bed0d5c4d3110ce561d74917b7826c9231f"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/PRINT_STL/19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 49084,
+      "sha256": "3381cbb57404caf8ea10b6e61db937df6280cbdf0b9ab6aaa3f10659566b02e5"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/PRINT_STL/20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm.stl",
+      "bytes": 66284,
+      "sha256": "7313258450c52270562bd7f325f30d9d91560df7aa6ddd9967e9c6e4e1926199"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/README.txt",
+      "bytes": 3198,
+      "sha256": "3c7729d63daabda692fad940b065dbb47dcc8c2c0a957fa79d71a669b2191a9e"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/REPRINT_STL/P12_V14_GPU_Tower.stl",
+      "bytes": 80484,
+      "sha256": "8914d7385a8534a55ba5903469b828c460bb3780f4ff6e573a7243106776e4c6"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/REPRINT_STL/P13_V14_Upper_Ear_Ledge.stl",
+      "bytes": 33884,
+      "sha256": "5fe442bc319fa43be505291ed588437912d8473ef2698f651b5f81d383114fd8"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/Raw_STL/04_front_GROUND_BAR_290mm_FLAT_PSU.stl",
+      "bytes": 21084,
+      "sha256": "bab5bb790af4026d58579f2e69880c11090d331f29415fd361b723d363b957ce"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/Raw_STL/04_rear_GROUND_BAR_290mm_FLAT_PSU.stl",
+      "bytes": 21084,
+      "sha256": "6859354cc95a363bffdbfa6a10d088956095ca0fd221bf5773841b01daa7145f"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/Raw_STL/05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE.stl",
+      "bytes": 53684,
+      "sha256": "9e7d6c0a4eb692eb0446f0c0de05d04548793f266da1e0d27a2d5783534d1b9b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/Raw_STL/07_GPU_REINFORCED_REAR_TOWER.stl",
+      "bytes": 80484,
+      "sha256": "73498eabe77fea97b0c8115b8de80e6d21a0bbe467c98d887888462437d5b523"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/Raw_STL/08_GPU_LOWER_TWO_TAB_RECEIVER_ADJUSTABLE.stl",
+      "bytes": 24684,
+      "sha256": "45daf482f7ecb3ecd42882e0e87fb78b8a97f151831471c234899cd8d3310236"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/Raw_STL/08_GPU_UPPER_EAR_LEDGE_ADJUSTABLE.stl",
+      "bytes": 33884,
+      "sha256": "ba8af293fb20eafaf48005920b86e83e88141c44b70cb21681357c1b145d6fad"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/Raw_STL/10_CPU_140_FAN_MOUNT.stl",
+      "bytes": 52684,
+      "sha256": "61e8a9098a98e61524ef0d4e76679063bae40d0d3688045d6799fa0744a2db13"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/Raw_STL/10_GPU_140_FAN_MOUNT.stl",
+      "bytes": 52684,
+      "sha256": "439c7b746e6e8a5ca149d350baf94d9edb2bbcbd177e5a7a7e09ed4c032c122f"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/Raw_STL/12_front_CPU_SUPPORT_FRAME.stl",
+      "bytes": 43284,
+      "sha256": "77c4085fdcc45a07c68f75495eed26c8fcadaefedd32b9d0917c236f26644804"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/Raw_STL/12_front_PCI_SUPPORT_FRAME.stl",
+      "bytes": 45884,
+      "sha256": "dfad0de217dc62be13fb778754eedeaa8305235a65ff5b054928d719d92a108b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/Raw_STL/16_CPU_VERTICAL_SIDE_FLUSH_TO_BEAM.stl",
+      "bytes": 37484,
+      "sha256": "40af31e6041c44b421385f14a7ce518c02dde0f498e78ef6eb81281cb2c29f8a"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/Raw_STL/16_PCI_INSET_SIDE_16_45mm.stl",
+      "bytes": 37484,
+      "sha256": "cb997c4b51e9086a005c6912cc8ac894a964152b7560fc83ae1c08dbbc0e8eb6"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/Raw_STL/18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm.stl",
+      "bytes": 46684,
+      "sha256": "fa69363e1bd535feb5197fac56d8f687ac75bd3a7370d5864255465cdcc19ad1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/Raw_STL/19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 49084,
+      "sha256": "4aceb234fba9de8f50e79166a87ed7ff1966b3855dff465f9456ec1ac7f4562b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/Raw_STL/19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 48484,
+      "sha256": "8c7491eb9cf161b9b4d4b16f416e61aec173c960884a219fe337409db87c867c"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/Raw_STL/19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 49084,
+      "sha256": "5d85588fc2af442c45422764d2b15a7f8ce04eeff932240d1415ea5c460284b1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/Raw_STL/20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm.stl",
+      "bytes": 66284,
+      "sha256": "89da34277bedf0ef0c37db1ae80d09e635b0962922a568dbda064eccddb93355"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/Sources/Build_V14_GPU_Fit.py",
+      "bytes": 9287,
+      "sha256": "a6b533e4d70675c184e432421f0b98e4e1f8b0f448b434ad2eefcc3523c2ce51"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/Sources/Package_V14_GPU_Fit.py",
+      "bytes": 5960,
+      "sha256": "8a318142bce03ffeed4974ce6c88f31a811d9077bffe77cdd358f4c7c190c575"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/Style1_V14_GPU_Replacements_1_Plate_UNSLICED.3mf",
+      "bytes": 33950,
+      "sha256": "41b1ddfcf6809bfbf36715ed0f40790d2a7dccf91b61d990d24c9750a4f52aea"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/mesh_checks.json",
+      "bytes": 3705,
+      "sha256": "3e617b010542d40d72e6c844dfb276a676c07fe052280122454e2058a2620f92"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/package_verification.json",
+      "bytes": 326,
+      "sha256": "561d0ef8cf4d4b3af1478afe417950241d956b0f5cd2250a6ec795d4a60afec4"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/parts.json",
+      "bytes": 3137,
+      "sha256": "9db805db60ed8aec723844efe3cdecc2471a3c35b6e5abb5f511a83d25a30a32"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/replacement-plate-checks.json",
+      "bytes": 668,
+      "sha256": "d4e4c9890bc0ac077570f884f9b530cacfa24b9311d783218c0fdaea085382b0"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/replacement-plate-list.csv",
+      "bytes": 299,
+      "sha256": "44b6bf822d975e28f31a3766e4f54487144262bd278ab1d8fef68c64b5997b94"
+    },
+    {
+      "path": "outputs/ATX-Desk-v14/verification.json",
+      "bytes": 5845,
+      "sha256": "e88bfcd0d60cf68b633777bc2627dd9de574f9203858a44df4a9e8833617abc4"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/ATX_Desk_v15_gpu_fit.f3d",
+      "bytes": 2562398,
+      "sha256": "c84975b9d18a68e926132877f990283825f70aa96a531cf1004f35968d526bdd"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/Assembly.png",
+      "bytes": 851081,
+      "sha256": "34c76734c78d8a87a47fd4558e745053ef02bdc6d3e6b2adddb77a8afff3cb7c"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/Fit_Photos/Fit_Issue_1.jpg",
+      "bytes": 94216,
+      "sha256": "b74ca6331ecf5045230e3bdcbaa872a866f87bc39aec5d2c490cb6f4ff497d4f"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/Fit_Photos/Fit_Issue_2.jpg",
+      "bytes": 212332,
+      "sha256": "191ed72cd0416981a711ccef3a6bc2110da74c621d1e5ad3442f9852fb679f7f"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/Fit_Photos/Fit_Issue_3.jpg",
+      "bytes": 239778,
+      "sha256": "102ce33f365de0e3e07d041a3792674c8bcd3c640dc097ea5f86218a24b4ad17"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/GPU_Bracket_Front.png",
+      "bytes": 156885,
+      "sha256": "e268dac74b8840c21630b4f234df58261460915981bf3d2336794ecc6324f91b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/PRINT_STL/04_front_GROUND_BAR_290mm_FLAT_PSU.stl",
+      "bytes": 21084,
+      "sha256": "c57127cb8ed70308e6001f3ab0c6009b1ce7969cdfed81592ca1c79e44aefcd1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/PRINT_STL/04_rear_GROUND_BAR_290mm_FLAT_PSU.stl",
+      "bytes": 21084,
+      "sha256": "65873f8e9fdc111d6c1209dfbfc6fb790d4fbd60120609ff739a6b709c37cd8d"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/PRINT_STL/05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE.stl",
+      "bytes": 53684,
+      "sha256": "2a05853a07d051b14a2ae424f7d43ad57d38bcfaf16bcd785d594635ad888614"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/PRINT_STL/07_GPU_REINFORCED_REAR_TOWER.stl",
+      "bytes": 80484,
+      "sha256": "3f445a0d0fc5dc6fb367ee63b90fb86b910636e451792b5d8e1498573e3c3a62"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/PRINT_STL/08_GPU_LOWER_TWO_TAB_RECEIVER_ADJUSTABLE.stl",
+      "bytes": 24684,
+      "sha256": "ea98f1fa3f2571ad5ac724e7c329193bec37ea1963ce2101e73f12c16eabc0b4"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/PRINT_STL/08_GPU_UPPER_EAR_LEDGE_ADJUSTABLE.stl",
+      "bytes": 33884,
+      "sha256": "cc8691cc46fa5f0ea09dcb04e69d8af78d5e8fc690bb9051ef2c42f37d22580c"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/PRINT_STL/10_CPU_140_FAN_MOUNT.stl",
+      "bytes": 52684,
+      "sha256": "bf42776144676cafa069e4231435cb71a516dc4742c0f13cf4f5980b456b134a"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/PRINT_STL/10_GPU_140_FAN_MOUNT.stl",
+      "bytes": 52684,
+      "sha256": "c0d6aed0deb7b7e214160a1980196b33f0ebed2b44659c56355e01e784cd9ba7"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/PRINT_STL/12_front_CPU_SUPPORT_FRAME.stl",
+      "bytes": 43284,
+      "sha256": "6001cccdb5aaac70bbc1629326964cce528a57d80ad346c4a34d7c9d76f3a65d"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/PRINT_STL/12_front_PCI_SUPPORT_FRAME.stl",
+      "bytes": 45884,
+      "sha256": "fdefa600e0560a91a0a97c601f8461e1dc1a9bdcfa08de9936425dd74017584e"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/PRINT_STL/16_CPU_VERTICAL_SIDE_FLUSH_TO_BEAM.stl",
+      "bytes": 37484,
+      "sha256": "306a6dfa99b903f56ffcd97ad766253b05462654dd4a1913be078b300da18547"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/PRINT_STL/16_PCI_INSET_SIDE_16_45mm.stl",
+      "bytes": 37484,
+      "sha256": "124e02996ef1646230caedd44e7c2eb4320d7f74ce0f5cc17c3da38e77527001"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/PRINT_STL/18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm.stl",
+      "bytes": 46684,
+      "sha256": "c68001fed44bb18be3dfa16880de7c32eac0c943abdbae9eba663a68d7ab2367"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/PRINT_STL/19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 49084,
+      "sha256": "a79c20c74b03948ca22abf510b7b5ad71b182657ddf99cc511c650d4e4b7b088"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/PRINT_STL/19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 48484,
+      "sha256": "99b930e5733a538bd7fb73771d88d9093b539c853d6d51a8494fd01cb0aa68bb"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/PRINT_STL/19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 49084,
+      "sha256": "4052e7fcd12c959b9827973d4efac6aed179ff992788120fb3e8b9062687e7d9"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/PRINT_STL/20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm.stl",
+      "bytes": 66284,
+      "sha256": "2504b23225aa6e8b4d509927ba60b6301c5da58e3696346c98cbc3f709413b20"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/README.txt",
+      "bytes": 2286,
+      "sha256": "553bbfebf48faf27f2e3ba51ccc30925869eb76bc0468b2e9b5953c25af7b301"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/REPRINT_STL/P12_V15_GPU_Tower.stl",
+      "bytes": 80484,
+      "sha256": "3f445a0d0fc5dc6fb367ee63b90fb86b910636e451792b5d8e1498573e3c3a62"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/REPRINT_STL/P13_V15_Upper_Ear_Ledge.stl",
+      "bytes": 33884,
+      "sha256": "cc8691cc46fa5f0ea09dcb04e69d8af78d5e8fc690bb9051ef2c42f37d22580c"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/Raw_STL/04_front_GROUND_BAR_290mm_FLAT_PSU.stl",
+      "bytes": 21084,
+      "sha256": "bab5bb790af4026d58579f2e69880c11090d331f29415fd361b723d363b957ce"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/Raw_STL/04_rear_GROUND_BAR_290mm_FLAT_PSU.stl",
+      "bytes": 21084,
+      "sha256": "6859354cc95a363bffdbfa6a10d088956095ca0fd221bf5773841b01daa7145f"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/Raw_STL/05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE.stl",
+      "bytes": 53684,
+      "sha256": "9e7d6c0a4eb692eb0446f0c0de05d04548793f266da1e0d27a2d5783534d1b9b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/Raw_STL/07_GPU_REINFORCED_REAR_TOWER.stl",
+      "bytes": 80484,
+      "sha256": "73498eabe77fea97b0c8115b8de80e6d21a0bbe467c98d887888462437d5b523"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/Raw_STL/08_GPU_LOWER_TWO_TAB_RECEIVER_ADJUSTABLE.stl",
+      "bytes": 24684,
+      "sha256": "45daf482f7ecb3ecd42882e0e87fb78b8a97f151831471c234899cd8d3310236"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/Raw_STL/08_GPU_UPPER_EAR_LEDGE_ADJUSTABLE.stl",
+      "bytes": 33884,
+      "sha256": "be32b95db1ec4dd95b66874f72a7c1a8dae721eb02d8b5c0cea18a9a7045bf28"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/Raw_STL/10_CPU_140_FAN_MOUNT.stl",
+      "bytes": 52684,
+      "sha256": "61e8a9098a98e61524ef0d4e76679063bae40d0d3688045d6799fa0744a2db13"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/Raw_STL/10_GPU_140_FAN_MOUNT.stl",
+      "bytes": 52684,
+      "sha256": "439c7b746e6e8a5ca149d350baf94d9edb2bbcbd177e5a7a7e09ed4c032c122f"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/Raw_STL/12_front_CPU_SUPPORT_FRAME.stl",
+      "bytes": 43284,
+      "sha256": "77c4085fdcc45a07c68f75495eed26c8fcadaefedd32b9d0917c236f26644804"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/Raw_STL/12_front_PCI_SUPPORT_FRAME.stl",
+      "bytes": 45884,
+      "sha256": "dfad0de217dc62be13fb778754eedeaa8305235a65ff5b054928d719d92a108b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/Raw_STL/16_CPU_VERTICAL_SIDE_FLUSH_TO_BEAM.stl",
+      "bytes": 37484,
+      "sha256": "40af31e6041c44b421385f14a7ce518c02dde0f498e78ef6eb81281cb2c29f8a"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/Raw_STL/16_PCI_INSET_SIDE_16_45mm.stl",
+      "bytes": 37484,
+      "sha256": "cb997c4b51e9086a005c6912cc8ac894a964152b7560fc83ae1c08dbbc0e8eb6"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/Raw_STL/18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm.stl",
+      "bytes": 46684,
+      "sha256": "fa69363e1bd535feb5197fac56d8f687ac75bd3a7370d5864255465cdcc19ad1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/Raw_STL/19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 49084,
+      "sha256": "4aceb234fba9de8f50e79166a87ed7ff1966b3855dff465f9456ec1ac7f4562b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/Raw_STL/19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 48484,
+      "sha256": "8c7491eb9cf161b9b4d4b16f416e61aec173c960884a219fe337409db87c867c"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/Raw_STL/19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 49084,
+      "sha256": "5d85588fc2af442c45422764d2b15a7f8ce04eeff932240d1415ea5c460284b1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/Raw_STL/20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm.stl",
+      "bytes": 66284,
+      "sha256": "89da34277bedf0ef0c37db1ae80d09e635b0962922a568dbda064eccddb93355"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/Source_User_V13_9_Plates_Before_Update.3mf",
+      "bytes": 344045,
+      "sha256": "450682a98f3c3d000fcc28f04bd01a1a32f62dfa273db33f2eef4c1c27d8b064"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/Sources/Build_V15_GPU_Fit.py",
+      "bytes": 4988,
+      "sha256": "7ddb07083a47cb368a2809b2654347d6a2a35dc4b58d974b72c81f03a41d7ef5"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/Sources/Package_V15_GPU_Fit.py",
+      "bytes": 5960,
+      "sha256": "76b978cf79796e66654d04971ba8130107b36d33755728efc41ced915d860aae"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/Style1_V15_All_Parts_10_Plates_With_Temporary_Repair.3mf",
+      "bytes": 382193,
+      "sha256": "66e5950d5e71cd282ed5339c7a1b1cf9b0e95fba624055dd258b691022e1b815"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/Style1_V15_GPU_Replacements_1_Plate_UNSLICED.3mf",
+      "bytes": 33922,
+      "sha256": "b698abf93fb4cfb9a8058056e2df92be7be6b7ecc7e2469917dedcf3e5844505"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/mesh_checks.json",
+      "bytes": 3704,
+      "sha256": "6aa003e4ed89ae6d11eb81cf9bc37855041251a69843ffab3f01c78431de37a4"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/package_verification.json",
+      "bytes": 326,
+      "sha256": "561d0ef8cf4d4b3af1478afe417950241d956b0f5cd2250a6ec795d4a60afec4"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/parts.json",
+      "bytes": 3136,
+      "sha256": "cbc51a899e5159fd8b2ea06bb7373f5bcc1c34b44a05b41d77dd1e5c8a30cb4b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/replacement-plate-checks.json",
+      "bytes": 668,
+      "sha256": "cb4cae8d94eb4bb667ac02e0e18c7458471284a83d6105e252c6c095ece9630f"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/replacement-plate-list.csv",
+      "bytes": 299,
+      "sha256": "19cad9f14eb125f2e1a5ea9101cdb79083f5f55c06d56629eb4d8f53064365aa"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/ten_plate_project_verification.json",
+      "bytes": 1059,
+      "sha256": "22f7c7ab34fb6693275d4cbe350274d5c1d0099550423126b5af402a1e65193d"
+    },
+    {
+      "path": "outputs/ATX-Desk-v15/verification.json",
+      "bytes": 737,
+      "sha256": "9de556d53085626ed7a0ea46672a337f3b660f0f7c1cb1742648447a5d75c2c0"
+    },
+    {
+      "path": "outputs/First-Print-V12/FIRST_CPU_Mainboard_Rail_V12.3mf",
+      "bytes": 33115,
+      "sha256": "da1db627167d422a287d404b6e47797bed1daf2e67289da8ece92bc3cb3ee48e"
+    },
+    {
+      "path": "outputs/First-Print-V12/FIRST_CPU_Mainboard_Rail_V12.stl",
+      "bytes": 39484,
+      "sha256": "2d7c243a1a8366968c135abb045345c0c36536494914412fc6a3a22fb8262a91"
+    },
+    {
+      "path": "outputs/First-Print-V12/First_CPU_Rail.png",
+      "bytes": 247650,
+      "sha256": "e3cdd229f554d6cceff38d887630819af8e0388ef022c30edb723d3506b40ca8"
+    },
+    {
+      "path": "outputs/First-Print-V12/Readme.txt",
+      "bytes": 950,
+      "sha256": "a24658fa97c4e1537bf99fdc503c2a776784d9b1351bb1a79dd5b69eacfb0b1f"
+    },
+    {
+      "path": "outputs/Hook-Fit-v03.zip",
+      "bytes": 258099,
+      "sha256": "aee0d110cd844f50ef36e61777f71ca25e2380746a4f669a92e6683f647efaf4"
+    },
+    {
+      "path": "outputs/Hook-Fit-v03/HookDepthBatch/HookDepthBatch.manifest",
+      "bytes": 258,
+      "sha256": "26eb229d0f652488a052838ba5d24f24001a8b9f88c7ccf7c1aee61b4574397d"
+    },
+    {
+      "path": "outputs/Hook-Fit-v03/HookDepthBatch/HookDepthBatch.py",
+      "bytes": 4416,
+      "sha256": "dd84df84702d1713fe3c304708c5ba1f9b6b38568ea65d89da252f4cbaa07528"
+    },
+    {
+      "path": "outputs/Hook-Fit-v03/HookDepth_4.0_4.2_v03.f3d",
+      "bytes": 249006,
+      "sha256": "844521267d0d0df2f6f582db9242ecbf402494aab5d9c093c9067b73e80fcdc1"
+    },
+    {
+      "path": "outputs/Hook-Fit-v03/PRINT_BOTH_4.0_4.2mm.stl",
+      "bytes": 15684,
+      "sha256": "141fb01fc29c2c4a4eb4e04172bd6414d702c1a5a6881b8163b90e5b6fbaf661"
+    },
+    {
+      "path": "outputs/Hook-Fit-v03/PRINT_depth_4.0mm.stl",
+      "bytes": 7484,
+      "sha256": "3b6ecfd399614fb12af0c1243bbba8c8bace796ae08d844dc8b984848e9e9626"
+    },
+    {
+      "path": "outputs/Hook-Fit-v03/PRINT_depth_4.2mm.stl",
+      "bytes": 8284,
+      "sha256": "34bccb1c8de6630d5fff04e73d94304dac93c1a0a0faf238fa4d84d339030f9c"
+    },
+    {
+      "path": "outputs/Hook-Fit-v03/README.txt",
+      "bytes": 2388,
+      "sha256": "ee3c631ab6580409921cfd911e9c740695774ccd8245a9044f58d1a59e875458"
+    },
+    {
+      "path": "outputs/Hook-Fit-v03/mesh_check.json",
+      "bytes": 379,
+      "sha256": "b04cd4ca65e066b8c180f85152cc10f479024b3bd1da16fef82e2df884a1c286"
+    },
+    {
+      "path": "outputs/Hook-Fit-v03/raw_depth_4.0.stl",
+      "bytes": 7484,
+      "sha256": "591a8849c9124fc8fd11519a34e272b256d01d73aa6b5217ca9d12b882ec35f7"
+    },
+    {
+      "path": "outputs/Hook-Fit-v03/raw_depth_4.2.stl",
+      "bytes": 8284,
+      "sha256": "e34210cd6a42558a8243a0b21042f315f0b77e3ad8a03edf16ebfe56e1efc640"
+    },
+    {
+      "path": "outputs/Hook-Fit-v03/verification.json",
+      "bytes": 284,
+      "sha256": "1443c1e3bce9b1ef2f5e0d98c1dde38e6bf976aae4ce7cb178dfdadba30263b3"
+    },
+    {
+      "path": "outputs/Single-Bracket-v04.zip",
+      "bytes": 236263,
+      "sha256": "9722e6e0feeefff82053589cd31c6350171eaade8240e6bd4bf54a805c99491d"
+    },
+    {
+      "path": "outputs/Single-Bracket-v04/PRINT_AntiLiftKey_v04_mm.stl",
+      "bytes": 12284,
+      "sha256": "c2aca61d99d1ef041df06964d527032700ce454887d3e94e35795c571ee55dd6"
+    },
+    {
+      "path": "outputs/Single-Bracket-v04/PRINT_Bracket_v04_mm.stl",
+      "bytes": 14484,
+      "sha256": "9872e1ab3de3e68f76e50b1c1b190bf021430f0c2f2d9f9eb2393b53ce37d0ed"
+    },
+    {
+      "path": "outputs/Single-Bracket-v04/README.txt",
+      "bytes": 5422,
+      "sha256": "4527b4d6192c6f2aaf3bc4697e44c92ef9e29924b59ebfd6a488cfa6f5ecee4c"
+    },
+    {
+      "path": "outputs/Single-Bracket-v04/SingleBracket/SingleBracket.manifest",
+      "bytes": 269,
+      "sha256": "246ed205e5b1da4760358fa9c01581149f885099d0adca3e4b4c8848423a7ab8"
+    },
+    {
+      "path": "outputs/Single-Bracket-v04/SingleBracket/SingleBracket.py",
+      "bytes": 6068,
+      "sha256": "a7322a435775b31743344e4abf9f5002d31ba1be1fe78674236ef5573ddde746"
+    },
+    {
+      "path": "outputs/Single-Bracket-v04/Single_Bracket_v04.f3d",
+      "bytes": 222831,
+      "sha256": "b3e9c6e68fdffb5078aee797041d3298767aa6386b16cdd67e83217585c47501"
+    },
+    {
+      "path": "outputs/Single-Bracket-v04/mesh_check.json",
+      "bytes": 430,
+      "sha256": "d9828251f8c392bb1c199f0bf78896b43f1972dcdd44383dd78d28000cd63cc9"
+    },
+    {
+      "path": "outputs/Single-Bracket-v04/raw_AntiLiftKey.stl",
+      "bytes": 12284,
+      "sha256": "6e9ffb827e70136bab6f93b79d1ce4ee8be5ca0c2c12f623f4d5f61e98f99c8e"
+    },
+    {
+      "path": "outputs/Single-Bracket-v04/raw_Bracket.stl",
+      "bytes": 14484,
+      "sha256": "0412aac5f990335135d7a7ddf7dfb9862dbae3f3f05c16d55da2450fa334fe1d"
+    },
+    {
+      "path": "outputs/Single-Bracket-v04/verification.json",
+      "bytes": 340,
+      "sha256": "7807394f9f54841e0d8c5eb99a31916bc7f6a9ebe676220c829948919bf12ef1"
+    },
+    {
+      "path": "outputs/Single-Bracket-v05.zip",
+      "bytes": 230552,
+      "sha256": "42bf6530856fc3791ff5cb5827042d99d42f2fd4727939cf684e345bc6f2df45"
+    },
+    {
+      "path": "outputs/Single-Bracket-v05/PRINT_AntiLiftKey_v05_mm.stl",
+      "bytes": 12284,
+      "sha256": "c2aca61d99d1ef041df06964d527032700ce454887d3e94e35795c571ee55dd6"
+    },
+    {
+      "path": "outputs/Single-Bracket-v05/PRINT_Bracket_v05_mm.stl",
+      "bytes": 14484,
+      "sha256": "46fd565f2b04e51debd14183fda37acb1b24df426745e606d3fae45907d69872"
+    },
+    {
+      "path": "outputs/Single-Bracket-v05/README.txt",
+      "bytes": 6267,
+      "sha256": "8511006c53019d1be688289e07d70e48465f1d405221378a68b5241d6d2545e1"
+    },
+    {
+      "path": "outputs/Single-Bracket-v05/SingleBracket/SingleBracket.manifest",
+      "bytes": 269,
+      "sha256": "d32b8f8c87972661a19f3aed42beea9f62ddc99dd79c27e14f7c07a46c458f3f"
+    },
+    {
+      "path": "outputs/Single-Bracket-v05/SingleBracket/SingleBracket.py",
+      "bytes": 6103,
+      "sha256": "59ad4d0a779c521f3cf35e69814f7ae8abf2b0f9abaa4bdbe0d6715bac22e62e"
+    },
+    {
+      "path": "outputs/Single-Bracket-v05/Single_Bracket_v05.f3d",
+      "bytes": 216346,
+      "sha256": "725460d0bf3fdef9f752268557315d9c64f5f18bbc9e2219b658e0782cc9315f"
+    },
+    {
+      "path": "outputs/Single-Bracket-v05/mesh_check.json",
+      "bytes": 431,
+      "sha256": "c4cb2f2e822fb1324181a300603e3aa9a20fdad2fe75221087fe534905012820"
+    },
+    {
+      "path": "outputs/Single-Bracket-v05/print_geometry_check.json",
+      "bytes": 230,
+      "sha256": "96de52bacdd04378f0567771907092daa91510952474858f2689a95dd8de26bf"
+    },
+    {
+      "path": "outputs/Single-Bracket-v05/raw_AntiLiftKey.stl",
+      "bytes": 12284,
+      "sha256": "6e9ffb827e70136bab6f93b79d1ce4ee8be5ca0c2c12f623f4d5f61e98f99c8e"
+    },
+    {
+      "path": "outputs/Single-Bracket-v05/raw_Bracket.stl",
+      "bytes": 14484,
+      "sha256": "b9d6926438fcc3f710bc622f833bdff527d98ff55c3001518ff15f22eff48f54"
+    },
+    {
+      "path": "outputs/Single-Bracket-v05/verification.json",
+      "bytes": 339,
+      "sha256": "57ee24670c66287e3cee1c42766086c3475c80f0f831277267e1019ab3e08587"
+    },
+    {
+      "path": "outputs/Style1-V14-GPU-Replacement-Parts.zip",
+      "bytes": 56219,
+      "sha256": "d5520eb93a1cf0bf48ba72b02d764d4e4d174d05c0ffdcebc45db1f74bef57eb"
+    },
+    {
+      "path": "outputs/Style1-V15-GPU-Replacement-Parts.zip",
+      "bytes": 55202,
+      "sha256": "1e072e9be741543104c85f9547a1434481319a32620ab3c98fdac86f6ddbbbc8"
+    },
+    {
+      "path": "outputs/Style2-V06-A1-PETG-Print-Package.zip",
+      "bytes": 2102806,
+      "sha256": "abf9f09a3dce241a4e7c9dd74ecf58ece7cded241e938384cd5b5ad79ad084de"
+    },
+    {
+      "path": "outputs/Style2-V07-Dual140-A1-PETG-Print-Package.zip",
+      "bytes": 2123448,
+      "sha256": "e9c0012e5319236dc962c04926c18ca8c1020b9a3e82f09ca56768b6d5286af9"
+    },
+    {
+      "path": "outputs/Style2-V09-Dual140-A1-PETG-Print-Package.zip",
+      "bytes": 4998654,
+      "sha256": "62fedbb476ad534ae59c056217b7e12fb9af34c1b50c761feb301361208ae33a"
+    },
+    {
+      "path": "outputs/Style2-v01/Assembly.png",
+      "bytes": 356179,
+      "sha256": "42871cd819965494d99d3c105cee80e4383e884a1993603ab41350f8b2f281a0"
+    },
+    {
+      "path": "outputs/Style2-v01/Raw_STL/01_UPRIGHT_1.stl",
+      "bytes": 53884,
+      "sha256": "f9df8eee3c717f0a2e1f9b49e8da768c54f3c437cc6f5f4bd66d0bb09b612726"
+    },
+    {
+      "path": "outputs/Style2-v01/Raw_STL/01_UPRIGHT_2.stl",
+      "bytes": 48684,
+      "sha256": "9275be63ea184b16acf4dc0dceee424b8865040289df44621a2788a71e211e96"
+    },
+    {
+      "path": "outputs/Style2-v01/Raw_STL/01_UPRIGHT_3.stl",
+      "bytes": 53484,
+      "sha256": "40395671e701c74614d7f7a99d32529213a9aa08f54f7778ae69cd1d5a5d4772"
+    },
+    {
+      "path": "outputs/Style2-v01/Raw_STL/02_FOOT_1.stl",
+      "bytes": 41684,
+      "sha256": "399bbd3e6113e8daca3370681e850b046ed0e0058786a85d2a67818349f94e9a"
+    },
+    {
+      "path": "outputs/Style2-v01/Raw_STL/02_FOOT_2.stl",
+      "bytes": 36284,
+      "sha256": "3a3d9d856f2e73b054ab8b57e1c5dad3621a73e87b1c9309967eeaa772e3cbd1"
+    },
+    {
+      "path": "outputs/Style2-v01/Raw_STL/02_FOOT_3.stl",
+      "bytes": 41684,
+      "sha256": "b39bb8a0121f91e35ed965bb96217112668f7b31f2343fef1fa5aa99f4ff5a33"
+    },
+    {
+      "path": "outputs/Style2-v01/Raw_STL/03_LOWER_CROSSBAR.stl",
+      "bytes": 34884,
+      "sha256": "d7fcf126e056cfa828af346dbc900dcbe921fd140614eefe20288a2f7b4088f4"
+    },
+    {
+      "path": "outputs/Style2-v01/Raw_STL/03_UPPER_CROSSBAR.stl",
+      "bytes": 34884,
+      "sha256": "c045e314a09bff3a5ca100d27f22698fa12ff17e01faf94f43214377f7cc119b"
+    },
+    {
+      "path": "outputs/Style2-v01/Raw_STL/04_REAR_DIAGONAL.stl",
+      "bytes": 26284,
+      "sha256": "ae3a324c8495a522642b378ad8ee8c0cd5b260e0ec33fa4d608a93f4cc15bac2"
+    },
+    {
+      "path": "outputs/Style2-v01/Raw_STL/05_SIDE_BRACE_1.stl",
+      "bytes": 26284,
+      "sha256": "5d61b437704087b0f7d9de03d88a4b9ff81953bd28001784212e8d7aa9db77a8"
+    },
+    {
+      "path": "outputs/Style2-v01/Raw_STL/05_SIDE_BRACE_3.stl",
+      "bytes": 26284,
+      "sha256": "59de248822ab3eda86e5f16895bf13973a9949526d7819efcdfea09b37b5637e"
+    },
+    {
+      "path": "outputs/Style2-v01/Raw_STL/06_GPU_CARRIER.stl",
+      "bytes": 72884,
+      "sha256": "fd734b36a2229c9b0e525b1da2c2bf5b0b89a73dbd8642e8c4bd07463d2b0cb6"
+    },
+    {
+      "path": "outputs/Style2-v01/Raw_STL/07_RISER_TRAY_PENDING_MEASUREMENT.stl",
+      "bytes": 40884,
+      "sha256": "221e884450439360648139cfb313aeb02cc54ff1acbd5b77cc42c0319d5d1935"
+    },
+    {
+      "path": "outputs/Style2-v01/Raw_STL/08_GPU_PAD_LEFT_FIT_REQUIRED.stl",
+      "bytes": 33884,
+      "sha256": "ae447ad7eb115fa0b35ee2abdaacefa5a4f73c7536ab3db4ceed7de9abe0f6fd"
+    },
+    {
+      "path": "outputs/Style2-v01/Raw_STL/08_GPU_PAD_RIGHT_FIT_REQUIRED.stl",
+      "bytes": 33884,
+      "sha256": "0297d4b58c06b28bab342d5d49761edb824fe6dc3faec20e23c03fa192d38e8b"
+    },
+    {
+      "path": "outputs/Style2-v01/Raw_STL/09_PSU_SADDLE_FRONT.stl",
+      "bytes": 33684,
+      "sha256": "2e11df7f7f6af1f7a3d33dba4266765224700fdfcd488357cddef8ac218e28e1"
+    },
+    {
+      "path": "outputs/Style2-v01/Raw_STL/09_PSU_SADDLE_REAR.stl",
+      "bytes": 33684,
+      "sha256": "3d9b43b4f0773881525172f3484b2d47f7b8bb77bb081086b81552d4bdad6c46"
+    },
+    {
+      "path": "outputs/Style2-v01/Style2_V01_315mm.f3d",
+      "bytes": 454594,
+      "sha256": "9eb7c51110c529189b0a7d2081a059683f879235e99be5e1ea340ded3833bbb7"
+    },
+    {
+      "path": "outputs/Style2-v01/Style2_V01_315mm.step",
+      "bytes": 576801,
+      "sha256": "d068b2fc9d604984d155483954748150fdaa409e27c814a5be1cef9de4a7ab4c"
+    },
+    {
+      "path": "outputs/Style2-v01/parts.json",
+      "bytes": 2947,
+      "sha256": "7ee2a6fa053805d771ee6d69fdb37dab50e944be6327a1201eed3cb142b3882c"
+    },
+    {
+      "path": "outputs/Style2-v02/Assembly.png",
+      "bytes": 353494,
+      "sha256": "0c4234832adeffca7d24f6d0b96c3a9de7b96d8fc7cbfc4ee6eb62c1098d9462"
+    },
+    {
+      "path": "outputs/Style2-v02/Exhaust_Side.png",
+      "bytes": 219383,
+      "sha256": "9cf5bb8715313dede688832b18b722840505b1cac9d9b621050e4d25664ef468"
+    },
+    {
+      "path": "outputs/Style2-v02/Raw_STL/01_UPRIGHT_1.stl",
+      "bytes": 53884,
+      "sha256": "316cf509b119fdae1b8b4b314cb84c36121a2f672057edf299609d11c4fa86b3"
+    },
+    {
+      "path": "outputs/Style2-v02/Raw_STL/01_UPRIGHT_2.stl",
+      "bytes": 48684,
+      "sha256": "546780053efcfcc82e5906db93748a977e0a04dc9dba1339739ceabf24c0c9c8"
+    },
+    {
+      "path": "outputs/Style2-v02/Raw_STL/01_UPRIGHT_3.stl",
+      "bytes": 53484,
+      "sha256": "66f748e59aab0c7119edef7e93b5d21881ffc58add478ab71a968aae8cb220c2"
+    },
+    {
+      "path": "outputs/Style2-v02/Raw_STL/02_FOOT_1.stl",
+      "bytes": 42684,
+      "sha256": "29f571cae0d8525ee77dbf8411aab61ee9383c4c56b2b08ef227fcc95d1bceac"
+    },
+    {
+      "path": "outputs/Style2-v02/Raw_STL/02_FOOT_2.stl",
+      "bytes": 37084,
+      "sha256": "4f88a9f7c05de9a2d1457559bbf4164fed7dcadcdedaadba5398420b59da1f72"
+    },
+    {
+      "path": "outputs/Style2-v02/Raw_STL/02_FOOT_3.stl",
+      "bytes": 42684,
+      "sha256": "3050b5bc7db7e4c167e8cb0fed4d4775f0c00b16b1eb434ff8f6fbc0356fae14"
+    },
+    {
+      "path": "outputs/Style2-v02/Raw_STL/03_LOWER_CROSSBAR.stl",
+      "bytes": 34884,
+      "sha256": "d7fcf126e056cfa828af346dbc900dcbe921fd140614eefe20288a2f7b4088f4"
+    },
+    {
+      "path": "outputs/Style2-v02/Raw_STL/03_UPPER_CROSSBAR.stl",
+      "bytes": 34884,
+      "sha256": "c045e314a09bff3a5ca100d27f22698fa12ff17e01faf94f43214377f7cc119b"
+    },
+    {
+      "path": "outputs/Style2-v02/Raw_STL/04_REAR_DIAGONAL.stl",
+      "bytes": 26284,
+      "sha256": "ae3a324c8495a522642b378ad8ee8c0cd5b260e0ec33fa4d608a93f4cc15bac2"
+    },
+    {
+      "path": "outputs/Style2-v02/Raw_STL/05_SIDE_BRACE_1.stl",
+      "bytes": 30484,
+      "sha256": "16ba3695b37aafeb9baa3602ee49ba918d1f05337766d55ca49836151b388aa7"
+    },
+    {
+      "path": "outputs/Style2-v02/Raw_STL/05_SIDE_BRACE_3.stl",
+      "bytes": 30484,
+      "sha256": "91689857ca61c5e9d89dc07469dd502fc850847105443dc32e18d9222ff274b2"
+    },
+    {
+      "path": "outputs/Style2-v02/Raw_STL/06_GPU_CARRIER.stl",
+      "bytes": 72884,
+      "sha256": "60bc310c06601af21c3173d02dd895b4fd1e1ca12e1bf6b1605e2d9e69de4554"
+    },
+    {
+      "path": "outputs/Style2-v02/Raw_STL/07_RISER_TRAY_PENDING_MEASUREMENT.stl",
+      "bytes": 40884,
+      "sha256": "221e884450439360648139cfb313aeb02cc54ff1acbd5b77cc42c0319d5d1935"
+    },
+    {
+      "path": "outputs/Style2-v02/Raw_STL/08_GPU_PAD_LEFT_FIT_REQUIRED.stl",
+      "bytes": 40484,
+      "sha256": "c9315578b739cfcfa49fe4aceaff811d025a244a38092d3912929807046193bf"
+    },
+    {
+      "path": "outputs/Style2-v02/Raw_STL/08_GPU_PAD_RIGHT_FIT_REQUIRED.stl",
+      "bytes": 40484,
+      "sha256": "a08f2a621e4fbbab0b32729118f14e387f4cb66c09f1105875f5e682b4a399ea"
+    },
+    {
+      "path": "outputs/Style2-v02/Raw_STL/09_PSU_SADDLE_FRONT.stl",
+      "bytes": 33984,
+      "sha256": "828203d4c3ec9696a85f909f3c337024885fa506f47b3afde77d29436b97cce5"
+    },
+    {
+      "path": "outputs/Style2-v02/Raw_STL/09_PSU_SADDLE_REAR.stl",
+      "bytes": 33984,
+      "sha256": "cbb61d32d12079f86a9994f83b46a15d133aa688d803e86415c2b0dd225b59d3"
+    },
+    {
+      "path": "outputs/Style2-v02/Rear_PSU_Exhaust.png",
+      "bytes": 455611,
+      "sha256": "11baee84673018d28ed1402afadf117fa1dab9a6599917ab1da4a21bf1ac2e4a"
+    },
+    {
+      "path": "outputs/Style2-v02/Style2_V02_313_8mm.f3d",
+      "bytes": 514415,
+      "sha256": "9307f12ec91a487075ec49d9affe9283be84a52751964e1af360e06d8ec1cf59"
+    },
+    {
+      "path": "outputs/Style2-v02/Style2_V02_313_8mm.step",
+      "bytes": 693233,
+      "sha256": "d347203768a4e76a80935d743df29b1d1802710c7c287389f408d461706dbdca"
+    },
+    {
+      "path": "outputs/Style2-v02/parts.json",
+      "bytes": 2923,
+      "sha256": "8328ba3f55053b3bd41854ff3863ece44dbf12d0cb4d9fd7a3b91c8c70fae5fb"
+    },
+    {
+      "path": "outputs/Style2-v02/print_envelope_checks.json",
+      "bytes": 4385,
+      "sha256": "36425868030a7c0e5028214fa1dde721a1a47a6c3ad68b502b796e55d410280b"
+    },
+    {
+      "path": "outputs/Style2-v02/verification.json",
+      "bytes": 432,
+      "sha256": "4ce7af2c2b879dd142c91e6efd8f78ebdfcb714e8daa507f3f9281440fd386f5"
+    },
+    {
+      "path": "outputs/Style2-v03/Aligned_Exhaust_Side.png",
+      "bytes": 70054,
+      "sha256": "21019236cd3203908c6d52fe1b15a16042adb520d2d91a9544422046572c554e"
+    },
+    {
+      "path": "outputs/Style2-v03/Assembly.png",
+      "bytes": 355217,
+      "sha256": "f3a15aa17f315dda527b6d89313e0458f00125d2e11995e5ac8ff163cdf96a82"
+    },
+    {
+      "path": "outputs/Style2-v03/Raw_STL/01_UPRIGHT_1.stl",
+      "bytes": 73084,
+      "sha256": "b6aaedc44592ec17d41c01eba34c754c98477b94f62ee51ffe3f6e89d6e711d7"
+    },
+    {
+      "path": "outputs/Style2-v03/Raw_STL/01_UPRIGHT_2.stl",
+      "bytes": 58284,
+      "sha256": "fbc3697376eefc93bc9aba8f2b44fbba62c5b70d50ed8add3f13db04329d29bc"
+    },
+    {
+      "path": "outputs/Style2-v03/Raw_STL/01_UPRIGHT_3.stl",
+      "bytes": 72684,
+      "sha256": "58c6d2fb8c76fd7a41f55d6ab7e3a865763b85832b400d2bd4fb9133c5cdb510"
+    },
+    {
+      "path": "outputs/Style2-v03/Raw_STL/02_FOOT_1.stl",
+      "bytes": 42684,
+      "sha256": "29f571cae0d8525ee77dbf8411aab61ee9383c4c56b2b08ef227fcc95d1bceac"
+    },
+    {
+      "path": "outputs/Style2-v03/Raw_STL/02_FOOT_2.stl",
+      "bytes": 37084,
+      "sha256": "4f88a9f7c05de9a2d1457559bbf4164fed7dcadcdedaadba5398420b59da1f72"
+    },
+    {
+      "path": "outputs/Style2-v03/Raw_STL/02_FOOT_3.stl",
+      "bytes": 42684,
+      "sha256": "3050b5bc7db7e4c167e8cb0fed4d4775f0c00b16b1eb434ff8f6fbc0356fae14"
+    },
+    {
+      "path": "outputs/Style2-v03/Raw_STL/03_LOWER_CROSSBAR.stl",
+      "bytes": 86684,
+      "sha256": "1165d5398b4f24396cc6da45b7e26ebdfee502a7891738a414a433a158de7ce9"
+    },
+    {
+      "path": "outputs/Style2-v03/Raw_STL/03_UPPER_CROSSBAR.stl",
+      "bytes": 86684,
+      "sha256": "6b48e258833d212d11656ed1dceab7a03e9405f7ac1d06fdbd30cd359fc7b9bf"
+    },
+    {
+      "path": "outputs/Style2-v03/Raw_STL/05_SIDE_BRACE_1.stl",
+      "bytes": 30484,
+      "sha256": "16ba3695b37aafeb9baa3602ee49ba918d1f05337766d55ca49836151b388aa7"
+    },
+    {
+      "path": "outputs/Style2-v03/Raw_STL/05_SIDE_BRACE_3.stl",
+      "bytes": 30484,
+      "sha256": "91689857ca61c5e9d89dc07469dd502fc850847105443dc32e18d9222ff274b2"
+    },
+    {
+      "path": "outputs/Style2-v03/Raw_STL/06_GPU_CARRIER.stl",
+      "bytes": 72884,
+      "sha256": "60bc310c06601af21c3173d02dd895b4fd1e1ca12e1bf6b1605e2d9e69de4554"
+    },
+    {
+      "path": "outputs/Style2-v03/Raw_STL/07_RISER_TRAY_PENDING_MEASUREMENT.stl",
+      "bytes": 40884,
+      "sha256": "221e884450439360648139cfb313aeb02cc54ff1acbd5b77cc42c0319d5d1935"
+    },
+    {
+      "path": "outputs/Style2-v03/Raw_STL/08_GPU_PAD_LEFT_FIT_REQUIRED.stl",
+      "bytes": 40484,
+      "sha256": "c9315578b739cfcfa49fe4aceaff811d025a244a38092d3912929807046193bf"
+    },
+    {
+      "path": "outputs/Style2-v03/Raw_STL/08_GPU_PAD_RIGHT_FIT_REQUIRED.stl",
+      "bytes": 40484,
+      "sha256": "a08f2a621e4fbbab0b32729118f14e387f4cb66c09f1105875f5e682b4a399ea"
+    },
+    {
+      "path": "outputs/Style2-v03/Raw_STL/09_PSU_SADDLE_FRONT.stl",
+      "bytes": 33184,
+      "sha256": "d796c646ed9f468e101d18bbb0b583c8235ac2c61767bab4dac9ed07ff703335"
+    },
+    {
+      "path": "outputs/Style2-v03/Raw_STL/09_PSU_SADDLE_REAR.stl",
+      "bytes": 33184,
+      "sha256": "9152101adbe001ffcfd8bb7b62d979045403a9ca4bd06b4b565b83b61d36ea73"
+    },
+    {
+      "path": "outputs/Style2-v03/Rear_PSU_Aligned.png",
+      "bytes": 446402,
+      "sha256": "2bbea9ea0f22b4265c376982132b18a035cec2333c1cdecacf9e4d5965e64628"
+    },
+    {
+      "path": "outputs/Style2-v03/Style2_V03_313_8mm.f3d",
+      "bytes": 524574,
+      "sha256": "c603078e06910bc98ddef87457a4c90e4e1f69e05f883e1c01a24822e664828f"
+    },
+    {
+      "path": "outputs/Style2-v03/Style2_V03_313_8mm.step",
+      "bytes": 751023,
+      "sha256": "22523c91bb251e695006c675482844ed2cb77c22157d732d5b133964b0a58bf4"
+    },
+    {
+      "path": "outputs/Style2-v03/parts.json",
+      "bytes": 2740,
+      "sha256": "5155350cec73acd4a9301c86cbb43fe278e347986b9ea650beb581578b901193"
+    },
+    {
+      "path": "outputs/Style2-v03/print_envelope_checks.json",
+      "bytes": 4129,
+      "sha256": "c49f2ed65203625c3e3def064d064e3a240979536b8bc9262dee108b19033f54"
+    },
+    {
+      "path": "outputs/Style2-v03/verification.json",
+      "bytes": 421,
+      "sha256": "b870a8653756a0b01f917c3adfe1e5f89d2dd3bffdf9f1dc921a6fdda25a6b16"
+    },
+    {
+      "path": "outputs/Style2-v04/Assembly.png",
+      "bytes": 268554,
+      "sha256": "e4f7c4ecfbc2cc7dfc9e7d1a7d0b3176debb6ddfb22fa41acbaef4aefcabf092"
+    },
+    {
+      "path": "outputs/Style2-v04/Compact_Side.png",
+      "bytes": 72251,
+      "sha256": "77f2acd35f70bfc9c38ff7891bfd64263a917ff686c06a1d174f68a5efee94bf"
+    },
+    {
+      "path": "outputs/Style2-v04/Raw_STL/01_UPRIGHT_1.stl",
+      "bytes": 77884,
+      "sha256": "7dac822e399fa1a6da71c3b005c780f235beaf47c2e45e09a61ea6fa02499acf"
+    },
+    {
+      "path": "outputs/Style2-v04/Raw_STL/01_UPRIGHT_2.stl",
+      "bytes": 58284,
+      "sha256": "fbc3697376eefc93bc9aba8f2b44fbba62c5b70d50ed8add3f13db04329d29bc"
+    },
+    {
+      "path": "outputs/Style2-v04/Raw_STL/01_UPRIGHT_3.stl",
+      "bytes": 77484,
+      "sha256": "fed526e96ea7e57845251d7efaee527ccb06a40a07a2c71e0678dd4207735b29"
+    },
+    {
+      "path": "outputs/Style2-v04/Raw_STL/02_FOOT_1.stl",
+      "bytes": 42684,
+      "sha256": "02b5c33dbc8155c4510a0a27b72240a9e3044e49211c1f0b8d0d61edcfcf1fae"
+    },
+    {
+      "path": "outputs/Style2-v04/Raw_STL/02_FOOT_2.stl",
+      "bytes": 37084,
+      "sha256": "e54b14e9adf822fcc51394f749b7f0654d7e7630c549aa27fb54226a6c0e8b7d"
+    },
+    {
+      "path": "outputs/Style2-v04/Raw_STL/02_FOOT_3.stl",
+      "bytes": 42684,
+      "sha256": "b96468423cdceead6a45f0d515a39cbd60e5ddff5eb17d0819d8a0ec59626063"
+    },
+    {
+      "path": "outputs/Style2-v04/Raw_STL/03_LOWER_CROSSBAR.stl",
+      "bytes": 86684,
+      "sha256": "1165d5398b4f24396cc6da45b7e26ebdfee502a7891738a414a433a158de7ce9"
+    },
+    {
+      "path": "outputs/Style2-v04/Raw_STL/03_UPPER_CROSSBAR.stl",
+      "bytes": 86684,
+      "sha256": "6b48e258833d212d11656ed1dceab7a03e9405f7ac1d06fdbd30cd359fc7b9bf"
+    },
+    {
+      "path": "outputs/Style2-v04/Raw_STL/05_SIDE_RECTANGULAR_FRAME_1.stl",
+      "bytes": 39084,
+      "sha256": "c75157cd4c9eb97bd71eed45d52716948386bdb2804cbacb9843316a8e08a178"
+    },
+    {
+      "path": "outputs/Style2-v04/Raw_STL/05_SIDE_RECTANGULAR_FRAME_3.stl",
+      "bytes": 39084,
+      "sha256": "f0e9751099ba40f03c23b17a7e0d332195117fab20aaf745f4600af2b69fa554"
+    },
+    {
+      "path": "outputs/Style2-v04/Raw_STL/06_GPU_CARRIER.stl",
+      "bytes": 72884,
+      "sha256": "60bc310c06601af21c3173d02dd895b4fd1e1ca12e1bf6b1605e2d9e69de4554"
+    },
+    {
+      "path": "outputs/Style2-v04/Raw_STL/07_RISER_TRAY_PENDING_MEASUREMENT.stl",
+      "bytes": 40884,
+      "sha256": "221e884450439360648139cfb313aeb02cc54ff1acbd5b77cc42c0319d5d1935"
+    },
+    {
+      "path": "outputs/Style2-v04/Raw_STL/08_GPU_PAD_LEFT_FIT_REQUIRED.stl",
+      "bytes": 40484,
+      "sha256": "c9315578b739cfcfa49fe4aceaff811d025a244a38092d3912929807046193bf"
+    },
+    {
+      "path": "outputs/Style2-v04/Raw_STL/08_GPU_PAD_RIGHT_FIT_REQUIRED.stl",
+      "bytes": 40484,
+      "sha256": "a08f2a621e4fbbab0b32729118f14e387f4cb66c09f1105875f5e682b4a399ea"
+    },
+    {
+      "path": "outputs/Style2-v04/Raw_STL/09_PSU_SADDLE_FRONT.stl",
+      "bytes": 33184,
+      "sha256": "f6bd589ff658dcb658dc45241cb86370c1758d3e8f816601ec89c33267f9ff06"
+    },
+    {
+      "path": "outputs/Style2-v04/Raw_STL/09_PSU_SADDLE_REAR.stl",
+      "bytes": 33284,
+      "sha256": "ff238afb81a062a668a37a35d022429cb0d2cf4fdd90ef41a651c23fc79c2dd7"
+    },
+    {
+      "path": "outputs/Style2-v04/Rear_Compact_PSU.png",
+      "bytes": 369286,
+      "sha256": "1e4df1ff7e70525950a69055d73a6d104560b33d6a01e729712b7f043fb10d71"
+    },
+    {
+      "path": "outputs/Style2-v04/Style2_V04_313_8mm.f3d",
+      "bytes": 535085,
+      "sha256": "21666bf317374a881a0c6d4c2804439d5dd36ad33c0db8e73be18181824846b9"
+    },
+    {
+      "path": "outputs/Style2-v04/Style2_V04_313_8mm.step",
+      "bytes": 771230,
+      "sha256": "09b88715a87a137384bb0372cf74e9af6257ae555c7ec9fa24c6ffad1f2d08f9"
+    },
+    {
+      "path": "outputs/Style2-v04/parts.json",
+      "bytes": 2789,
+      "sha256": "028793e9f0182fbcb37d091519e7bea4eff94c6b4da1e2aeba20f886a8727103"
+    },
+    {
+      "path": "outputs/Style2-v04/print_envelope_checks.json",
+      "bytes": 4159,
+      "sha256": "78a9e3143786e48ce1d57419b8999ed578421691b2fd80bed070110f1ab81121"
+    },
+    {
+      "path": "outputs/Style2-v04/verification.json",
+      "bytes": 667,
+      "sha256": "060af76d5560eb40f1110b7c71451ab6a447ea815c747763101d997faa7ae24c"
+    },
+    {
+      "path": "outputs/Style2-v05/Assembly.png",
+      "bytes": 268604,
+      "sha256": "5a3f258ca15692efdf5ad5d8cffb6ac6031f55bfbdade3bca803a3cbd8420464"
+    },
+    {
+      "path": "outputs/Style2-v05/PSU_Stop_Ramp_Detail.png",
+      "bytes": 377408,
+      "sha256": "ddc925ceb1b38dd2cf03226ee13916a2152988c97677e45208c4b756b31fc48b"
+    },
+    {
+      "path": "outputs/Style2-v05/Raw_STL/01_UPRIGHT_1.stl",
+      "bytes": 77884,
+      "sha256": "7dac822e399fa1a6da71c3b005c780f235beaf47c2e45e09a61ea6fa02499acf"
+    },
+    {
+      "path": "outputs/Style2-v05/Raw_STL/01_UPRIGHT_2.stl",
+      "bytes": 58284,
+      "sha256": "fbc3697376eefc93bc9aba8f2b44fbba62c5b70d50ed8add3f13db04329d29bc"
+    },
+    {
+      "path": "outputs/Style2-v05/Raw_STL/01_UPRIGHT_3.stl",
+      "bytes": 77484,
+      "sha256": "fed526e96ea7e57845251d7efaee527ccb06a40a07a2c71e0678dd4207735b29"
+    },
+    {
+      "path": "outputs/Style2-v05/Raw_STL/02_FOOT_1.stl",
+      "bytes": 42684,
+      "sha256": "20df389aac264de7ab3aed1ac78b168f644c4d795606d36c2066c8602c9e04e1"
+    },
+    {
+      "path": "outputs/Style2-v05/Raw_STL/02_FOOT_2.stl",
+      "bytes": 37084,
+      "sha256": "e54b14e9adf822fcc51394f749b7f0654d7e7630c549aa27fb54226a6c0e8b7d"
+    },
+    {
+      "path": "outputs/Style2-v05/Raw_STL/02_FOOT_3.stl",
+      "bytes": 42684,
+      "sha256": "d02b5e5705f3de084fae1b95b368f5a17634472b9b19b9af50c3817cbf1efcf2"
+    },
+    {
+      "path": "outputs/Style2-v05/Raw_STL/03_LOWER_CROSSBAR.stl",
+      "bytes": 86684,
+      "sha256": "1165d5398b4f24396cc6da45b7e26ebdfee502a7891738a414a433a158de7ce9"
+    },
+    {
+      "path": "outputs/Style2-v05/Raw_STL/03_UPPER_CROSSBAR.stl",
+      "bytes": 86684,
+      "sha256": "6b48e258833d212d11656ed1dceab7a03e9405f7ac1d06fdbd30cd359fc7b9bf"
+    },
+    {
+      "path": "outputs/Style2-v05/Raw_STL/05_SIDE_RECTANGULAR_FRAME_1.stl",
+      "bytes": 39084,
+      "sha256": "c75157cd4c9eb97bd71eed45d52716948386bdb2804cbacb9843316a8e08a178"
+    },
+    {
+      "path": "outputs/Style2-v05/Raw_STL/05_SIDE_RECTANGULAR_FRAME_3.stl",
+      "bytes": 39084,
+      "sha256": "f0e9751099ba40f03c23b17a7e0d332195117fab20aaf745f4600af2b69fa554"
+    },
+    {
+      "path": "outputs/Style2-v05/Raw_STL/06_GPU_CARRIER.stl",
+      "bytes": 72884,
+      "sha256": "60bc310c06601af21c3173d02dd895b4fd1e1ca12e1bf6b1605e2d9e69de4554"
+    },
+    {
+      "path": "outputs/Style2-v05/Raw_STL/07_RISER_TRAY_PENDING_MEASUREMENT.stl",
+      "bytes": 40884,
+      "sha256": "221e884450439360648139cfb313aeb02cc54ff1acbd5b77cc42c0319d5d1935"
+    },
+    {
+      "path": "outputs/Style2-v05/Raw_STL/08_GPU_PAD_LEFT_FIT_REQUIRED.stl",
+      "bytes": 40484,
+      "sha256": "c9315578b739cfcfa49fe4aceaff811d025a244a38092d3912929807046193bf"
+    },
+    {
+      "path": "outputs/Style2-v05/Raw_STL/08_GPU_PAD_RIGHT_FIT_REQUIRED.stl",
+      "bytes": 40484,
+      "sha256": "a08f2a621e4fbbab0b32729118f14e387f4cb66c09f1105875f5e682b4a399ea"
+    },
+    {
+      "path": "outputs/Style2-v05/Raw_STL/09_PSU_SADDLE_FRONT.stl",
+      "bytes": 33184,
+      "sha256": "9c8ba4e2b0e6682137428aed07f29bdc70b7a27e50ffc25b2931bf768f525efe"
+    },
+    {
+      "path": "outputs/Style2-v05/Raw_STL/09_PSU_SADDLE_REAR.stl",
+      "bytes": 33484,
+      "sha256": "9a08fd2732405d716b7cce9d5dd8857956fbc1cb2c30caa954cea418495d6479"
+    },
+    {
+      "path": "outputs/Style2-v05/Rear_PSU_Stops.png",
+      "bytes": 368629,
+      "sha256": "526a6b68da730e5bb38b1a3806e1d695bfb601622df4f4c2ad730af163070b2b"
+    },
+    {
+      "path": "outputs/Style2-v05/Style2_V05_313_8mm.f3d",
+      "bytes": 536852,
+      "sha256": "f9e5b21491779eb537fb484e225af3cb33887d4a130f81cc5aa736272027119a"
+    },
+    {
+      "path": "outputs/Style2-v05/Style2_V05_313_8mm.step",
+      "bytes": 772773,
+      "sha256": "bec62dcfeceecd1b7e5e97c96dbb4551c757b955c066634ec518e0a3e2b86557"
+    },
+    {
+      "path": "outputs/Style2-v05/parts.json",
+      "bytes": 2801,
+      "sha256": "c90333de6a39db7b8f0595729b83c4009c68cb6d76b57cd944bcca8f655fd901"
+    },
+    {
+      "path": "outputs/Style2-v05/print_envelope_checks.json",
+      "bytes": 4159,
+      "sha256": "78a9e3143786e48ce1d57419b8999ed578421691b2fd80bed070110f1ab81121"
+    },
+    {
+      "path": "outputs/Style2-v05/verification.json",
+      "bytes": 650,
+      "sha256": "867efcc6e65e397d022653b699576cf9ac41356afb9b09e8dedca91f84eb7582"
+    },
+    {
+      "path": "outputs/Style2-v06/Assembly.png",
+      "bytes": 268604,
+      "sha256": "5a3f258ca15692efdf5ad5d8cffb6ac6031f55bfbdade3bca803a3cbd8420464"
+    },
+    {
+      "path": "outputs/Style2-v06/Assembly_Left_Right_Stops.png",
+      "bytes": 366292,
+      "sha256": "e5589a92884fb8018ddb959227b9496c9193bce894a992ce3a4e7ae9f5d6306b"
+    },
+    {
+      "path": "outputs/Style2-v06/Colored_Structure.png",
+      "bytes": 613727,
+      "sha256": "e76d0f9ef5ff4df53e2b1fe678c2f88d1d04734942ff18ace9f350003185b1d8"
+    },
+    {
+      "path": "outputs/Style2-v06/Left_Right_Stops_Detail.png",
+      "bytes": 355978,
+      "sha256": "51ea75a4a0367deb9fcceebb4619abcc8f70671f680bb5d74adc67e211f1ede1"
+    },
+    {
+      "path": "outputs/Style2-v06/PRINT_README.txt",
+      "bytes": 2565,
+      "sha256": "99b5cb091557338b23ddca528cba78913e3598d3d00d0291bb6fbdf0a6947801"
+    },
+    {
+      "path": "outputs/Style2-v06/PRINT_STL/01_UPRIGHT_1.stl",
+      "bytes": 77884,
+      "sha256": "b54aa98d219cb29ff85bfe8481f3f6810e71247c7ffb00d105485ee53dad2b33"
+    },
+    {
+      "path": "outputs/Style2-v06/PRINT_STL/01_UPRIGHT_2.stl",
+      "bytes": 58284,
+      "sha256": "376a39ea2e3898811436659777737c3821535247c6e2dd55f6677797df825f8b"
+    },
+    {
+      "path": "outputs/Style2-v06/PRINT_STL/01_UPRIGHT_3.stl",
+      "bytes": 77484,
+      "sha256": "70c596eb29f61c00930de14f16fae7d59910a09d7f98ccd534966cf8ad1583b6"
+    },
+    {
+      "path": "outputs/Style2-v06/PRINT_STL/02_FOOT_1.stl",
+      "bytes": 42684,
+      "sha256": "68092ac66d8d9918d6be008a2ff3fcaf28788165664eedeb39fdd85f4e786e6b"
+    },
+    {
+      "path": "outputs/Style2-v06/PRINT_STL/02_FOOT_2.stl",
+      "bytes": 37084,
+      "sha256": "a709a2234def17232a46d0b8f9c2bb2b6a52c3f5f66e0d1fab8853fb9261daef"
+    },
+    {
+      "path": "outputs/Style2-v06/PRINT_STL/02_FOOT_3.stl",
+      "bytes": 42684,
+      "sha256": "52836ef598be8ebd315057390dd0bbdebaf5003e202010e8f944895b1ff8f17c"
+    },
+    {
+      "path": "outputs/Style2-v06/PRINT_STL/03_LOWER_CROSSBAR.stl",
+      "bytes": 86684,
+      "sha256": "fa9605a30d05c29fe4a8015278564be0debc6178e443321d032623419495ab28"
+    },
+    {
+      "path": "outputs/Style2-v06/PRINT_STL/03_UPPER_CROSSBAR.stl",
+      "bytes": 86684,
+      "sha256": "e4eacbd3cf9e7944275f7ed4f16d01a153b861ddc1faf26f15ce4813fb781861"
+    },
+    {
+      "path": "outputs/Style2-v06/PRINT_STL/05_SIDE_RECTANGULAR_FRAME_1.stl",
+      "bytes": 39084,
+      "sha256": "b2a1c6b8d08adcb6c32cabbbae161be21b1d4fc6f6d41a153f51aa98dd4cd5af"
+    },
+    {
+      "path": "outputs/Style2-v06/PRINT_STL/05_SIDE_RECTANGULAR_FRAME_3.stl",
+      "bytes": 39084,
+      "sha256": "a7acb746e74d0f777d9cc654dc996411045ec26d85d14d6537656cdd52f9cc74"
+    },
+    {
+      "path": "outputs/Style2-v06/PRINT_STL/06_GPU_CARRIER.stl",
+      "bytes": 72884,
+      "sha256": "412f57b4295bf0b7ccdef744bceb2b4908c3fffb321b26c2118c60afe018988b"
+    },
+    {
+      "path": "outputs/Style2-v06/PRINT_STL/07_RISER_TRAY_PENDING_MEASUREMENT.stl",
+      "bytes": 40884,
+      "sha256": "a61531933ed3a62d527f641d4b05ed0729545d96f28e3e2211e0e9bf634e282d"
+    },
+    {
+      "path": "outputs/Style2-v06/PRINT_STL/08_GPU_PAD_LEFT_FIT_REQUIRED.stl",
+      "bytes": 40484,
+      "sha256": "2c4eb5fb03de9de62e71b8efb0e2614565b8a353206ec94b60b6a22ecd1ff7fd"
+    },
+    {
+      "path": "outputs/Style2-v06/PRINT_STL/08_GPU_PAD_RIGHT_FIT_REQUIRED.stl",
+      "bytes": 40484,
+      "sha256": "fcbb60180bb10d5e06b6566d38ba2d06c17cbf1f12f6b049fc66543a96f60f52"
+    },
+    {
+      "path": "outputs/Style2-v06/PRINT_STL/09_PSU_SADDLE_FRONT.stl",
+      "bytes": 33484,
+      "sha256": "1f7a1d162209a22d9d6c0a6d3393ad8f334180ad17924920c1a075c678b6c4dd"
+    },
+    {
+      "path": "outputs/Style2-v06/PRINT_STL/09_PSU_SADDLE_REAR.stl",
+      "bytes": 33484,
+      "sha256": "9a454de0e7c85a05d4fea0cd2a04b95680284d873f20f03a517bb737e83fdb7c"
+    },
+    {
+      "path": "outputs/Style2-v06/Raw_STL/01_UPRIGHT_1.stl",
+      "bytes": 77884,
+      "sha256": "7dac822e399fa1a6da71c3b005c780f235beaf47c2e45e09a61ea6fa02499acf"
+    },
+    {
+      "path": "outputs/Style2-v06/Raw_STL/01_UPRIGHT_2.stl",
+      "bytes": 58284,
+      "sha256": "fbc3697376eefc93bc9aba8f2b44fbba62c5b70d50ed8add3f13db04329d29bc"
+    },
+    {
+      "path": "outputs/Style2-v06/Raw_STL/01_UPRIGHT_3.stl",
+      "bytes": 77484,
+      "sha256": "fed526e96ea7e57845251d7efaee527ccb06a40a07a2c71e0678dd4207735b29"
+    },
+    {
+      "path": "outputs/Style2-v06/Raw_STL/02_FOOT_1.stl",
+      "bytes": 42684,
+      "sha256": "20df389aac264de7ab3aed1ac78b168f644c4d795606d36c2066c8602c9e04e1"
+    },
+    {
+      "path": "outputs/Style2-v06/Raw_STL/02_FOOT_2.stl",
+      "bytes": 37084,
+      "sha256": "e54b14e9adf822fcc51394f749b7f0654d7e7630c549aa27fb54226a6c0e8b7d"
+    },
+    {
+      "path": "outputs/Style2-v06/Raw_STL/02_FOOT_3.stl",
+      "bytes": 42684,
+      "sha256": "d02b5e5705f3de084fae1b95b368f5a17634472b9b19b9af50c3817cbf1efcf2"
+    },
+    {
+      "path": "outputs/Style2-v06/Raw_STL/03_LOWER_CROSSBAR.stl",
+      "bytes": 86684,
+      "sha256": "1165d5398b4f24396cc6da45b7e26ebdfee502a7891738a414a433a158de7ce9"
+    },
+    {
+      "path": "outputs/Style2-v06/Raw_STL/03_UPPER_CROSSBAR.stl",
+      "bytes": 86684,
+      "sha256": "6b48e258833d212d11656ed1dceab7a03e9405f7ac1d06fdbd30cd359fc7b9bf"
+    },
+    {
+      "path": "outputs/Style2-v06/Raw_STL/05_SIDE_RECTANGULAR_FRAME_1.stl",
+      "bytes": 39084,
+      "sha256": "c75157cd4c9eb97bd71eed45d52716948386bdb2804cbacb9843316a8e08a178"
+    },
+    {
+      "path": "outputs/Style2-v06/Raw_STL/05_SIDE_RECTANGULAR_FRAME_3.stl",
+      "bytes": 39084,
+      "sha256": "f0e9751099ba40f03c23b17a7e0d332195117fab20aaf745f4600af2b69fa554"
+    },
+    {
+      "path": "outputs/Style2-v06/Raw_STL/06_GPU_CARRIER.stl",
+      "bytes": 72884,
+      "sha256": "60bc310c06601af21c3173d02dd895b4fd1e1ca12e1bf6b1605e2d9e69de4554"
+    },
+    {
+      "path": "outputs/Style2-v06/Raw_STL/07_RISER_TRAY_PENDING_MEASUREMENT.stl",
+      "bytes": 40884,
+      "sha256": "221e884450439360648139cfb313aeb02cc54ff1acbd5b77cc42c0319d5d1935"
+    },
+    {
+      "path": "outputs/Style2-v06/Raw_STL/08_GPU_PAD_LEFT_FIT_REQUIRED.stl",
+      "bytes": 40484,
+      "sha256": "c9315578b739cfcfa49fe4aceaff811d025a244a38092d3912929807046193bf"
+    },
+    {
+      "path": "outputs/Style2-v06/Raw_STL/08_GPU_PAD_RIGHT_FIT_REQUIRED.stl",
+      "bytes": 40484,
+      "sha256": "a08f2a621e4fbbab0b32729118f14e387f4cb66c09f1105875f5e682b4a399ea"
+    },
+    {
+      "path": "outputs/Style2-v06/Raw_STL/09_PSU_SADDLE_FRONT.stl",
+      "bytes": 33484,
+      "sha256": "8683bea52a585c6f1cbdcf65211c882c9214e919edd066c9140b2faf17f700ae"
+    },
+    {
+      "path": "outputs/Style2-v06/Raw_STL/09_PSU_SADDLE_REAR.stl",
+      "bytes": 33484,
+      "sha256": "0499edbca283f41bd15ed48bd01280408245e6a7367a22894539fa9d718a6ccd"
+    },
+    {
+      "path": "outputs/Style2-v06/Style2_V06_313_8mm.f3d",
+      "bytes": 536896,
+      "sha256": "28054e5656c0459200c561f7aa4d9f6a00f16d21fa9dc4d794708080c2a1cf27"
+    },
+    {
+      "path": "outputs/Style2-v06/Style2_V06_313_8mm.step",
+      "bytes": 773991,
+      "sha256": "a6c0a4838cf10fbb1cbbd6ea87b6e98cb1ebea0aa63165b0510a102e022be15b"
+    },
+    {
+      "path": "outputs/Style2-v06/Style2_V06_A1_PETG_All_Parts_10_Plates.3mf",
+      "bytes": 319091,
+      "sha256": "dc6a0a4a1514084ec6fce2ad1c8fc9de2e2f95c11cd2bfc09286e04e7de40a54"
+    },
+    {
+      "path": "outputs/Style2-v06/Style2_V06_A1_PETG_Arranged.3mf",
+      "bytes": 183379,
+      "sha256": "f9cf4d361539fb4bdc232ac4be396145321fa3cdaa76812adb52742e9656ffb2"
+    },
+    {
+      "path": "outputs/Style2-v06/Style2_V06_Colored.f3d",
+      "bytes": 1098751,
+      "sha256": "8ea2b478df38246b436e15a2e0516531c377251e4cb741ee1617ed605c1883fc"
+    },
+    {
+      "path": "outputs/Style2-v06/appearance_legend.json",
+      "bytes": 3160,
+      "sha256": "b7f1e4160dca63dfc4d32a3fc840aba2903e4652351b3fb7cc20cf60badae1a3"
+    },
+    {
+      "path": "outputs/Style2-v06/parts.json",
+      "bytes": 2788,
+      "sha256": "3c5abab78fba145df746e2b76539a79fbbdf3b70367ec92fc1ce74ea6627efa5"
+    },
+    {
+      "path": "outputs/Style2-v06/print_envelope_checks.json",
+      "bytes": 4159,
+      "sha256": "5b5771f4059c821eddd2097bb2e3daaaa84e06203bf325a9f4b8fa518a1ea9f6"
+    },
+    {
+      "path": "outputs/Style2-v06/print_mesh_checks.json",
+      "bytes": 3473,
+      "sha256": "f4e5bb533e102e77e221513492f6981183cc0882ab1d003befe7143b92f3889d"
+    },
+    {
+      "path": "outputs/Style2-v06/print_plate_checks.json",
+      "bytes": 5117,
+      "sha256": "cd16bfedf36981a32a0b94ed47e0c65bd7fa6e281a1454b6fdcc2858df7d3731"
+    },
+    {
+      "path": "outputs/Style2-v06/print_plate_list.csv",
+      "bytes": 1470,
+      "sha256": "a40ff6639f031b4c01449cd358a1070fd1bb026b03b8f653a5d588c2f3099eaf"
+    },
+    {
+      "path": "outputs/Style2-v06/slice-summary.json",
+      "bytes": 775,
+      "sha256": "c436ca955835b3b1167ee77cf9880a5cc4996cf49c6dfbb7e91b35a09f9ea045"
+    },
+    {
+      "path": "outputs/Style2-v06/verification.json",
+      "bytes": 615,
+      "sha256": "94a5bc55c89b7816ef69c31cf15353bbeabe1f02065de3ddb60579153c509e7c"
+    },
+    {
+      "path": "outputs/Style2-v07/Assembly.png",
+      "bytes": 725351,
+      "sha256": "611e03164759189ae3373448bd061d30ad9114e5849e3da573272f8588353b52"
+    },
+    {
+      "path": "outputs/Style2-v07/Dual140_Front.png",
+      "bytes": 743565,
+      "sha256": "d8f4dff2bad8e488dabaca3a6669eab4a8508ed9d5efd38a023577f5abfa833a"
+    },
+    {
+      "path": "outputs/Style2-v07/PRINT_README.txt",
+      "bytes": 2150,
+      "sha256": "f2bfd1a73630af7e4dc5d8776afbe3cfe22c88f2da5fb73041123cfd12babedf"
+    },
+    {
+      "path": "outputs/Style2-v07/PRINT_STL/01_UPRIGHT_1.stl",
+      "bytes": 77884,
+      "sha256": "b54aa98d219cb29ff85bfe8481f3f6810e71247c7ffb00d105485ee53dad2b33"
+    },
+    {
+      "path": "outputs/Style2-v07/PRINT_STL/01_UPRIGHT_2.stl",
+      "bytes": 58284,
+      "sha256": "376a39ea2e3898811436659777737c3821535247c6e2dd55f6677797df825f8b"
+    },
+    {
+      "path": "outputs/Style2-v07/PRINT_STL/01_UPRIGHT_3.stl",
+      "bytes": 96684,
+      "sha256": "fe08a7a05f958b9dd84d1230275aaac90f7225d1e2723ee9e09805f64d9db169"
+    },
+    {
+      "path": "outputs/Style2-v07/PRINT_STL/02_FOOT_1.stl",
+      "bytes": 42684,
+      "sha256": "68092ac66d8d9918d6be008a2ff3fcaf28788165664eedeb39fdd85f4e786e6b"
+    },
+    {
+      "path": "outputs/Style2-v07/PRINT_STL/02_FOOT_2.stl",
+      "bytes": 37084,
+      "sha256": "a709a2234def17232a46d0b8f9c2bb2b6a52c3f5f66e0d1fab8853fb9261daef"
+    },
+    {
+      "path": "outputs/Style2-v07/PRINT_STL/02_FOOT_3.stl",
+      "bytes": 42684,
+      "sha256": "52836ef598be8ebd315057390dd0bbdebaf5003e202010e8f944895b1ff8f17c"
+    },
+    {
+      "path": "outputs/Style2-v07/PRINT_STL/03_LOWER_CROSSBAR.stl",
+      "bytes": 86684,
+      "sha256": "fa9605a30d05c29fe4a8015278564be0debc6178e443321d032623419495ab28"
+    },
+    {
+      "path": "outputs/Style2-v07/PRINT_STL/03_UPPER_CROSSBAR.stl",
+      "bytes": 86684,
+      "sha256": "e4eacbd3cf9e7944275f7ed4f16d01a153b861ddc1faf26f15ce4813fb781861"
+    },
+    {
+      "path": "outputs/Style2-v07/PRINT_STL/05_SIDE_RECTANGULAR_FRAME_1.stl",
+      "bytes": 39084,
+      "sha256": "b2a1c6b8d08adcb6c32cabbbae161be21b1d4fc6f6d41a153f51aa98dd4cd5af"
+    },
+    {
+      "path": "outputs/Style2-v07/PRINT_STL/05_SIDE_RECTANGULAR_FRAME_3.stl",
+      "bytes": 39084,
+      "sha256": "a7acb746e74d0f777d9cc654dc996411045ec26d85d14d6537656cdd52f9cc74"
+    },
+    {
+      "path": "outputs/Style2-v07/PRINT_STL/06_GPU_CARRIER.stl",
+      "bytes": 72884,
+      "sha256": "412f57b4295bf0b7ccdef744bceb2b4908c3fffb321b26c2118c60afe018988b"
+    },
+    {
+      "path": "outputs/Style2-v07/PRINT_STL/07_RISER_TRAY_PENDING_MEASUREMENT.stl",
+      "bytes": 40884,
+      "sha256": "a61531933ed3a62d527f641d4b05ed0729545d96f28e3e2211e0e9bf634e282d"
+    },
+    {
+      "path": "outputs/Style2-v07/PRINT_STL/08_GPU_PAD_LEFT_FIT_REQUIRED.stl",
+      "bytes": 40484,
+      "sha256": "2c4eb5fb03de9de62e71b8efb0e2614565b8a353206ec94b60b6a22ecd1ff7fd"
+    },
+    {
+      "path": "outputs/Style2-v07/PRINT_STL/08_GPU_PAD_RIGHT_FIT_REQUIRED.stl",
+      "bytes": 40484,
+      "sha256": "fcbb60180bb10d5e06b6566d38ba2d06c17cbf1f12f6b049fc66543a96f60f52"
+    },
+    {
+      "path": "outputs/Style2-v07/PRINT_STL/09_PSU_SADDLE_FRONT.stl",
+      "bytes": 33484,
+      "sha256": "1f7a1d162209a22d9d6c0a6d3393ad8f334180ad17924920c1a075c678b6c4dd"
+    },
+    {
+      "path": "outputs/Style2-v07/PRINT_STL/09_PSU_SADDLE_REAR.stl",
+      "bytes": 33484,
+      "sha256": "9a454de0e7c85a05d4fea0cd2a04b95680284d873f20f03a517bb737e83fdb7c"
+    },
+    {
+      "path": "outputs/Style2-v07/PRINT_STL/10_FAN_MAST_RIGHT_SIDE.stl",
+      "bytes": 71884,
+      "sha256": "1b5396d367505002f08e0878d8b6f2dffd7ad4ea77b9322f25429d8e3f9f3e9d"
+    },
+    {
+      "path": "outputs/Style2-v07/PRINT_STL/11_FAN_PANEL_CPU_RAM_140mm.stl",
+      "bytes": 61284,
+      "sha256": "ef8a86983d07bce9d3eed5758084961c67e52934066d68b58e60ccfb75962f23"
+    },
+    {
+      "path": "outputs/Style2-v07/PRINT_STL/11_FAN_PANEL_GPU_140mm.stl",
+      "bytes": 61284,
+      "sha256": "b486a95b0aa11d4b9235742864dc14e14190da9541934b8b7bf2e6fc463a6f43"
+    },
+    {
+      "path": "outputs/Style2-v07/Raw_STL/01_UPRIGHT_1.stl",
+      "bytes": 77884,
+      "sha256": "7b2411336eef7e18d88d20752ec66111d10d578d2610529c1581ba0f12f858cf"
+    },
+    {
+      "path": "outputs/Style2-v07/Raw_STL/01_UPRIGHT_2.stl",
+      "bytes": 58284,
+      "sha256": "f101a5270d66c3d5623d7b1b4b103c67a0ba2323fb2e11ab5134c088744b360a"
+    },
+    {
+      "path": "outputs/Style2-v07/Raw_STL/01_UPRIGHT_3.stl",
+      "bytes": 96684,
+      "sha256": "7ad2be9caac0450f8245d89faae18322117f4474c05eebefb765c960de0ff625"
+    },
+    {
+      "path": "outputs/Style2-v07/Raw_STL/02_FOOT_1.stl",
+      "bytes": 42684,
+      "sha256": "8bdaafd6bcdac69af10677143663777656a6044cea9806aff4c1faefb3fc5cfd"
+    },
+    {
+      "path": "outputs/Style2-v07/Raw_STL/02_FOOT_2.stl",
+      "bytes": 37084,
+      "sha256": "d1fc4f4e3a2976041c600550a513a2f7a4f7c49fcccdbe1032da4601a3a7d57e"
+    },
+    {
+      "path": "outputs/Style2-v07/Raw_STL/02_FOOT_3.stl",
+      "bytes": 42684,
+      "sha256": "b53ac73c53822193108370990155f1278d74dc1b486c4878f95a5d28d305f7e2"
+    },
+    {
+      "path": "outputs/Style2-v07/Raw_STL/03_LOWER_CROSSBAR.stl",
+      "bytes": 86684,
+      "sha256": "d7c69959b95b794b60e0c34fc5c77d5fadeee26c27b49c0af291de1dac1643a5"
+    },
+    {
+      "path": "outputs/Style2-v07/Raw_STL/03_UPPER_CROSSBAR.stl",
+      "bytes": 86684,
+      "sha256": "737e7cfd2fa4ddfedad6ba72e0662c129ea566a4fbf7ffde64d71ebc86241e60"
+    },
+    {
+      "path": "outputs/Style2-v07/Raw_STL/05_SIDE_RECTANGULAR_FRAME_1.stl",
+      "bytes": 39084,
+      "sha256": "033f5b970d05cd3859dd76424b98590e88ebbf93ee765de0ca1eed855ba29bbc"
+    },
+    {
+      "path": "outputs/Style2-v07/Raw_STL/05_SIDE_RECTANGULAR_FRAME_3.stl",
+      "bytes": 39084,
+      "sha256": "367b8b26ecee3d47f280c52553d0d569549a6f0713241284aa8644a64ff5dc83"
+    },
+    {
+      "path": "outputs/Style2-v07/Raw_STL/06_GPU_CARRIER.stl",
+      "bytes": 72884,
+      "sha256": "7a375358333517a0f84068e2791598bccdd9ec167184ae5ba2a47dae3107c423"
+    },
+    {
+      "path": "outputs/Style2-v07/Raw_STL/07_RISER_TRAY_PENDING_MEASUREMENT.stl",
+      "bytes": 40884,
+      "sha256": "059d97d9544bd5be3e90e1d47d8bf987936b3eb196188e936ea05f2f06be3eab"
+    },
+    {
+      "path": "outputs/Style2-v07/Raw_STL/08_GPU_PAD_LEFT_FIT_REQUIRED.stl",
+      "bytes": 40484,
+      "sha256": "183258e1cc5ef306bd8b501a4dfb453b07b67cce0726da510d0c424bb01ed53a"
+    },
+    {
+      "path": "outputs/Style2-v07/Raw_STL/08_GPU_PAD_RIGHT_FIT_REQUIRED.stl",
+      "bytes": 40484,
+      "sha256": "e6bb2bca4fdf41064a7868bafdfc8cfc79e702e16e79f013a13c2721452eaba8"
+    },
+    {
+      "path": "outputs/Style2-v07/Raw_STL/09_PSU_SADDLE_FRONT.stl",
+      "bytes": 33484,
+      "sha256": "cae498c41f7c702a068da6bde1f5950b408ea7c9be7277f6aa28ed907feb7185"
+    },
+    {
+      "path": "outputs/Style2-v07/Raw_STL/09_PSU_SADDLE_REAR.stl",
+      "bytes": 33484,
+      "sha256": "b1b6683bb07f6e0f397b76337ed8959a059dd3637e7ee288f058cd950ed44bbc"
+    },
+    {
+      "path": "outputs/Style2-v07/Raw_STL/10_FAN_MAST_RIGHT_SIDE.stl",
+      "bytes": 71884,
+      "sha256": "8920b931752e6051e1f1cb7b104cb81e5dbe6ee0e674c7fa234519f17955898a"
+    },
+    {
+      "path": "outputs/Style2-v07/Raw_STL/11_FAN_PANEL_CPU_RAM_140mm.stl",
+      "bytes": 61284,
+      "sha256": "6a4ff38c165658837ba6794275d33f72c12972988b96e6b9ecec993f92b4b020"
+    },
+    {
+      "path": "outputs/Style2-v07/Raw_STL/11_FAN_PANEL_GPU_140mm.stl",
+      "bytes": 61284,
+      "sha256": "5b070dc9130294e63e01b156d910a0447a674ebe65bb3f573622aea38e2a25e0"
+    },
+    {
+      "path": "outputs/Style2-v07/Style2_V07_A1_PETG_All_Parts_13_Plates.3mf",
+      "bytes": 408768,
+      "sha256": "26919dd39afb6be0f0469270c7837cf19bdc6661a43e5b09039f9b6a2ab1926e"
+    },
+    {
+      "path": "outputs/Style2-v07/Style2_V07_A1_PETG_Arranged.3mf",
+      "bytes": 222461,
+      "sha256": "cf4dd229f87a44b25d8f9363662b11f9863183ad081812f58d9da849f350c6a9"
+    },
+    {
+      "path": "outputs/Style2-v07/Style2_V07_Dual140.step",
+      "bytes": 989767,
+      "sha256": "f932ef153a3bda2dfca4a68b135d32d539a5e5604eb97a9f1c4be3d7b2e75e46"
+    },
+    {
+      "path": "outputs/Style2-v07/Style2_V07_Dual140_Colored.f3d",
+      "bytes": 738557,
+      "sha256": "56afbea86605203b72423ddbac598cc0a80cbc371dfe09300956bd992e978f64"
+    },
+    {
+      "path": "outputs/Style2-v07/parts.json",
+      "bytes": 3323,
+      "sha256": "e53b41f5ccfe8b63b831fa8acc984a29adc219fd90952a3451a6bfa9ff7b9eae"
+    },
+    {
+      "path": "outputs/Style2-v07/print_mesh_checks.json",
+      "bytes": 4190,
+      "sha256": "1b27ce5ad4e3e388ab282ec6db222b52c13e2fdd530fcdc9adcd6532bb30b403"
+    },
+    {
+      "path": "outputs/Style2-v07/print_plate_checks.json",
+      "bytes": 6065,
+      "sha256": "50338b064d0bbc712b07954499c13bd0b5f3b51848bc5059a7e37f68db11e275"
+    },
+    {
+      "path": "outputs/Style2-v07/print_plate_list.csv",
+      "bytes": 1724,
+      "sha256": "5e4f9b1f43f189f581ce836fac022a5452334002fa59c97559236db9fb2578c4"
+    },
+    {
+      "path": "outputs/Style2-v07/slice-summary.json",
+      "bytes": 533,
+      "sha256": "6257668fbf384ed3f87b7e01d12cbf5d4676b10b567a5e7529a50e08fc7c4327"
+    },
+    {
+      "path": "outputs/Style2-v07/verification.json",
+      "bytes": 607,
+      "sha256": "4e01a5726c32af02ab3ea6627d4c201457009bebc445fc2c17dc06b4b13e078b"
+    },
+    {
+      "path": "outputs/Style2-v08/Assembly.png",
+      "bytes": 724513,
+      "sha256": "2052fdd9f338f6a37d2d161681310825a6c5535adace48b690fd20833a19da4f"
+    },
+    {
+      "path": "outputs/Style2-v08/Raw_STL/01_UPRIGHT_1.stl",
+      "bytes": 77884,
+      "sha256": "7b2411336eef7e18d88d20752ec66111d10d578d2610529c1581ba0f12f858cf"
+    },
+    {
+      "path": "outputs/Style2-v08/Raw_STL/01_UPRIGHT_2.stl",
+      "bytes": 58284,
+      "sha256": "f101a5270d66c3d5623d7b1b4b103c67a0ba2323fb2e11ab5134c088744b360a"
+    },
+    {
+      "path": "outputs/Style2-v08/Raw_STL/01_UPRIGHT_3.stl",
+      "bytes": 96684,
+      "sha256": "7ad2be9caac0450f8245d89faae18322117f4474c05eebefb765c960de0ff625"
+    },
+    {
+      "path": "outputs/Style2-v08/Raw_STL/02_FOOT_1.stl",
+      "bytes": 42684,
+      "sha256": "4c87941550287b449e8918e0ec53fda65bbb750bec58036e3edc5f475a509700"
+    },
+    {
+      "path": "outputs/Style2-v08/Raw_STL/02_FOOT_2.stl",
+      "bytes": 37084,
+      "sha256": "2cf7054be2e26f2fd15103a81880156b55283d54f2f615763376a05da2d9415a"
+    },
+    {
+      "path": "outputs/Style2-v08/Raw_STL/02_FOOT_3.stl",
+      "bytes": 42684,
+      "sha256": "2082b8b42f7af83ceb2f6a49c6db809750cdc0929f1e914b20145abe7cc4c442"
+    },
+    {
+      "path": "outputs/Style2-v08/Raw_STL/03_LOWER_CROSSBAR.stl",
+      "bytes": 86684,
+      "sha256": "a1adb26e34882d2b4c276cf9878f2b39595a5f993f8a7b418d39f383f3609d15"
+    },
+    {
+      "path": "outputs/Style2-v08/Raw_STL/03_UPPER_CROSSBAR.stl",
+      "bytes": 86684,
+      "sha256": "ae8991a24fcb64c6b9233cd33526c4de1469f013dfc1a1963bacb73c1a901d8d"
+    },
+    {
+      "path": "outputs/Style2-v08/Raw_STL/05_SIDE_RECTANGULAR_FRAME_1.stl",
+      "bytes": 38884,
+      "sha256": "a451975d57fd1fe4cc7c499ff9c037da30f20371a09f34193854896a521c5119"
+    },
+    {
+      "path": "outputs/Style2-v08/Raw_STL/05_SIDE_RECTANGULAR_FRAME_3.stl",
+      "bytes": 38884,
+      "sha256": "31308a25ceee97b07c9a2b14dd3b1fbc0c85feeb89a81abd07e40ab8d6647f94"
+    },
+    {
+      "path": "outputs/Style2-v08/Raw_STL/06_GPU_CARRIER.stl",
+      "bytes": 72884,
+      "sha256": "7a375358333517a0f84068e2791598bccdd9ec167184ae5ba2a47dae3107c423"
+    },
+    {
+      "path": "outputs/Style2-v08/Raw_STL/07_RISER_TRAY_PENDING_MEASUREMENT.stl",
+      "bytes": 40884,
+      "sha256": "059d97d9544bd5be3e90e1d47d8bf987936b3eb196188e936ea05f2f06be3eab"
+    },
+    {
+      "path": "outputs/Style2-v08/Raw_STL/08_GPU_PAD_LEFT_FIT_REQUIRED.stl",
+      "bytes": 40484,
+      "sha256": "183258e1cc5ef306bd8b501a4dfb453b07b67cce0726da510d0c424bb01ed53a"
+    },
+    {
+      "path": "outputs/Style2-v08/Raw_STL/08_GPU_PAD_RIGHT_FIT_REQUIRED.stl",
+      "bytes": 40484,
+      "sha256": "e6bb2bca4fdf41064a7868bafdfc8cfc79e702e16e79f013a13c2721452eaba8"
+    },
+    {
+      "path": "outputs/Style2-v08/Raw_STL/09_PSU_SADDLE_FRONT.stl",
+      "bytes": 33484,
+      "sha256": "27a0f542e54745d94112a6768738929579410ee12c8e4714ba91c4a6b7689133"
+    },
+    {
+      "path": "outputs/Style2-v08/Raw_STL/09_PSU_SADDLE_REAR.stl",
+      "bytes": 33484,
+      "sha256": "46acd18d10c95308f354aa70690b3e3542247cf100b20d6591348dc90ffd0b8d"
+    },
+    {
+      "path": "outputs/Style2-v08/Raw_STL/10_FAN_MAST_RIGHT_SIDE.stl",
+      "bytes": 71884,
+      "sha256": "8920b931752e6051e1f1cb7b104cb81e5dbe6ee0e674c7fa234519f17955898a"
+    },
+    {
+      "path": "outputs/Style2-v08/Raw_STL/11_FAN_PANEL_CPU_RAM_140mm.stl",
+      "bytes": 61684,
+      "sha256": "1be09ed423572210920798d858d548d228251a42d13d5af2bac08dff4afc41a7"
+    },
+    {
+      "path": "outputs/Style2-v08/Raw_STL/11_FAN_PANEL_GPU_140mm.stl",
+      "bytes": 61684,
+      "sha256": "103011039f58cdcb16ab4491f4be95eb17039f155ebf7e1037a9d3f8aa5861c7"
+    },
+    {
+      "path": "outputs/Style2-v08/Style2_V08_Dual140.step",
+      "bytes": 989229,
+      "sha256": "78effdee7dc64de25fb8fd58fa249d9e59a6709fb306080612256d333140dabf"
+    },
+    {
+      "path": "outputs/Style2-v08/Style2_V08_Dual140_Colored.f3d",
+      "bytes": 750918,
+      "sha256": "59e2142e661c88be99131a80e9afcb7d2153996d37b4dde984319c4689507155"
+    },
+    {
+      "path": "outputs/Style2-v08/parts.json",
+      "bytes": 3310,
+      "sha256": "5e9559221a3dc04a65cc140daa826807edf59e3573af3f1490126ce4e86e82d8"
+    },
+    {
+      "path": "outputs/Style2-v08/verification.json",
+      "bytes": 238,
+      "sha256": "6a6f5300b1e2e7bd51b51dc6342eab2e237523a116ab36623c6278721c863f18"
+    },
+    {
+      "path": "outputs/Style2-v09/Assembly.png",
+      "bytes": 724270,
+      "sha256": "6b63a18e12ef2b0136ad08a324099f78b4584be72b0015cfd8d3ef0583cffbf9"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/Assembly_Steps_Overview.png",
+      "bytes": 732979,
+      "sha256": "a3159b5ca8be02b6d3e935270b87360d014ea98b0eda3c13beadbe4ee8d33ef0"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/P01.png",
+      "bytes": 23715,
+      "sha256": "eaf61b0d1b46482518bc5fe9b18eb31b498aa3e89137480662b3ce8bbc3c109a"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/P02.png",
+      "bytes": 23460,
+      "sha256": "a9466075c5572b568d3136733db19223871e44ab0521cda3f2524871d37e24ee"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/P03.png",
+      "bytes": 24875,
+      "sha256": "b20c9fcfa107994a2073680c7e9d4fefec1b375ed091020be6bbfef707373d7a"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/P04.png",
+      "bytes": 25782,
+      "sha256": "d3e4973632bc44fe38c4e7b458015e6a80d9f712231a6469bdb42663bdd596fa"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/P05.png",
+      "bytes": 25744,
+      "sha256": "24eab60c6f3a7d553f78b424765aef3226200f4fad0f726d9adea262c5b31eeb"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/P06.png",
+      "bytes": 27888,
+      "sha256": "efae3412fb82b30d4752168d925dd8aa08fbe4f89069a702d817610c2aa40206"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/P07.png",
+      "bytes": 27547,
+      "sha256": "7d9570ec6e941d6ea7c90ea44097116e9c569935df767316096a06b008ea95fa"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/P08.png",
+      "bytes": 27358,
+      "sha256": "51f8bf32353337a6b5f24e49c870b317c4afb01b87019ea1efd45ca12f0f6f36"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/P09.png",
+      "bytes": 24735,
+      "sha256": "48b71301d3777b9f4ee8d960319a7442fb3cdbea1bf76ced4cdbb45a78273301"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/P10.png",
+      "bytes": 24446,
+      "sha256": "1e544e06ac573f627ce9a3b45484a1fe982d0f6f70358fe3fae49264cd02e188"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/P11.png",
+      "bytes": 26184,
+      "sha256": "33d0f54c3c4ba505dda3502d62fc54692ccdc7b8c5ab62f1848ca8cac79ac54c"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/P12.png",
+      "bytes": 29827,
+      "sha256": "48ad9ff372757eb358f21316ff28503b176a8503da4f99d87fd4645adba3a65f"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/P13.png",
+      "bytes": 26267,
+      "sha256": "99aaf334eb4fd626daeabb47b53c313b1a1d7509fc61b2be72fcd9507ad3de14"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/P14.png",
+      "bytes": 25641,
+      "sha256": "1af22d00d997b0c1ba22798112f469173ddbef0e0fe896cc566709e78993fe04"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/P15.png",
+      "bytes": 28465,
+      "sha256": "98fa24a6fcce66ceed6619612618d8b8ee1962a4420978aaa2f6ec5486cc84ce"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/P16.png",
+      "bytes": 27638,
+      "sha256": "1a227a0629c41f13a0ad3598032b491dcfd684d6dabe11d37c752dc0537915bd"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/P17.png",
+      "bytes": 27818,
+      "sha256": "170d136ea57eef63d2921ae12b16e3aa715a125d92affb8c25c7d8696e0acb0d"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/P18.png",
+      "bytes": 26998,
+      "sha256": "84b2585acf1b8cd8de7aff2976e267cac956d2f1e73e563039ebf716550da80f"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/P19.png",
+      "bytes": 28253,
+      "sha256": "ad568274721159826e157cba806f72096a32add5bc1c6a0249db8dd7a972d961"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/step01.png",
+      "bytes": 225012,
+      "sha256": "16fde314dd153c2841834e45e90c061d492aa5e2ea4d73b8fd0b61d840efc53a"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/step02.png",
+      "bytes": 40023,
+      "sha256": "6cd604af95adf2b1fd33a0c056d0e9c901de85f4ea2d9ae8c19dbba92d714374"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/step03.png",
+      "bytes": 37836,
+      "sha256": "8807d68c23d2dacca61640ce2bd4baf0559399f39b142a9bcc0af5ece3918098"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/step04.png",
+      "bytes": 45281,
+      "sha256": "1f19ee548b3d7f13bf410be9fa22d997816a381943b5eebed3fea325736d6267"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/step05.png",
+      "bytes": 47068,
+      "sha256": "559a50039164cdcb04174c6cf6b58dd22785a6efaf3efbf534422c4ac3da19bb"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/step06.png",
+      "bytes": 42501,
+      "sha256": "e1b0c9219f711c42efd008b4debd664c076bc0b6192ea8afcad50ad96f6bb8d4"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/step07.png",
+      "bytes": 41379,
+      "sha256": "0df098822dcc11d66bd05410721bb4e73f9870475d5f5640b8e959475de281c2"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/step08.png",
+      "bytes": 42272,
+      "sha256": "173ee240a1ec305efb0b0f822af3bcc6da77d7fc55561098f77387e327ad9c5c"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/step09.png",
+      "bytes": 52376,
+      "sha256": "d77d4dd95727a6a6bdb00a93c3f35b226e5634cbd0e135166e9ef9ee3c706dde"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Images/step10.png",
+      "bytes": 42564,
+      "sha256": "ae92a844d4ee5e954572b5f9ea6f6ff80f59dbbb89a308fd8a168f1e1ac4a045"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Refs/REF_ENERMAX_UPRIGHT_EXHAUST_MINUS_X_FAN_PLUS_Y.stl",
+      "bytes": 30284,
+      "sha256": "39164093d331ea15e1a9b72be8b2a72577958856e4b5681a11ea60e29502bd8d"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Refs/REF_FAN_CPU_RAM_140x140x25_FLOW_MINUS_X.stl",
+      "bytes": 64884,
+      "sha256": "d977525bad684ca9b7dc9ccdb54445ec6ef0beda6ea7f7c9f4ae21932869a5bf"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Refs/REF_FAN_GPU_140x140x25_FLOW_MINUS_X.stl",
+      "bytes": 64884,
+      "sha256": "d53ef82491a408cf4e97eb0b33c616eddaa94bbc0b70a8effed086edc774432f"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Refs/REF_GALAX_GPU_ENVELOPE_235.5x129x40.stl",
+      "bytes": 684,
+      "sha256": "3e0f2d48574c67d3b43c82d5ab494e2fd2c1e6e23772dbd038e9a030c9f31874"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Refs/REF_MOTHERBOARD_IO_MINUS_X.stl",
+      "bytes": 684,
+      "sha256": "5d615e14cf03e6e3fc72c4696a1b1f738bea9a8241cf2ade6a497d31eed3a2cb"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Refs/REF_MSI_Z390_A_PRO_304.8x243.84.stl",
+      "bytes": 45684,
+      "sha256": "d14e0c0f3893ddd52a4e18da4ef3c52885cbfc566a8fcdffb554f205c8c38de2"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Refs/REF_PCIE_SOCKET_89x9x11_ESTIMATE.stl",
+      "bytes": 684,
+      "sha256": "f3b4f13b7d616d9152ef48b2d1a818fb9aa1d5320d1532ae6e820004a27548b4"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Refs/REF_PSU_FAN_SIDE_DIRECTION_ONLY.stl",
+      "bytes": 20884,
+      "sha256": "b2b987a8876c2063e0fcc4d5d4895af5bbdd2c0a9bd690ef039f5e6edf8301d7"
+    },
+    {
+      "path": "outputs/Style2-v09/Manual_Refs/REF_RISER_PCB_PHOTO_ESTIMATE_130x18x1.6.stl",
+      "bytes": 684,
+      "sha256": "8f772fbc4cb92ff4638fa5cf28fbf18c66ce1c58b788dd4e043622306a963b9d"
+    },
+    {
+      "path": "outputs/Style2-v09/PRINT_README.txt",
+      "bytes": 727,
+      "sha256": "c21682ffc785431a53c829afba20044a35774ad82f3a0436fb1b683102575789"
+    },
+    {
+      "path": "outputs/Style2-v09/PRINT_STL/01_UPRIGHT_1.stl",
+      "bytes": 77884,
+      "sha256": "c590bcfde20dd73d97260a97aa4153453f6766fa1147ad4d99b43c11ab7d6375"
+    },
+    {
+      "path": "outputs/Style2-v09/PRINT_STL/01_UPRIGHT_2.stl",
+      "bytes": 58284,
+      "sha256": "5e41f0b8f111ca00349a683f238cc76d040db6d2308ff65fc5771e4e68996846"
+    },
+    {
+      "path": "outputs/Style2-v09/PRINT_STL/01_UPRIGHT_3.stl",
+      "bytes": 96684,
+      "sha256": "52f65b0322b3c78d8b68a73a08297ec81b605ca360042c5c6a408b5c0662706b"
+    },
+    {
+      "path": "outputs/Style2-v09/PRINT_STL/02_FOOT_1.stl",
+      "bytes": 42684,
+      "sha256": "cd57a361afd6d0eb6acd80cb9f43f257dec36c8601d9e5c6c433d5839103b83e"
+    },
+    {
+      "path": "outputs/Style2-v09/PRINT_STL/02_FOOT_2.stl",
+      "bytes": 37084,
+      "sha256": "1ba7ee648522d430cee1d891240c3df97bd2a6e29f5e46e3e8de726a541cced3"
+    },
+    {
+      "path": "outputs/Style2-v09/PRINT_STL/02_FOOT_3.stl",
+      "bytes": 42684,
+      "sha256": "8517300f92fb4c31e365acb561b27a370f2cfa9ff4dba3ae4317d55507a8c86c"
+    },
+    {
+      "path": "outputs/Style2-v09/PRINT_STL/03_LOWER_CROSSBAR.stl",
+      "bytes": 86684,
+      "sha256": "622df8a2f1b7529172d633cfe3b724045526cc05a78ab15e56ca60617630ce8e"
+    },
+    {
+      "path": "outputs/Style2-v09/PRINT_STL/03_UPPER_CROSSBAR.stl",
+      "bytes": 86684,
+      "sha256": "afd3a21ca56756f278cf5692ce8c865402e03cd3e5857a7a1f599f88c06698f7"
+    },
+    {
+      "path": "outputs/Style2-v09/PRINT_STL/05_SIDE_RECTANGULAR_FRAME_1.stl",
+      "bytes": 38884,
+      "sha256": "0adb01303645e3be13abf511a28633f0373376ae4cbbde862b5b6897135d16d4"
+    },
+    {
+      "path": "outputs/Style2-v09/PRINT_STL/05_SIDE_RECTANGULAR_FRAME_3.stl",
+      "bytes": 38884,
+      "sha256": "ca3433b5e6f1001c2a8a5b1b0171519927224e65119b1bb73e49f7f140babebf"
+    },
+    {
+      "path": "outputs/Style2-v09/PRINT_STL/06_GPU_CARRIER.stl",
+      "bytes": 72884,
+      "sha256": "40643a53470ebd7538648dca6b4d757cf6567df897c7972b1a6d1389d390e8da"
+    },
+    {
+      "path": "outputs/Style2-v09/PRINT_STL/07_RISER_TRAY_PENDING_MEASUREMENT.stl",
+      "bytes": 40884,
+      "sha256": "dd384a272b7d7183f44584aca2789fe6f331f0c4356abce93f8c5c1a19690168"
+    },
+    {
+      "path": "outputs/Style2-v09/PRINT_STL/08_GPU_PAD_LEFT_FIT_REQUIRED.stl",
+      "bytes": 40484,
+      "sha256": "e36df00d77f238e716efbe71bb65b1b6e16550254677969afe0a7622877e8577"
+    },
+    {
+      "path": "outputs/Style2-v09/PRINT_STL/08_GPU_PAD_RIGHT_FIT_REQUIRED.stl",
+      "bytes": 40484,
+      "sha256": "5e9bc4d845a70040f9955b7420d963c400635c970148db4c45d57dd10d5a545c"
+    },
+    {
+      "path": "outputs/Style2-v09/PRINT_STL/09_PSU_SADDLE_FRONT.stl",
+      "bytes": 33484,
+      "sha256": "3a11b65b3cea4a83761ccb6818916d5e45b57686b209d0102449432e2541b8e7"
+    },
+    {
+      "path": "outputs/Style2-v09/PRINT_STL/09_PSU_SADDLE_REAR.stl",
+      "bytes": 33484,
+      "sha256": "2b60f98dbbf450194ab8df9842e84db4688ae7573bd713a832d34224dc0a970d"
+    },
+    {
+      "path": "outputs/Style2-v09/PRINT_STL/10_FAN_MAST_RIGHT_SIDE.stl",
+      "bytes": 71884,
+      "sha256": "6e2733d18986580721922632f5731fd751cf8660a3645c3a3fcfa52d13727f7d"
+    },
+    {
+      "path": "outputs/Style2-v09/PRINT_STL/11_FAN_PANEL_CPU_RAM_140mm.stl",
+      "bytes": 61684,
+      "sha256": "3af7e9610ea94010f97dad247ab7d55adbdbe0a2975e7da4b8d11f08c1bb7d65"
+    },
+    {
+      "path": "outputs/Style2-v09/PRINT_STL/11_FAN_PANEL_GPU_140mm.stl",
+      "bytes": 61684,
+      "sha256": "b75fbaaed83fcc9ef11aed8634af614864a15212b7592a1292cfdda8832485af"
+    },
+    {
+      "path": "outputs/Style2-v09/Raw_STL/01_UPRIGHT_1.stl",
+      "bytes": 77884,
+      "sha256": "7b2411336eef7e18d88d20752ec66111d10d578d2610529c1581ba0f12f858cf"
+    },
+    {
+      "path": "outputs/Style2-v09/Raw_STL/01_UPRIGHT_2.stl",
+      "bytes": 58284,
+      "sha256": "f101a5270d66c3d5623d7b1b4b103c67a0ba2323fb2e11ab5134c088744b360a"
+    },
+    {
+      "path": "outputs/Style2-v09/Raw_STL/01_UPRIGHT_3.stl",
+      "bytes": 96684,
+      "sha256": "7ad2be9caac0450f8245d89faae18322117f4474c05eebefb765c960de0ff625"
+    },
+    {
+      "path": "outputs/Style2-v09/Raw_STL/02_FOOT_1.stl",
+      "bytes": 42684,
+      "sha256": "462f61fe264eb9fca59f804eb08f1f036168013979bcee87d7e39140eb6b6bc0"
+    },
+    {
+      "path": "outputs/Style2-v09/Raw_STL/02_FOOT_2.stl",
+      "bytes": 37084,
+      "sha256": "f62afd643ca981280bdf95ee975b2078a145acc89d8cd13f0f786a22e7ecebfc"
+    },
+    {
+      "path": "outputs/Style2-v09/Raw_STL/02_FOOT_3.stl",
+      "bytes": 42684,
+      "sha256": "29ccda3e68f7785558c7a44e2dfc0f6615768e254d109d89a4014d945c6fb443"
+    },
+    {
+      "path": "outputs/Style2-v09/Raw_STL/03_LOWER_CROSSBAR.stl",
+      "bytes": 86684,
+      "sha256": "a1adb26e34882d2b4c276cf9878f2b39595a5f993f8a7b418d39f383f3609d15"
+    },
+    {
+      "path": "outputs/Style2-v09/Raw_STL/03_UPPER_CROSSBAR.stl",
+      "bytes": 86684,
+      "sha256": "ae8991a24fcb64c6b9233cd33526c4de1469f013dfc1a1963bacb73c1a901d8d"
+    },
+    {
+      "path": "outputs/Style2-v09/Raw_STL/05_SIDE_RECTANGULAR_FRAME_1.stl",
+      "bytes": 38884,
+      "sha256": "a451975d57fd1fe4cc7c499ff9c037da30f20371a09f34193854896a521c5119"
+    },
+    {
+      "path": "outputs/Style2-v09/Raw_STL/05_SIDE_RECTANGULAR_FRAME_3.stl",
+      "bytes": 38884,
+      "sha256": "31308a25ceee97b07c9a2b14dd3b1fbc0c85feeb89a81abd07e40ab8d6647f94"
+    },
+    {
+      "path": "outputs/Style2-v09/Raw_STL/06_GPU_CARRIER.stl",
+      "bytes": 72884,
+      "sha256": "7bef4fc16dc149013f23fc58ddb334af72940029b3c64fc2387c9727feafdafd"
+    },
+    {
+      "path": "outputs/Style2-v09/Raw_STL/07_RISER_TRAY_PENDING_MEASUREMENT.stl",
+      "bytes": 40884,
+      "sha256": "eab79dfce3bff96112af337eab2247e86d9feb2eaba7c1fe42c26d54d6ec75f9"
+    },
+    {
+      "path": "outputs/Style2-v09/Raw_STL/08_GPU_PAD_LEFT_FIT_REQUIRED.stl",
+      "bytes": 40484,
+      "sha256": "6ebc3442eeb07b5d78d8841a587c237bf62ed5b45dfbb48d32bb0c0eb9c921db"
+    },
+    {
+      "path": "outputs/Style2-v09/Raw_STL/08_GPU_PAD_RIGHT_FIT_REQUIRED.stl",
+      "bytes": 40484,
+      "sha256": "0fda615572b14fa852371ab6d747235617fc3c2282efb3ad63d1ecc68e6f8ccd"
+    },
+    {
+      "path": "outputs/Style2-v09/Raw_STL/09_PSU_SADDLE_FRONT.stl",
+      "bytes": 33484,
+      "sha256": "27a0f542e54745d94112a6768738929579410ee12c8e4714ba91c4a6b7689133"
+    },
+    {
+      "path": "outputs/Style2-v09/Raw_STL/09_PSU_SADDLE_REAR.stl",
+      "bytes": 33484,
+      "sha256": "46acd18d10c95308f354aa70690b3e3542247cf100b20d6591348dc90ffd0b8d"
+    },
+    {
+      "path": "outputs/Style2-v09/Raw_STL/10_FAN_MAST_RIGHT_SIDE.stl",
+      "bytes": 71884,
+      "sha256": "8920b931752e6051e1f1cb7b104cb81e5dbe6ee0e674c7fa234519f17955898a"
+    },
+    {
+      "path": "outputs/Style2-v09/Raw_STL/11_FAN_PANEL_CPU_RAM_140mm.stl",
+      "bytes": 61684,
+      "sha256": "1be09ed423572210920798d858d548d228251a42d13d5af2bac08dff4afc41a7"
+    },
+    {
+      "path": "outputs/Style2-v09/Raw_STL/11_FAN_PANEL_GPU_140mm.stl",
+      "bytes": 61684,
+      "sha256": "103011039f58cdcb16ab4491f4be95eb17039f155ebf7e1037a9d3f8aa5861c7"
+    },
+    {
+      "path": "outputs/Style2-v09/Style2_V09_A1_PETG_All_Parts_13_Plates.3mf",
+      "bytes": 410662,
+      "sha256": "570d32b5c5dbbf80732928bbfc8d90b66edf98bba788398f890369ee9afa24bc"
+    },
+    {
+      "path": "outputs/Style2-v09/Style2_V09_A1_PETG_Arranged.3mf",
+      "bytes": 223799,
+      "sha256": "126799f943a5a97864f3c7972a269a86e1ea9755d5008e13713ab8a6f9765f01"
+    },
+    {
+      "path": "outputs/Style2-v09/Style2_V09_Assembly_Manual.html",
+      "bytes": 2504210,
+      "sha256": "47002862ef8a13c987a2b186f7717ddb113e6195f29abfd15e0c33ba937ea074"
+    },
+    {
+      "path": "outputs/Style2-v09/Style2_V09_Dual140.step",
+      "bytes": 990051,
+      "sha256": "476cb81c1cb70eba6955c3e3d648c83c88b2cd45c6c9bcaff6036da1ad8e4676"
+    },
+    {
+      "path": "outputs/Style2-v09/Style2_V09_Dual140_Colored.f3d",
+      "bytes": 753373,
+      "sha256": "93555d86bfb53d0314e1d9411fe5bd6998a374761924a97f340ba9db2ef8abed"
+    },
+    {
+      "path": "outputs/Style2-v09/Style2_V09_Illustrated_Manual.zip",
+      "bytes": 1827280,
+      "sha256": "b753ea3376414aae19682884354a9278a24a7b45fadd656728cef257695c4a3f"
+    },
+    {
+      "path": "outputs/Style2-v09/manual_part_index.json",
+      "bytes": 3025,
+      "sha256": "7f413e4154d742e89718dbf64a5e3d85bbb6fafad60d9eb203ca4e51c72a266c"
+    },
+    {
+      "path": "outputs/Style2-v09/manual_verification.json",
+      "bytes": 175,
+      "sha256": "9a820eefaa9ef4b315340dc66188358991aa4aa2a43a0ced7db172a5f06ba62a"
+    },
+    {
+      "path": "outputs/Style2-v09/parts.json",
+      "bytes": 3310,
+      "sha256": "a7639a69e2d8bc679ced30430f00369765036f4c31c2594b532fc2773ecdc8e1"
+    },
+    {
+      "path": "outputs/Style2-v09/print_mesh_checks.json",
+      "bytes": 4191,
+      "sha256": "59a614e482d03e8f77d6d80fd765cb252b2fdb6710000f9fb9fce55c74adca54"
+    },
+    {
+      "path": "outputs/Style2-v09/print_plate_checks.json",
+      "bytes": 6067,
+      "sha256": "3302df2b4efe684ff9b78cc513bf652a17722ee2441cf078c45a885e5bc29cdb"
+    },
+    {
+      "path": "outputs/Style2-v09/print_plate_list.csv",
+      "bytes": 1724,
+      "sha256": "0967199a88636ecd2dbec903f113804a4f0fe75b44ecf4fd7847acf6d7873823"
+    },
+    {
+      "path": "outputs/Style2-v09/slice-summary.json",
+      "bytes": 512,
+      "sha256": "75d8c2a2e7ffa5e646e643d76c8f068a744baafab290dfde3c487e297c377dd2"
+    },
+    {
+      "path": "outputs/Style2-v09/verification.json",
+      "bytes": 286,
+      "sha256": "9c13c2909c48367c7f30435acc68386012939f690af5dc147175ffb7dc7ae41d"
+    },
+    {
+      "path": "outputs/arrange_v12_plates.py",
+      "bytes": 9980,
+      "sha256": "41c33eb760c737db771a8b23ab385503a4624325f1a51507cd64077d54743a20"
+    },
+    {
+      "path": "outputs/arrange_v13_plates.py",
+      "bytes": 6667,
+      "sha256": "baa776fcb5e27eb7892f21f8c930ec11413f8bb4404f8d8a42d48eaf0d6dd8b1"
+    },
+    {
+      "path": "outputs/board-alignment/motherboard-top-alignment.png",
+      "bytes": 92479,
+      "sha256": "a580c22fca7e99a7377fe005aaa0f27967c8295ed456e5461e15f5add579cf12"
+    },
+    {
+      "path": "outputs/skills/chassis-assembly-manual/SKILL.md",
+      "bytes": 3999,
+      "sha256": "bbd3313e512708a0615ec5a6018a09a011abf850146adce5a76c33feb9710b44"
+    },
+    {
+      "path": "outputs/skills/chassis-assembly-manual/agents/openai.yaml",
+      "bytes": 302,
+      "sha256": "3f6ebc43dffa0dfda1eb5554b4bdcabc2d3ff720df89589e4319ba9dd811cdce"
+    },
+    {
+      "path": "outputs/skills/chassis-assembly-manual/references/illustration-workflow.md",
+      "bytes": 2074,
+      "sha256": "92f1aaba9bca31d2508b6347819955ffa06d90d60677446fc98293a02c9d1cee"
+    },
+    {
+      "path": "outputs/skills/chassis-assembly-manual/references/project-context.md",
+      "bytes": 2571,
+      "sha256": "91a32d2962233d73ca1ddb92a3b2cbd83fe38288b1bc7fc492af42559e7718db"
+    },
+    {
+      "path": "outputs/skills/chassis-assembly-manual/scripts/validate_manual.py",
+      "bytes": 3056,
+      "sha256": "1d6487438a4dce93ef0aecf663e8f7a1b9c1ad738179f17fa4afa8e133f60674"
+    },
+    {
+      "path": "result.json",
+      "bytes": 214,
+      "sha256": "bad1e894b276fa6ec2a3a1236963c40bc4c59e735df55acf959116763fbb39ac"
+    },
+    {
+      "path": "tools/verify_project.py",
+      "bytes": 2224,
+      "sha256": "639561a3372051f7405881763318b96f828d41219949c0204e4dc3cd5d43cc21"
+    },
+    {
+      "path": "work/add_atx_v04_front_cover.py",
+      "bytes": 6083,
+      "sha256": "f9c3524e84308a136b95cea44623b1a62bdc9263235590c6f651777c05dee36b"
+    },
+    {
+      "path": "work/append_v15_repair_plate.py",
+      "bytes": 7558,
+      "sha256": "4b4f7fb77fbcd43341e3c5c4907d598aea05f5720b8cdc51214afb3858505558"
+    },
+    {
+      "path": "work/atx-reference/atx22.pdf",
+      "bytes": 432044,
+      "sha256": "f6eac560afb88f08c0631e93837d29917c00be5b4a093a9f0140b03ee11a4e9e"
+    },
+    {
+      "path": "work/atx-reference/holes.png",
+      "bytes": 121697,
+      "sha256": "2f6d0aa146b15eb7206ace9df6472ece9ea59d7b41bafc7f493a225fb95cf850"
+    },
+    {
+      "path": "work/atx-reference/layout.png",
+      "bytes": 106783,
+      "sha256": "11c6e294b0001270c2acdef2c76398e1ba389887397716cec02efa581067ac14"
+    },
+    {
+      "path": "work/atx-reference/layout_rot.png",
+      "bytes": 80908,
+      "sha256": "189437168751831fe6d6ca6248fb2029e846a58b9174f9056f0f78fe15bdbec0"
+    },
+    {
+      "path": "work/atx-reference/layout_upright.png",
+      "bytes": 91006,
+      "sha256": "d12426fd11dfcda65b389aa30bbc8c9c85ef6ffd616e3371cee9f76401502536"
+    },
+    {
+      "path": "work/atx-reference/msi-layout.png",
+      "bytes": 91351,
+      "sha256": "d7e6ae0a649a80d49fdc922eb00c66585668311cb47ecbfe4c03ea2a3115e40b"
+    },
+    {
+      "path": "work/atx-reference/msi-manual.pdf",
+      "bytes": 6369370,
+      "sha256": "542954c4ba5626fc866d245fff9095c5bca5c989416c258d3d8fd0c71fcde10e"
+    },
+    {
+      "path": "work/batch_script.py",
+      "bytes": 4470,
+      "sha256": "27bdd3f3756bd1ee8092d71047d45cfffcb731d1d3531ae3d275b9d159a1475f"
+    },
+    {
+      "path": "work/build_atx_v01.py",
+      "bytes": 13150,
+      "sha256": "133ebb71a98e926c11f1cf27e61f8de6df32126d820a31f2661333eb2d616ce6"
+    },
+    {
+      "path": "work/build_atx_v02_preview.py",
+      "bytes": 12337,
+      "sha256": "61e3878dcbb42da3217829c806f3702136fc38defeeaaca44f60538f2f45b860"
+    },
+    {
+      "path": "work/build_atx_v03_preview.py",
+      "bytes": 14529,
+      "sha256": "2eb74b975be98ba0a3372382931d7a3d6c4ddb73ef20db41061cb2f2c6e122af"
+    },
+    {
+      "path": "work/build_atx_v05_flat_psu.py",
+      "bytes": 8238,
+      "sha256": "fabcb2d2fab05ea4cd787950508e7574603c64e79b8f719f7ed54a40678a51cb"
+    },
+    {
+      "path": "work/build_atx_v06.py",
+      "bytes": 7238,
+      "sha256": "a1ca1864bb1b33c276f3afc822481a4bdad5a49013223181312154c379a9c2ab"
+    },
+    {
+      "path": "work/build_atx_v07.py",
+      "bytes": 8543,
+      "sha256": "cbba5f684caf9cf52dc1d2fd8d8079bba036e93bb513466f3fbe2307b9d5ef44"
+    },
+    {
+      "path": "work/build_atx_v08.py",
+      "bytes": 7318,
+      "sha256": "131ed04ef8c6364c51cfa57def89fe0e0e8357f9f0a0d50b935f314411220bc1"
+    },
+    {
+      "path": "work/build_atx_v09.py",
+      "bytes": 7144,
+      "sha256": "0de5a60c1a9529892226f9eda7cbe0cf6a50c6fdb952cff4dff07aa15b23023d"
+    },
+    {
+      "path": "work/build_atx_v10.py",
+      "bytes": 7345,
+      "sha256": "3f3551454cc0d3e5236c5246577c8a4070930499844b375c5771d23e01da0d41"
+    },
+    {
+      "path": "work/build_atx_v11.py",
+      "bytes": 7500,
+      "sha256": "1522ba7515547cf586ea234d0c6d7e6b0e212cb7d2143fa85349efb7c73fbad7"
+    },
+    {
+      "path": "work/build_atx_v12.py",
+      "bytes": 9720,
+      "sha256": "350572a24e1bdbf47c67ee5f18b715cf27da03077be47a379e1b71efb3353b04"
+    },
+    {
+      "path": "work/build_atx_v13.py",
+      "bytes": 12140,
+      "sha256": "d04d3f9f44a3b2d7363551df2abe8238998f5da7cd19c4239df4ad2cef436eb9"
+    },
+    {
+      "path": "work/build_atx_v14_gpu_fit.py",
+      "bytes": 9287,
+      "sha256": "a6b533e4d70675c184e432421f0b98e4e1f8b0f448b434ad2eefcc3523c2ce51"
+    },
+    {
+      "path": "work/build_atx_v15_gpu_fit.py",
+      "bytes": 4988,
+      "sha256": "7ddb07083a47cb368a2809b2654347d6a2a35dc4b58d974b72c81f03a41d7ef5"
+    },
+    {
+      "path": "work/build_manual_style1_v13.py",
+      "bytes": 34984,
+      "sha256": "f16c3ab7401f464feed0ff787482d457c3d1218af60979c075e12abb4913b64e"
+    },
+    {
+      "path": "work/build_manual_v09.py",
+      "bytes": 21200,
+      "sha256": "63b28c999a3728c7bbe593be25f57749339ae6187ef4f7f5478bf0965c807af9"
+    },
+    {
+      "path": "work/build_style2_v01.py",
+      "bytes": 9407,
+      "sha256": "f65bcf1853c0b95cef19a0ba9b713e050becd35bdb37289eecbc23b01ecbe441"
+    },
+    {
+      "path": "work/build_style2_v02.py",
+      "bytes": 10508,
+      "sha256": "6d4646da38222c8667ec635fb306a02d86070252c18e33d53f3a5552eaf07704"
+    },
+    {
+      "path": "work/build_style2_v03.py",
+      "bytes": 11050,
+      "sha256": "135d4ab2d2536eba4e7c7feb82a8eedb4496bf3fcd33c0821dbd60cd68ee46c0"
+    },
+    {
+      "path": "work/build_style2_v04.py",
+      "bytes": 11211,
+      "sha256": "f0fed6487109f3b032bdd7c6707595c476c146dc3b9399985b1b49eb74a50948"
+    },
+    {
+      "path": "work/build_style2_v05.py",
+      "bytes": 11664,
+      "sha256": "c20116d8e87d8c63c2a88f696b41cfbf6df8de744b491663a1b50ddc8f62670b"
+    },
+    {
+      "path": "work/build_style2_v06.py",
+      "bytes": 11569,
+      "sha256": "4622c3b04be3965990116c79788f91d71ca1289abdaa743b7c651c4961837627"
+    },
+    {
+      "path": "work/build_style2_v07.py",
+      "bytes": 13580,
+      "sha256": "32a25f212a98eaeed7c4775fb974ad65af82e7cc7a35ef1f401cfeb812ce1abd"
+    },
+    {
+      "path": "work/build_style2_v08.py",
+      "bytes": 13884,
+      "sha256": "fc58cc380f53d125bfe56d0b923b6adc9ade9fe042e877fce528bab13dc822b3"
+    },
+    {
+      "path": "work/build_style2_v09.py",
+      "bytes": 14111,
+      "sha256": "876174efac5d5b3ff5413701ae7c954524db47893716225cc5fc48495db9440b"
+    },
+    {
+      "path": "work/check_manual_style1_v13.cjs",
+      "bytes": 3056,
+      "sha256": "9ef8e27d23f874139fe686f07f893b47607c1f3ae26605a2d6061ef414fd1f5a"
+    },
+    {
+      "path": "work/check_print_v05.py",
+      "bytes": 819,
+      "sha256": "8e3186af1830f885a1e3d8295b18dbaafcbdb760f57a31a5ba936d95c9e424df"
+    },
+    {
+      "path": "work/check_style2_print.py",
+      "bytes": 2888,
+      "sha256": "888ffe232fe6d97d2b66026b5b765ae3c056c613f64a428e836ed860f29b3b7d"
+    },
+    {
+      "path": "work/check_v11_contacts.py",
+      "bytes": 2165,
+      "sha256": "b6cedab2c6a7a34f4b0b2596f45011686e04d586a2a2d5b902529f87e0490c5d"
+    },
+    {
+      "path": "work/clean_duplicate_export.py",
+      "bytes": 729,
+      "sha256": "237bc0be5b722c516f6edae8b9aae9eea43faef171906ab7570fcd26407bcce9"
+    },
+    {
+      "path": "work/color_style2_v06.py",
+      "bytes": 2083,
+      "sha256": "e47601c8bb47a237e9979e110dae6fe0c8364a58c2dd673595d4addcfa0ea4f1"
+    },
+    {
+      "path": "work/draw_board_alignment.py",
+      "bytes": 3165,
+      "sha256": "8793b1f80f9972bea29e38473d22f7552d4dca7b00c83a80607e2941ca8ededd"
+    },
+    {
+      "path": "work/final_fixes_atx_v01.py",
+      "bytes": 2870,
+      "sha256": "e20c1ed2de64092e6d58a6980e19a7b009689af86dbcd2e28ff2ef8e815f00c4"
+    },
+    {
+      "path": "work/finalize_atx_v05.py",
+      "bytes": 5786,
+      "sha256": "c0a9742bc08919294bcb60c14780fddafc2e3a82d5be8e95aba60aa1234db407"
+    },
+    {
+      "path": "work/finish_atx_v01.py",
+      "bytes": 3188,
+      "sha256": "0561889842c8b1dd0e9bd32fae8e03ef6d8e931414e2743c16f69a84cfda18b6"
+    },
+    {
+      "path": "work/finish_atx_v13.py",
+      "bytes": 3704,
+      "sha256": "6d7cde39899ea3abb973b2f4bb67c74dfe5822d899446790cd20ee5d7b82ed0b"
+    },
+    {
+      "path": "work/finish_depth_batch.py",
+      "bytes": 2206,
+      "sha256": "a8928ac511f7a832aed7d5ad80b884a3fa44c5e1ec83bf9064bab7668e067783"
+    },
+    {
+      "path": "work/finish_single_v04.py",
+      "bytes": 2162,
+      "sha256": "b7894b653efd95e8983d991cc656bc7439e634f4664cb278d17e0a16b87b8402"
+    },
+    {
+      "path": "work/finish_single_v05.py",
+      "bytes": 1833,
+      "sha256": "243ddeb5f46d9328443285ee3eda69cd6e2c051f0edc8aa570766c08dcbebc0e"
+    },
+    {
+      "path": "work/finish_v12_print.py",
+      "bytes": 4309,
+      "sha256": "6f59bf7f365441d5708cfe5577ff7d16ba2a29f5ba5c7472bba85da339f528d7"
+    },
+    {
+      "path": "work/fix_atx_v02_preview.py",
+      "bytes": 1757,
+      "sha256": "22ab7a7610774a57433135b7204f7c2c56c26624efe1d79d7693417189d80c05"
+    },
+    {
+      "path": "work/fix_finish_v05.py",
+      "bytes": 272,
+      "sha256": "c826d5a8e5c0a8f988ded1032bdb2de1088584ba8294ef2fbcfe82fcf448faac"
+    },
+    {
+      "path": "work/fix_v06_positions.py",
+      "bytes": 2936,
+      "sha256": "b259634fef524727696ce12b39ee3f902d02d69d5a787b0c7fc2a2ced2fc980d"
+    },
+    {
+      "path": "work/fix_v07.py",
+      "bytes": 5649,
+      "sha256": "acb641a5cf9c0e21de00aa0116207d14b78d8e2a8ffae71988e0b75332250ac2"
+    },
+    {
+      "path": "work/illustrate_manual_v09.py",
+      "bytes": 13613,
+      "sha256": "1361c48e8da54ac281fbd065e4a0663a334bc0f0a7a9b6de341953bd0705d313"
+    },
+    {
+      "path": "work/notch_v06.py",
+      "bytes": 4940,
+      "sha256": "991e8b79f239c9d2fac1b63c03d7fb7343fda17d9304ccb13a692372bed27e3e"
+    },
+    {
+      "path": "work/package_atx_v14_gpu_fit.py",
+      "bytes": 5960,
+      "sha256": "8a318142bce03ffeed4974ce6c88f31a811d9077bffe77cdd358f4c7c190c575"
+    },
+    {
+      "path": "work/package_atx_v15_gpu_fit.py",
+      "bytes": 5960,
+      "sha256": "76b978cf79796e66654d04971ba8130107b36d33755728efc41ced915d860aae"
+    },
+    {
+      "path": "work/package_depth_batch.py",
+      "bytes": 3200,
+      "sha256": "0819038ff2b5dc576efc6b9d7f3988b45ba3b2d6678dcd5a74c719eb0f8c8e04"
+    },
+    {
+      "path": "work/package_single_v04.py",
+      "bytes": 515,
+      "sha256": "f55522640886d5f9859fc733a75ae46ce423f7cb24c50c543de6ca22b2cff2a5"
+    },
+    {
+      "path": "work/package_single_v05.py",
+      "bytes": 2360,
+      "sha256": "97d5d218213c703416a893358bfb66748c26032e4a772e907eb5204213f1cf00"
+    },
+    {
+      "path": "work/package_style2_print.py",
+      "bytes": 7425,
+      "sha256": "b7f3e4c517e2bbb568915e052351174fb0e5362bf63d9b77d8e04a02817acc12"
+    },
+    {
+      "path": "work/package_style2_v07_print.py",
+      "bytes": 7864,
+      "sha256": "899b7f88c8e0f37986cb1fb43c7204c2eb98e39e9dd48985e1cbe60c86c6227a"
+    },
+    {
+      "path": "work/package_style2_v09_print.py",
+      "bytes": 7996,
+      "sha256": "65478d29c6ffdad8ba7ce31abe134b00fdc0d8167fb5dec26acfa57f741a0aac"
+    },
+    {
+      "path": "work/prepare_atx_v03.py",
+      "bytes": 3712,
+      "sha256": "b5223dce439b18396c0a31f83f6d0fc1e0b6550c9226e0791dd7cb9ae71a8226"
+    },
+    {
+      "path": "work/prepare_depth_batch.py",
+      "bytes": 2834,
+      "sha256": "8b12efed8837c1ea180fb0e15152c7e69046872e4187ac4477b8915e1c552d68"
+    },
+    {
+      "path": "work/prepare_mesh_v05.py",
+      "bytes": 660,
+      "sha256": "9a3a4311b225604a354be2dcbab3a9d685027d6490bdd29f6daafefada4f54dd"
+    },
+    {
+      "path": "work/prepare_single_v04.py",
+      "bytes": 4858,
+      "sha256": "612aa71489c37b052fdff63072366563cc81dad21fd2353cf6d9d22938ed7f99"
+    },
+    {
+      "path": "work/prepare_single_v05.py",
+      "bytes": 1178,
+      "sha256": "639ced004e85bcc07ccec9a4ffc1922175f322350d1d6ebdae0c2fdf89bb82ae"
+    },
+    {
+      "path": "work/refine_v12_print.py",
+      "bytes": 7100,
+      "sha256": "9ddfda39a5509c6982629e69cab9fc679cdd29e96b09ea7a8e630b6028a2bcb8"
+    },
+    {
+      "path": "work/repair_atx_v01.py",
+      "bytes": 3671,
+      "sha256": "413f19574496d7f36435e04c0fc1e0fb3133c8c313717d0f00e3222f381db33f"
+    },
+    {
+      "path": "work/single_bracket_v04.py",
+      "bytes": 6383,
+      "sha256": "5d91b72d6765e79bd365b12228f4e06adf97e67dfdca345e5c77b4aa4c8c40cf"
+    },
+    {
+      "path": "work/single_v05_execute.py",
+      "bytes": 6163,
+      "sha256": "9a2e09f5ad63b3f2f3de62366b6bc40bacffadad1fc5735a6fceac55df48155d"
+    },
+    {
+      "path": "work/verify_package_manual_style1_v13.py",
+      "bytes": 5354,
+      "sha256": "cf7a648f92961cec81a1ccc2621bc409be1f5a7c511310ec847ac129d21e295a"
+    },
+    {
+      "path": "work/verify_style2_final_package.py",
+      "bytes": 2725,
+      "sha256": "65e4bfdaed459463af4b7aa0896108e9c0445a6e4765f1c166609e85bd20e644"
+    },
+    {
+      "path": "work/verify_style2_v07_package.py",
+      "bytes": 2448,
+      "sha256": "bbdac3d3fd3d11e8ede683fc4bc4e5e1d87e52ab79f170ce3d2e8353c89988bb"
+    },
+    {
+      "path": "work/verify_style2_v09_package.py",
+      "bytes": 2442,
+      "sha256": "f5357001c8ae4b57ea9eafdb98ad32b6413c601c7c8551dca3be696c8498ee01"
+    },
+    {
+      "path": "work/verify_v12_meshes.py",
+      "bytes": 3702,
+      "sha256": "a9db1c25b241323bb34da0b217206a782a3234ab3d0db179422ed61c6928d9fc"
+    }
+  ]
+}

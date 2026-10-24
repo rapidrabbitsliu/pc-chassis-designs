@@ -1,0 +1,140 @@
+[
+  {
+    "name": "01_UPRIGHT_1",
+    "reference": false,
+    "opacity": 1.0,
+    "appearance": "PRINT_FRAME_BLUE"
+  },
+  {
+    "name": "01_UPRIGHT_2",
+    "reference": false,
+    "opacity": 1.0,
+    "appearance": "PRINT_FRAME_BLUE"
+  },
+  {
+    "name": "01_UPRIGHT_3",
+    "reference": false,
+    "opacity": 1.0,
+    "appearance": "PRINT_FRAME_BLUE"
+  },
+  {
+    "name": "02_FOOT_1",
+    "reference": false,
+    "opacity": 1.0,
+    "appearance": "PRINT_FRAME_BLUE"
+  },
+  {
+    "name": "02_FOOT_2",
+    "reference": false,
+    "opacity": 1.0,
+    "appearance": "PRINT_FRAME_BLUE"
+  },
+  {
+    "name": "02_FOOT_3",
+    "reference": false,
+    "opacity": 1.0,
+    "appearance": "PRINT_FRAME_BLUE"
+  },
+  {
+    "name": "03_LOWER_CROSSBAR",
+    "reference": false,
+    "opacity": 1.0,
+    "appearance": "PRINT_FRAME_BLUE"
+  },
+  {
+    "name": "03_UPPER_CROSSBAR",
+    "reference": false,
+    "opacity": 1.0,
+    "appearance": "PRINT_FRAME_BLUE"
+  },
+  {
+    "name": "05_SIDE_RECTANGULAR_FRAME_1",
+    "reference": false,
+    "opacity": 1.0,
+    "appearance": "PRINT_FRAME_BLUE"
+  },
+  {
+    "name": "05_SIDE_RECTANGULAR_FRAME_3",
+    "reference": false,
+    "opacity": 1.0,
+    "appearance": "PRINT_FRAME_BLUE"
+  },
+  {
+    "name": "06_GPU_CARRIER",
+    "reference": false,
+    "opacity": 1.0,
+    "appearance": "PRINT_FRAME_BLUE"
+  },
+  {
+    "name": "07_RISER_TRAY_PENDING_MEASUREMENT",
+    "reference": false,
+    "opacity": 1.0,
+    "appearance": "PRINT_FRAME_BLUE"
+  },
+  {
+    "name": "08_GPU_PAD_LEFT_FIT_REQUIRED",
+    "reference": false,
+    "opacity": 1.0,
+    "appearance": "PRINT_FRAME_BLUE"
+  },
+  {
+    "name": "08_GPU_PAD_RIGHT_FIT_REQUIRED",
+    "reference": false,
+    "opacity": 1.0,
+    "appearance": "PRINT_FRAME_BLUE"
+  },
+  {
+    "name": "09_PSU_SADDLE_FRONT",
+    "reference": false,
+    "opacity": 1.0,
+    "appearance": "PRINT_FRAME_BLUE"
+  },
+  {
+    "name": "09_PSU_SADDLE_REAR",
+    "reference": false,
+    "opacity": 1.0,
+    "appearance": "PRINT_FRAME_BLUE"
+  },
+  {
+    "name": "REF_MSI_Z390_A_PRO_304.8x243.84",
+    "reference": true,
+    "opacity": 0.25,
+    "appearance": "REFERENCE_HARDWARE_GRAY"
+  },
+  {
+    "name": "REF_GALAX_GPU_ENVELOPE_235.5x129x40",
+    "reference": true,
+    "opacity": 0.25,
+    "appearance": "REFERENCE_HARDWARE_GRAY"
+  },
+  {
+    "name": "REF_ENERMAX_UPRIGHT_EXHAUST_MINUS_X_FAN_PLUS_Y",
+    "reference": true,
+    "opacity": 0.25,
+    "appearance": "REFERENCE_HARDWARE_GRAY"
+  },
+  {
+    "name": "REF_PSU_FAN_SIDE_DIRECTION_ONLY",
+    "reference": true,
+    "opacity": 0.25,
+    "appearance": "REFERENCE_HARDWARE_GRAY"
+  },
+  {
+    "name": "REF_MOTHERBOARD_IO_MINUS_X",
+    "reference": true,
+    "opacity": 0.25,
+    "appearance": "REFERENCE_HARDWARE_GRAY"
+  },
+  {
+    "name": "REF_RISER_PCB_PHOTO_ESTIMATE_130x18x1.6",
+    "reference": true,
+    "opacity": 0.25,
+    "appearance": "REFERENCE_HARDWARE_GRAY"
+  },
+  {
+    "name": "REF_PCIE_SOCKET_89x9x11_ESTIMATE",
+    "reference": true,
+    "opacity": 0.25,
+    "appearance": "REFERENCE_HARDWARE_GRAY"
+  }
+]

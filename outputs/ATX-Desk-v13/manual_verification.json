@@ -1,0 +1,24 @@
+{
+  "version": "Style 1 V13",
+  "date": "2026-10-23",
+  "structure": {
+    "valid": true,
+    "part_cards": 17,
+    "steps": 13,
+    "images": 53,
+    "errors": [],
+    "scope": "Structure only; manual visual and mechanical review still required."
+  },
+  "actual_insert_bore_faces": 48,
+  "ledger_positions_matched_to_brep": 48,
+  "embedded_pngs_decoded": 53,
+  "mesh_assembly_bounds_verified": true,
+  "insert_groups": 21,
+  "part_ids": 17,
+  "steps": 13,
+  "browser_preview": "Not completed: sandboxed Edge process exited during launch. No alternate browser or service used.",
+  "visual_review": "Direct PNG inspection; no browser layout, print pagination, or checkbox interaction verification.",
+  "physical_fit": "GPU bracket, cooler, RAM, cables and complete physical assembly pending.",
+  "cad_modified": false,
+  "printer_jobs_sent": false
+}

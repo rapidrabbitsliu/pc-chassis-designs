@@ -1,0 +1,16 @@
+{
+  "parts": 16,
+  "interference_count": 0,
+  "height_mm": 313.8,
+  "base_depth_mm": 257,
+  "stop_axis": "X: left-right, corrected from V05 Y",
+  "clearance_each_side_mm": 0.5,
+  "stop_height_mm": 10,
+  "entry_slope_deg": 45,
+  "two_crossbars_each_with_two_end_stops": true,
+  "previous_Y_high_stops_removed": true,
+  "insertion_axis": "-X then -Z; PSU lifted 10.6 mm",
+  "insertion_collision_free_samples": 85,
+  "air_check": "modeled vent above Z36 and fan region only; bottom shell rim occupied by stops, actual grille unmeasured",
+  "status": "prototype, not strength or physical fit validated"
+}

@@ -1,0 +1,135 @@
+[
+  {
+    "name": "01_UPRIGHT_1",
+    "volume_mm3": 139728.93204726485,
+    "closed_oriented": true,
+    "orientation": "rear Y20 face down; bosses upward",
+    "elevated_horizontal_underside_mm2": 134.81236044297475
+  },
+  {
+    "name": "01_UPRIGHT_2",
+    "volume_mm3": 135184.32767687377,
+    "closed_oriented": true,
+    "orientation": "rear Y20 face down; bosses upward",
+    "elevated_horizontal_underside_mm2": 84.55800711511876
+  },
+  {
+    "name": "01_UPRIGHT_3",
+    "volume_mm3": 134292.42676839142,
+    "closed_oriented": true,
+    "orientation": "rear Y20 face down; bosses upward",
+    "elevated_horizontal_underside_mm2": 166.71293064654645
+  },
+  {
+    "name": "02_FOOT_1",
+    "volume_mm3": 98272.41939523329,
+    "closed_oriented": true,
+    "orientation": "XY face on bed",
+    "elevated_horizontal_underside_mm2": 16.39145300871983
+  },
+  {
+    "name": "02_FOOT_2",
+    "volume_mm3": 84941.90183101942,
+    "closed_oriented": true,
+    "orientation": "XY face on bed",
+    "elevated_horizontal_underside_mm2": 8.416303603410565
+  },
+  {
+    "name": "02_FOOT_3",
+    "volume_mm3": 98272.41423911082,
+    "closed_oriented": true,
+    "orientation": "XY face on bed",
+    "elevated_horizontal_underside_mm2": 16.391430821828145
+  },
+  {
+    "name": "03_LOWER_CROSSBAR",
+    "volume_mm3": 49286.51840581804,
+    "closed_oriented": true,
+    "orientation": "Y20 face down; head wells upward",
+    "elevated_horizontal_underside_mm2": 0.0
+  },
+  {
+    "name": "03_UPPER_CROSSBAR",
+    "volume_mm3": 49785.339785609765,
+    "closed_oriented": true,
+    "orientation": "Y20 face down; head wells upward",
+    "elevated_horizontal_underside_mm2": 0.0
+  },
+  {
+    "name": "05_SIDE_RECTANGULAR_FRAME_1",
+    "volume_mm3": 77531.26098148122,
+    "closed_oriented": true,
+    "orientation": "side face flat; screw head wells upward",
+    "elevated_horizontal_underside_mm2": 0.0
+  },
+  {
+    "name": "05_SIDE_RECTANGULAR_FRAME_3",
+    "volume_mm3": 77531.16153220258,
+    "closed_oriented": true,
+    "orientation": "side face flat; screw head wells upward",
+    "elevated_horizontal_underside_mm2": 0.0
+  },
+  {
+    "name": "06_GPU_CARRIER",
+    "volume_mm3": 52726.11190415462,
+    "closed_oriented": true,
+    "orientation": "top Z22 face down; foot pads upward",
+    "elevated_horizontal_underside_mm2": 211.75540355331395
+  },
+  {
+    "name": "07_RISER_TRAY_PENDING_MEASUREMENT",
+    "volume_mm3": 16534.75429501674,
+    "closed_oriented": true,
+    "orientation": "XY face on bed",
+    "elevated_horizontal_underside_mm2": 0.0
+  },
+  {
+    "name": "08_GPU_PAD_LEFT_FIT_REQUIRED",
+    "volume_mm3": 11606.510734695936,
+    "closed_oriented": true,
+    "orientation": "XY face on bed",
+    "elevated_horizontal_underside_mm2": 0.0
+  },
+  {
+    "name": "08_GPU_PAD_RIGHT_FIT_REQUIRED",
+    "volume_mm3": 11606.51082188508,
+    "closed_oriented": true,
+    "orientation": "XY face on bed",
+    "elevated_horizontal_underside_mm2": 0.0
+  },
+  {
+    "name": "09_PSU_SADDLE_FRONT",
+    "volume_mm3": 40137.099274729735,
+    "closed_oriented": true,
+    "orientation": "XY face on bed",
+    "elevated_horizontal_underside_mm2": 109.09999176263796
+  },
+  {
+    "name": "09_PSU_SADDLE_REAR",
+    "volume_mm3": 50819.16130712412,
+    "closed_oriented": true,
+    "orientation": "XY face on bed",
+    "elevated_horizontal_underside_mm2": 162.0000035762787
+  },
+  {
+    "name": "10_FAN_MAST_RIGHT_SIDE",
+    "volume_mm3": 84492.15917388516,
+    "closed_oriented": true,
+    "orientation": "outer X274 mast face down; anchor pads upward",
+    "elevated_horizontal_underside_mm2": 99.38648776036098
+  },
+  {
+    "name": "11_FAN_PANEL_GPU_140mm",
+    "volume_mm3": 48229.02821423942,
+    "closed_oriented": true,
+    "orientation": "flat fan panel X256 face down",
+    "elevated_horizontal_underside_mm2": 49.693276168372904
+  },
+  {
+    "name": "11_FAN_PANEL_CPU_RAM_140mm",
+    "volume_mm3": 48229.02648313675,
+    "closed_oriented": true,
+    "orientation": "flat fan panel X256 face down",
+    "elevated_horizontal_underside_mm2": 49.693236160218476
+  }
+]

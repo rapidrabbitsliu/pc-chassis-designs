@@ -1,0 +1,3 @@
+# Preserve exact bytes across Windows/macOS/Linux, including the checksum inputs.
+* -text
+

@@ -1,0 +1,42 @@
+{
+  "file": "D:\\personal-files\\docs\\ChatGPT\\电脑上洞洞板\\outputs\\ATX-Desk-v15\\Style1_V15_All_Parts_10_Plates_With_Temporary_Repair.3mf",
+  "plates": 10,
+  "objects": 19,
+  "original_plate_labels_preserved": true,
+  "updated_original_objects": [
+    {
+      "object_id": "30",
+      "part": "07_GPU_REINFORCED_REAR_TOWER",
+      "new_size_mm": [
+        38.0,
+        162.0,
+        104.0
+      ],
+      "settings_preserved": true
+    },
+    {
+      "object_id": "14",
+      "part": "08_GPU_UPPER_EAR_LEDGE_ADJUSTABLE",
+      "new_size_mm": [
+        36.0,
+        96.0,
+        17.16000366
+      ],
+      "settings_preserved": true
+    }
+  ],
+  "temporary_plate": 10,
+  "temporary_parts": [
+    "P12",
+    "P13"
+  ],
+  "sliced": true,
+  "original_project_settings_unchanged": true,
+  "bambu_opened_and_native_saved": true,
+  "sliced_plate": 10,
+  "ui_estimated_total_time": "6h9m",
+  "ui_estimated_filament_g": 132.17,
+  "ui_estimated_filament_m": 43.96,
+  "print_sent": false,
+  "gcode_embedded": false
+}

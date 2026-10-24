@@ -1,0 +1,325 @@
+[
+  {
+    "plate": 1,
+    "plate_name": "01 立柱1_九孔侧_整根斜放",
+    "part": "01_UPRIGHT_1",
+    "print_xyz_mm": [
+      230.375,
+      242.297,
+      30.8
+    ],
+    "xy_mm": [
+      12.812,
+      6.851
+    ],
+    "brim_mm": 5,
+    "support": false,
+    "bed_contact_mm2": 6830.22
+  },
+  {
+    "plate": 2,
+    "plate_name": "02 立柱2_整根斜放",
+    "part": "01_UPRIGHT_2",
+    "print_xyz_mm": [
+      230.375,
+      230.375,
+      30.8
+    ],
+    "xy_mm": [
+      12.812,
+      12.812
+    ],
+    "brim_mm": 5,
+    "support": false,
+    "bed_contact_mm2": 6614.99
+  },
+  {
+    "plate": 3,
+    "plate_name": "03 立柱3_整根斜放",
+    "part": "01_UPRIGHT_3",
+    "print_xyz_mm": [
+      230.375,
+      230.375,
+      30.8
+    ],
+    "xy_mm": [
+      12.812,
+      12.812
+    ],
+    "brim_mm": 5,
+    "support": false,
+    "bed_contact_mm2": 6580.69
+  },
+  {
+    "plate": 4,
+    "plate_name": "04 两根底脚_整件斜放",
+    "part": "02_FOOT_1",
+    "print_xyz_mm": [
+      202.94,
+      202.94,
+      42.0
+    ],
+    "xy_mm": [
+      39.965,
+      39.965
+    ],
+    "brim_mm": 3,
+    "support": false,
+    "bed_contact_mm2": 7710.0
+  },
+  {
+    "plate": 4,
+    "plate_name": "04 两根底脚_整件斜放",
+    "part": "02_FOOT_2",
+    "print_xyz_mm": [
+      202.94,
+      202.94,
+      42.0
+    ],
+    "xy_mm": [
+      13.095,
+      13.095
+    ],
+    "brim_mm": 3,
+    "support": false,
+    "bed_contact_mm2": 7710.0
+  },
+  {
+    "plate": 5,
+    "plate_name": "05 第三根底脚_显卡承托梁 A",
+    "part": "02_FOOT_3",
+    "print_xyz_mm": [
+      202.94,
+      202.94,
+      42.0
+    ],
+    "xy_mm": [
+      26.53,
+      26.53
+    ],
+    "brim_mm": 3,
+    "support": false,
+    "bed_contact_mm2": 7710.0
+  },
+  {
+    "plate": 6,
+    "plate_name": "06 第三根底脚_显卡承托梁 B",
+    "part": "06_GPU_CARRIER",
+    "print_xyz_mm": [
+      211.658,
+      211.658,
+      12.0
+    ],
+    "xy_mm": [
+      22.171,
+      22.171
+    ],
+    "brim_mm": 5,
+    "support": false,
+    "bed_contact_mm2": 5387.82
+  },
+  {
+    "plate": 7,
+    "plate_name": "07 下横撑_电源前托条_左右限位",
+    "part": "03_LOWER_CROSSBAR",
+    "print_xyz_mm": [
+      212.571,
+      212.566,
+      12.0
+    ],
+    "xy_mm": [
+      34.303,
+      9.128
+    ],
+    "brim_mm": 5,
+    "support": false,
+    "bed_contact_mm2": 8313.81
+  },
+  {
+    "plate": 7,
+    "plate_name": "07 下横撑_电源前托条_左右限位",
+    "part": "09_PSU_SADDLE_FRONT",
+    "print_xyz_mm": [
+      195.041,
+      195.041,
+      22.0
+    ],
+    "xy_mm": [
+      9.126,
+      51.831
+    ],
+    "brim_mm": 5,
+    "support": false,
+    "bed_contact_mm2": 4927.67
+  },
+  {
+    "plate": 8,
+    "plate_name": "08 上横撑_电源后托条_左右限位",
+    "part": "03_UPPER_CROSSBAR",
+    "print_xyz_mm": [
+      214.684,
+      214.678,
+      12.0
+    ],
+    "xy_mm": [
+      7.891,
+      33.429
+    ],
+    "brim_mm": 5,
+    "support": false,
+    "bed_contact_mm2": 8396.94
+  },
+  {
+    "plate": 8,
+    "plate_name": "08 上横撑_电源后托条_左右限位",
+    "part": "09_PSU_SADDLE_REAR",
+    "print_xyz_mm": [
+      195.041,
+      195.041,
+      22.0
+    ],
+    "xy_mm": [
+      53.068,
+      7.892
+    ],
+    "brim_mm": 5,
+    "support": false,
+    "bed_contact_mm2": 4927.67
+  },
+  {
+    "plate": 9,
+    "plate_name": "09 左侧直角框_母槽托盘_显卡托垫",
+    "part": "05_SIDE_RECTANGULAR_FRAME_1",
+    "print_xyz_mm": [
+      149.965,
+      187.965,
+      12.0
+    ],
+    "xy_mm": [
+      10,
+      10
+    ],
+    "brim_mm": 5,
+    "support": false,
+    "bed_contact_mm2": 6756.27
+  },
+  {
+    "plate": 9,
+    "plate_name": "09 左侧直角框_母槽托盘_显卡托垫",
+    "part": "07_RISER_TRAY_PENDING_MEASUREMENT",
+    "print_xyz_mm": [
+      50.0,
+      140.0,
+      4.0
+    ],
+    "xy_mm": [
+      185,
+      15
+    ],
+    "brim_mm": 5,
+    "support": false,
+    "bed_contact_mm2": 4158.1
+  },
+  {
+    "plate": 9,
+    "plate_name": "09 左侧直角框_母槽托盘_显卡托垫",
+    "part": "08_GPU_PAD_LEFT_FIT_REQUIRED",
+    "print_xyz_mm": [
+      14.0,
+      48.0,
+      24.0
+    ],
+    "xy_mm": [
+      185,
+      180
+    ],
+    "brim_mm": 5,
+    "support": false,
+    "bed_contact_mm2": 653.97
+  },
+  {
+    "plate": 9,
+    "plate_name": "09 左侧直角框_母槽托盘_显卡托垫",
+    "part": "08_GPU_PAD_RIGHT_FIT_REQUIRED",
+    "print_xyz_mm": [
+      14.0,
+      48.0,
+      24.0
+    ],
+    "xy_mm": [
+      215,
+      180
+    ],
+    "brim_mm": 5,
+    "support": false,
+    "bed_contact_mm2": 653.97
+  },
+  {
+    "plate": 10,
+    "plate_name": "10 右侧直角框",
+    "part": "05_SIDE_RECTANGULAR_FRAME_3",
+    "print_xyz_mm": [
+      149.965,
+      187.965,
+      12.0
+    ],
+    "xy_mm": [
+      53.017,
+      34.017
+    ],
+    "brim_mm": 5,
+    "support": false,
+    "bed_contact_mm2": 6756.27
+  },
+  {
+    "plate": 11,
+    "plate_name": "11 双风扇立梁_整根斜放",
+    "part": "10_FAN_MAST_RIGHT_SIDE",
+    "print_xyz_mm": [
+      229.103,
+      229.103,
+      25.51
+    ],
+    "xy_mm": [
+      13.449,
+      13.449
+    ],
+    "brim_mm": 5,
+    "support": false,
+    "bed_contact_mm2": 5944.71
+  },
+  {
+    "plate": 12,
+    "plate_name": "12 显卡侧140风扇框",
+    "part": "11_FAN_PANEL_GPU_140mm",
+    "print_xyz_mm": [
+      162.0,
+      152.0,
+      6.0
+    ],
+    "xy_mm": [
+      47.0,
+      52.0
+    ],
+    "brim_mm": 5,
+    "support": false,
+    "bed_contact_mm2": 9989.71
+  },
+  {
+    "plate": 13,
+    "plate_name": "13 CPU内存侧140风扇框",
+    "part": "11_FAN_PANEL_CPU_RAM_140mm",
+    "print_xyz_mm": [
+      162.0,
+      152.0,
+      6.0
+    ],
+    "xy_mm": [
+      47.0,
+      52.0
+    ],
+    "brim_mm": 5,
+    "support": false,
+    "bed_contact_mm2": 9989.71
+  }
+]

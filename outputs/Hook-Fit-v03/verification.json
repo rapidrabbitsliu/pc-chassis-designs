@@ -1,0 +1,16 @@
+[
+  {
+    "depth_mm": 4.0,
+    "engraving_mm": 0.6,
+    "volume_mm3": 1677.4880000000003,
+    "offset_z_mm": 0,
+    "solid": true
+  },
+  {
+    "depth_mm": 4.2,
+    "engraving_mm": 0.6,
+    "volume_mm3": 1684.1520000000003,
+    "offset_z_mm": 42,
+    "solid": true
+  }
+]

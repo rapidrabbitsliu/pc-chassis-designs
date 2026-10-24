@@ -1,0 +1,116 @@
+{
+  "01_UPRIGHT_1": {
+    "id": "P01",
+    "name": "左侧立柱",
+    "nuts": 13,
+    "note": "带顶部横向短耳；主板侧有 3 个凸台"
+  },
+  "01_UPRIGHT_2": {
+    "id": "P02",
+    "name": "中间立柱",
+    "nuts": 9,
+    "note": "无顶部短耳，背面仅 4 个横撑孔"
+  },
+  "01_UPRIGHT_3": {
+    "id": "P03",
+    "name": "右侧立柱",
+    "nuts": 17,
+    "note": "外侧另外有 4 个风扇立梁连接孔"
+  },
+  "02_FOOT_1": {
+    "id": "P04",
+    "name": "左侧底脚",
+    "nuts": 4,
+    "note": "电源端带外侧连接凸块"
+  },
+  "02_FOOT_2": {
+    "id": "P05",
+    "name": "中间底脚",
+    "nuts": 3,
+    "note": "电源端没有直角框连接凸块"
+  },
+  "02_FOOT_3": {
+    "id": "P06",
+    "name": "右侧底脚",
+    "nuts": 4,
+    "note": "电源端带外侧连接凸块，与左侧镜像"
+  },
+  "03_LOWER_CROSSBAR": {
+    "id": "P07",
+    "name": "下横撑",
+    "nuts": 0,
+    "note": "两端短斜角向上；装在主板背面下方"
+  },
+  "03_UPPER_CROSSBAR": {
+    "id": "P08",
+    "name": "上横撑",
+    "nuts": 0,
+    "note": "两端短斜角向下；装在主板背面上方"
+  },
+  "05_SIDE_RECTANGULAR_FRAME_1": {
+    "id": "P09",
+    "name": "左侧直角框",
+    "nuts": 0,
+    "note": "装在左立柱外侧，螺钉头凹槽朝外"
+  },
+  "05_SIDE_RECTANGULAR_FRAME_3": {
+    "id": "P10",
+    "name": "右侧直角框",
+    "nuts": 0,
+    "note": "装在右立柱外侧，螺钉头凹槽朝外"
+  },
+  "06_GPU_CARRIER": {
+    "id": "P11",
+    "name": "显卡承托梁",
+    "nuts": 8,
+    "note": "中间大开口，8 个螺母孔朝上"
+  },
+  "07_RISER_TRAY_PENDING_MEASUREMENT": {
+    "id": "P12",
+    "name": "PCIe 母槽托盘",
+    "nuts": 0,
+    "note": "薄框；母槽安装方式仍待实物适配"
+  },
+  "08_GPU_PAD_LEFT_FIT_REQUIRED": {
+    "id": "P13",
+    "name": "左显卡垫座",
+    "nuts": 0,
+    "note": "靠显卡左端，接触壳体可承力位置"
+  },
+  "08_GPU_PAD_RIGHT_FIT_REQUIRED": {
+    "id": "P14",
+    "name": "右显卡垫座",
+    "nuts": 0,
+    "note": "靠显卡右端；与左垫座形状相同"
+  },
+  "09_PSU_SADDLE_FRONT": {
+    "id": "P15",
+    "name": "电源前托条",
+    "nuts": 0,
+    "note": "较窄的前侧边缘，为立柱与底脚避让"
+  },
+  "09_PSU_SADDLE_REAR": {
+    "id": "P16",
+    "name": "电源后托条",
+    "nuts": 0,
+    "note": "完整宽度托条；装在电源后侧"
+  },
+  "10_FAN_MAST_RIGHT_SIDE": {
+    "id": "P17",
+    "name": "双风扇立梁",
+    "nuts": 4,
+    "note": "四条短支脚连接右立柱，4 个接收孔连接风扇框"
+  },
+  "11_FAN_PANEL_GPU_140mm": {
+    "id": "P18",
+    "name": "下风扇框 · 显卡",
+    "nuts": 0,
+    "note": "外形与上框相同，装在下方"
+  },
+  "11_FAN_PANEL_CPU_RAM_140mm": {
+    "id": "P19",
+    "name": "上风扇框 · CPU / 内存",
+    "nuts": 0,
+    "note": "外形与下框相同，装在上方"
+  }
+}
