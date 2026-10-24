@@ -19,13 +19,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 4263,
-      "sha256": "41d68f41b2bd2bbe053ad5aba22f3f7e25efc8a1bec48b20a1d0317b72260fa5"
+      "bytes": 4470,
+      "sha256": "1abf1f443047cb884377b2205bb1d9e2ead41a02c7353051cbf250e702752934"
     },
     {
       "path": "docs/其他电脑恢复项目.md",
-      "bytes": 4683,
-      "sha256": "adfc902e1b068c7393bc0737b5662196c71262fadeaa80321f25ae014d64b8e7"
+      "bytes": 4795,
+      "sha256": "adb5f0acefb841a5a32de5ab56456a4b63708559a7a73660400a8a998093e233"
     },
     {
       "path": "docs/硬件尺寸与通用设计基准.md",
@@ -34,8 +34,8 @@
     },
     {
       "path": "docs/风格1 桌面双层开放式机箱.md",
-      "bytes": 11778,
-      "sha256": "9f3c72aad0ad959252f8379f4a35797580961fd0f6b7b928c64eb93411c969a5"
+      "bytes": 13349,
+      "sha256": "7f338d30cc25ac44aa4695b266de3827f156ad295c7e74a9eaabc8d6fa083964"
     },
     {
       "path": "docs/风格2 竖板前置显卡机架.md",
@@ -2258,6 +2258,291 @@
       "sha256": "9de556d53085626ed7a0ea46672a337f3b660f0f7c1cb1742648447a5d75c2c0"
     },
     {
+      "path": "outputs/ATX-Desk-v16/ATX_Desk_v16_gpu_access.f3d",
+      "bytes": 2582500,
+      "sha256": "df7a4ffaabb86a0c5ff85eefb022c7e03de783b2a28cdb9857e2f7b01cd8e958"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Assembly.png",
+      "bytes": 851513,
+      "sha256": "e8b11630a306b237327fd2e05ee151bb73be2ee7d5539e3c8737c9f7ef151df6"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Fit_Photos/Audio_Jack_Blocks_First_Screw.png",
+      "bytes": 1702676,
+      "sha256": "9cec196abc7f39df7f790804b239e51ada27540e17d80795831aa22f8749e456"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Fit_Photos/GPU_Insertion.jpg",
+      "bytes": 245019,
+      "sha256": "de1f22c74521b934e8b0f8b6cb15cd9a36d24c171f301bdad4768ed0a1bd5da4"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Fit_Photos/Lower_Receiver_Shortening.png",
+      "bytes": 879262,
+      "sha256": "6836d73bdd358838e98cdbf129cb1d035936c23444d229f2abe875f509515515"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/GPU_Bracket_Front.png",
+      "bytes": 132247,
+      "sha256": "1fe451c6503833b34af9be0331e61e6381a1f93849f161f602d90969aaeacbd7"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/PRINT_STL/04_front_GROUND_BAR_290mm_FLAT_PSU.stl",
+      "bytes": 21084,
+      "sha256": "d72d854ae961323cf512c460af0629b07438dfdd8def56edc012f18d84358772"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/PRINT_STL/04_rear_GROUND_BAR_290mm_FLAT_PSU.stl",
+      "bytes": 21084,
+      "sha256": "5d3c4973cda1f3cc03ef46f5554814f86cf45973ada80edfe67dc08e84d7e1c5"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/PRINT_STL/05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE.stl",
+      "bytes": 53684,
+      "sha256": "9c906e865ae9761c3d1ea61cc385502b5e6ae91e124db100e67133ffebb2a74e"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/PRINT_STL/07_GPU_REINFORCED_REAR_TOWER.stl",
+      "bytes": 70684,
+      "sha256": "879569159f06371a66667889556a396ad88a67bb66cbdbb95fc70d652f3d9afe"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/PRINT_STL/08_GPU_LOWER_TWO_TAB_RECEIVER_ADJUSTABLE.stl",
+      "bytes": 24684,
+      "sha256": "f24fc18d9acf02dd948715f08787d4c3cf2aac0efa38d9aff9bb018f5b875e3a"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/PRINT_STL/08_GPU_UPPER_EAR_LEDGE_ADJUSTABLE.stl",
+      "bytes": 33884,
+      "sha256": "00fe4b5a3665d4a5f9a4649cba73840f02ffe2c6a66b5dbbefc91f3e8682d561"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/PRINT_STL/10_CPU_140_FAN_MOUNT.stl",
+      "bytes": 52684,
+      "sha256": "7ff04619db2a1f0943ee2b477b189821765437785277e610b66d761f60ad943c"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/PRINT_STL/10_GPU_140_FAN_MOUNT.stl",
+      "bytes": 52684,
+      "sha256": "4c7b758ac47c4e1579abc1e51955c60104c36519fdd0d7cff0685b234f573c2b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/PRINT_STL/12_front_CPU_SUPPORT_FRAME.stl",
+      "bytes": 43284,
+      "sha256": "6010c4155cd6ba3124047a58b332ae7e667d68f1e0de75e20cbe8b6e8046e497"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/PRINT_STL/12_front_PCI_SUPPORT_FRAME.stl",
+      "bytes": 45884,
+      "sha256": "c673ffe7bd48fe97e0a547d44d2be7d6a77241848d316cb648a838940e046312"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/PRINT_STL/16_CPU_VERTICAL_SIDE_FLUSH_TO_BEAM.stl",
+      "bytes": 37484,
+      "sha256": "b61389821c8e7d3c0f7b40c155165a2284056b06bd38c9cbc1c865966bfd6164"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/PRINT_STL/16_PCI_INSET_SIDE_16_45mm.stl",
+      "bytes": 37484,
+      "sha256": "123173290d599e5540947ed32f8a81c0162dcc1cdcb82342f2d3ae45d160a343"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/PRINT_STL/18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm.stl",
+      "bytes": 46684,
+      "sha256": "65927ca9e1d92b38888090597a52fa4c1851885c53af470d880936ef2e37132f"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/PRINT_STL/19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 49084,
+      "sha256": "15a0f064643a9390b7c4378936d7b14c04e9592487eab5b8be8f4a8147ba39c7"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/PRINT_STL/19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 48484,
+      "sha256": "a856b336789114df863a4085cb4cf38cb883054d2591487291a6818de26c346d"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/PRINT_STL/19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 49084,
+      "sha256": "71f2f025c6398d7a57140130a89cf6cf85af6e00cb44c88f9c349da85a823429"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/PRINT_STL/20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm.stl",
+      "bytes": 66284,
+      "sha256": "a108af998e75b372d106465a4c9774df1e4b5abfedb082f12c0d2f5b9861d5b4"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/README.txt",
+      "bytes": 2479,
+      "sha256": "4193251066fb30886fe3d5176e669a4ea18ad16581e0da9e1fcc9a0249c61aaa"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/REPRINT_STL/P12_V16_GPU_Tower.stl",
+      "bytes": 70684,
+      "sha256": "879569159f06371a66667889556a396ad88a67bb66cbdbb95fc70d652f3d9afe"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/REPRINT_STL/P13_V16_Upper_Ear_Ledge.stl",
+      "bytes": 33884,
+      "sha256": "00fe4b5a3665d4a5f9a4649cba73840f02ffe2c6a66b5dbbefc91f3e8682d561"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/REPRINT_STL/P14_V16_Lower_Tab_Receiver.stl",
+      "bytes": 24684,
+      "sha256": "f24fc18d9acf02dd948715f08787d4c3cf2aac0efa38d9aff9bb018f5b875e3a"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Raw_STL/04_front_GROUND_BAR_290mm_FLAT_PSU.stl",
+      "bytes": 21084,
+      "sha256": "bab5bb790af4026d58579f2e69880c11090d331f29415fd361b723d363b957ce"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Raw_STL/04_rear_GROUND_BAR_290mm_FLAT_PSU.stl",
+      "bytes": 21084,
+      "sha256": "6859354cc95a363bffdbfa6a10d088956095ca0fd221bf5773841b01daa7145f"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Raw_STL/05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE.stl",
+      "bytes": 53684,
+      "sha256": "9e7d6c0a4eb692eb0446f0c0de05d04548793f266da1e0d27a2d5783534d1b9b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Raw_STL/07_GPU_REINFORCED_REAR_TOWER.stl",
+      "bytes": 70684,
+      "sha256": "4e7dba936a5014228383c8f8611f6b7d909c7bdfd76c9d9f9f495043adf30441"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Raw_STL/08_GPU_LOWER_TWO_TAB_RECEIVER_ADJUSTABLE.stl",
+      "bytes": 24684,
+      "sha256": "0a18403a70a9a054cc060dc3ba966e2dd9072b4e925a62f58654a3f6d5605886"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Raw_STL/08_GPU_UPPER_EAR_LEDGE_ADJUSTABLE.stl",
+      "bytes": 33884,
+      "sha256": "dc7a988d0c42b375615b03ead29dd3cfc9d0544b376957a07818d117821af222"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Raw_STL/10_CPU_140_FAN_MOUNT.stl",
+      "bytes": 52684,
+      "sha256": "61e8a9098a98e61524ef0d4e76679063bae40d0d3688045d6799fa0744a2db13"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Raw_STL/10_GPU_140_FAN_MOUNT.stl",
+      "bytes": 52684,
+      "sha256": "439c7b746e6e8a5ca149d350baf94d9edb2bbcbd177e5a7a7e09ed4c032c122f"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Raw_STL/12_front_CPU_SUPPORT_FRAME.stl",
+      "bytes": 43284,
+      "sha256": "77c4085fdcc45a07c68f75495eed26c8fcadaefedd32b9d0917c236f26644804"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Raw_STL/12_front_PCI_SUPPORT_FRAME.stl",
+      "bytes": 45884,
+      "sha256": "dfad0de217dc62be13fb778754eedeaa8305235a65ff5b054928d719d92a108b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Raw_STL/16_CPU_VERTICAL_SIDE_FLUSH_TO_BEAM.stl",
+      "bytes": 37484,
+      "sha256": "40af31e6041c44b421385f14a7ce518c02dde0f498e78ef6eb81281cb2c29f8a"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Raw_STL/16_PCI_INSET_SIDE_16_45mm.stl",
+      "bytes": 37484,
+      "sha256": "cb997c4b51e9086a005c6912cc8ac894a964152b7560fc83ae1c08dbbc0e8eb6"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Raw_STL/18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm.stl",
+      "bytes": 46684,
+      "sha256": "fa69363e1bd535feb5197fac56d8f687ac75bd3a7370d5864255465cdcc19ad1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Raw_STL/19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 49084,
+      "sha256": "4aceb234fba9de8f50e79166a87ed7ff1966b3855dff465f9456ec1ac7f4562b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Raw_STL/19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 48484,
+      "sha256": "8c7491eb9cf161b9b4d4b16f416e61aec173c960884a219fe337409db87c867c"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Raw_STL/19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 49084,
+      "sha256": "5d85588fc2af442c45422764d2b15a7f8ce04eeff932240d1415ea5c460284b1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Raw_STL/20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm.stl",
+      "bytes": 66284,
+      "sha256": "89da34277bedf0ef0c37db1ae80d09e635b0962922a568dbda064eccddb93355"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Source_User_V13_9_Plates_Before_Update.3mf",
+      "bytes": 344045,
+      "sha256": "450682a98f3c3d000fcc28f04bd01a1a32f62dfa273db33f2eef4c1c27d8b064"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Sources/Append_V16_Repair_Plate.py",
+      "bytes": 7687,
+      "sha256": "27f87dd9af93a57acf8db555539a721b312c2dcc15d39a1486c4ca46c6424c08"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Sources/Build_V16_GPU_Access.py",
+      "bytes": 11551,
+      "sha256": "11bd3a4f316546e6e01f34fb9272af835917f5c778ec0b4bc07a8b93b4eec45b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Sources/Package_V16_GPU_Access.py",
+      "bytes": 5557,
+      "sha256": "71291807ec3e95041deecb416ee3b7f7aa12137736d858bca24da3ad1aeb3fb2"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Style1_V16_All_Parts_10_Plates_With_Temporary_Repair.3mf",
+      "bytes": 180864,
+      "sha256": "cd342649aa271fd931afbc05415be663ed8a4c8b1a97e3fd6203463006069452"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/Style1_V16_GPU_Replacements_1_Plate_UNSLICED.3mf",
+      "bytes": 36837,
+      "sha256": "f4a98794a1c6a2ba65c8a0140d543d8fc5cf94549d817acc9e92f2c919be9283"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/mesh_checks.json",
+      "bytes": 3706,
+      "sha256": "a415ec1ad37e64f1fc74f8039618fd785b60e0b5b63fc66d941e5fc7ed6356ad"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/package_verification.json",
+      "bytes": 379,
+      "sha256": "72b8a5ced92c404c34ed4f9d17e39fbed9ec1b863b43bf5314ab96184fe54975"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/parts.json",
+      "bytes": 3136,
+      "sha256": "0950d08f608e6ba852d646f34c1b20072ee08cd022ad7c276c40aa40a97320d8"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/replacement-plate-checks.json",
+      "bytes": 1030,
+      "sha256": "98a49965cc320dee67e78f7a3f2d6630c53dfa9c6dbae228eaf15fd86c96c218"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/replacement-plate-list.csv",
+      "bytes": 433,
+      "sha256": "69f3cf7a00209f73e421976e6007771d3da80b1a2a16deddf649798da3d1fadf"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/ten_plate_project_verification.json",
+      "bytes": 1061,
+      "sha256": "e00288a191abf65fbe42ae447925f3369f83a51ce506cf8fb6fe0bde3c30a320"
+    },
+    {
+      "path": "outputs/ATX-Desk-v16/verification.json",
+      "bytes": 2098,
+      "sha256": "3c973e1aea3c3543b5da425f7c186d44de55a6e25edbd696c7797810a7ae1d4d"
+    },
+    {
       "path": "outputs/First-Print-V12/FIRST_CPU_Mainboard_Rail_V12.3mf",
       "bytes": 33115,
       "sha256": "da1db627167d422a287d404b6e47797bed1daf2e67289da8ece92bc3cb3ee48e"
@@ -2461,6 +2746,11 @@
       "path": "outputs/Style1-V15-GPU-Replacement-Parts.zip",
       "bytes": 55202,
       "sha256": "1e072e9be741543104c85f9547a1434481319a32620ab3c98fdac86f6ddbbbc8"
+    },
+    {
+      "path": "outputs/Style1-V16-GPU-Replacement-Parts.zip",
+      "bytes": 61893,
+      "sha256": "365a18578cc8243b2681b4d59fdf9082006e3ec7e30c7854b8742ab450d219ac"
     },
     {
       "path": "outputs/Style2-V06-A1-PETG-Print-Package.zip",
@@ -4218,6 +4508,11 @@
       "sha256": "4b4f7fb77fbcd43341e3c5c4907d598aea05f5720b8cdc51214afb3858505558"
     },
     {
+      "path": "work/append_v16_repair_plate.py",
+      "bytes": 7687,
+      "sha256": "27f87dd9af93a57acf8db555539a721b312c2dcc15d39a1486c4ca46c6424c08"
+    },
+    {
       "path": "work/atx-reference/atx22.pdf",
       "bytes": 432044,
       "sha256": "f6eac560afb88f08c0631e93837d29917c00be5b4a093a9f0140b03ee11a4e9e"
@@ -4326,6 +4621,11 @@
       "path": "work/build_atx_v15_gpu_fit.py",
       "bytes": 4988,
       "sha256": "7ddb07083a47cb368a2809b2654347d6a2a35dc4b58d974b72c81f03a41d7ef5"
+    },
+    {
+      "path": "work/build_atx_v16_gpu_access.py",
+      "bytes": 11551,
+      "sha256": "11bd3a4f316546e6e01f34fb9272af835917f5c778ec0b4bc07a8b93b4eec45b"
     },
     {
       "path": "work/build_manual_style1_v13.py",
@@ -4496,6 +4796,11 @@
       "path": "work/package_atx_v15_gpu_fit.py",
       "bytes": 5960,
       "sha256": "76b978cf79796e66654d04971ba8130107b36d33755728efc41ced915d860aae"
+    },
+    {
+      "path": "work/package_atx_v16_gpu_access.py",
+      "bytes": 5557,
+      "sha256": "71291807ec3e95041deecb416ee3b7f7aa12137736d858bca24da3ad1aeb3fb2"
     },
     {
       "path": "work/package_depth_batch.py",

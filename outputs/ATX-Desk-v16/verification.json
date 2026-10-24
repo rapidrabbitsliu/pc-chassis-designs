@@ -1,0 +1,85 @@
+{
+  "style": 1,
+  "version": "V16",
+  "changed_parts": [
+    "07_GPU_REINFORCED_REAR_TOWER",
+    "08_GPU_UPPER_EAR_LEDGE_ADJUSTABLE",
+    "08_GPU_LOWER_TWO_TAB_RECEIVER_ADJUSTABLE"
+  ],
+  "unchanged_from_v15": 14,
+  "upper_platform_front_y_mm": 246.84,
+  "upper_platform_retraction_from_v13_mm": 2,
+  "platform_vertical_thickness_mm": 10,
+  "upper_hole_offset_from_v13_towards_tower_mm": 1.5,
+  "hole_centres_xy_mm": [
+    [
+      120.0,
+      251.0
+    ],
+    [
+      100.0,
+      251.0
+    ]
+  ],
+  "nut_OD5_front_wall_mm": 1.66,
+  "base_holes_xy_mm": [
+    [
+      140.0,
+      248.5
+    ],
+    [
+      80.0,
+      248.5
+    ]
+  ],
+  "omitted_base_hole_xy_mm": [
+    158,
+    248.5
+  ],
+  "forward_foot_x_range_mm": [
+    70,
+    150
+  ],
+  "tower_overall_width_unchanged_mm": 104,
+  "lower_guide_x_range_mm": [
+    85,
+    132
+  ],
+  "metal_tab_slot_centres_x_mm_unchanged": [
+    96,
+    116
+  ],
+  "nominal_head_channel_mm": 8.2,
+  "driver_access": [
+    {
+      "x_mm": 80,
+      "y_mm": 248.5,
+      "driver_gauge_diameter_mm": 10,
+      "z_range_mm": [
+        148.01,
+        310
+      ],
+      "tower_overlap_mm3": 0.0,
+      "lower_receiver_overlap_mm3": 0.0,
+      "assembly_sequence": "Fasten tower base before fitting upper ear ledge and GPU"
+    },
+    {
+      "x_mm": 140,
+      "y_mm": 248.5,
+      "driver_gauge_diameter_mm": 10,
+      "z_range_mm": [
+        148.01,
+        310
+      ],
+      "tower_overlap_mm3": 0.0,
+      "lower_receiver_overlap_mm3": 0.0,
+      "assembly_sequence": "Fasten tower base before fitting upper ear ledge and GPU"
+    }
+  ],
+  "structural_interferences": 0,
+  "hardware_reference_interferences": [],
+  "timeline_health": "healthy",
+  "physical_retest_required": true,
+  "note": "Audio jack has no detailed CAD solid. Physical socket clearance remains to be tested. Fasten both base screws before installing upper ledge and GPU. Existing unused X158 insert in rear load beam can remain; do not reprint rear beam.",
+  "fusion_archive_reimport_checked_parts": 17
+}

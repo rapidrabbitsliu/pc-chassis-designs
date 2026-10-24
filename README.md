@@ -2,7 +2,7 @@
 
 为微星 Z390-A PRO、影驰 RTX 5060 Ti 16 GB 与现有电源设计的 PETG 打印机架。保存两种独立风格的硬件资料、Fusion 模型、STL、Bambu Studio 摆盘与打印参数、图解安装说明书和历次建模脚本。
 
-**当前版本：风格 1 V15；风格 2 V09。** 风格编号表示结构方案，版本号分别演进。实物配合、长期承重与散热仍需实测，具体已验证及待验证事项见各版本说明。
+**当前版本：风格 1 V16；风格 2 V09。** 风格编号表示结构方案，版本号分别演进。实物配合、长期承重与散热仍需实测，具体已验证及待验证事项见各版本说明。
 
 ## 换电脑恢复
 
@@ -21,18 +21,18 @@ cd pc-chassis-designs
 - [风格 1 桌面双层开放式机箱](<docs/风格1 桌面双层开放式机箱.md>)：主板平放、下层电源、上层双 140 风扇的布局与修订。
 - [风格 2 竖板前置显卡机架](<docs/风格2 竖板前置显卡机架.md>)：独立结构方案和 V09 版本信息。
 
-## 风格 1：V15
+## 风格 1：V16
 
-V15 以 V13 的 17 件结构为基础，仅更新 P12 显卡塔和 P13 上托片。显卡塔的螺丝头通道 CAD 宽 8.2 mm，下槽贯穿加强筋；上托片平台相对 V13 延长 2 mm，两个螺母孔向显卡侧移动 3 mm。配合尺寸以 [V15 修订说明](outputs/ATX-Desk-v15/README.txt)为准，修补件仍需实物试装。
+V16 根据最新装机照片修改 P12 显卡塔、P13 上托片和 P14 下插脚座，其余 14 件沿用。取消音频接口遮挡的第一底部孔、收短对应前伸底脚，下插脚座截短以露出第二孔。上平台相对最初 V13 前缘缩回 2 mm、厚度仍为 10 mm；孔向支架侧退 1.5 mm。详细尺寸与装配顺序见 [V16 修订说明](outputs/ATX-Desk-v16/README.txt)，修补件仍需实物试装。
 
-- [最新完整 Fusion 模型](outputs/ATX-Desk-v15/ATX_Desk_v15_gpu_fit.f3d)
-- [最新 Bambu Studio 十盘工程](outputs/ATX-Desk-v15/Style1_V15_All_Parts_10_Plates_With_Temporary_Repair.3mf)：前九盘保留原名称及“已打”标记，P12/P13 已更新；第十盘额外放这次修补的两件。
-- [完整 17 件打印 STL](outputs/ATX-Desk-v15/PRINT_STL/)、[两件补打 STL](outputs/ATX-Desk-v15/REPRINT_STL/)
-- [第十盘检查记录](outputs/ATX-Desk-v15/ten_plate_project_verification.json)：已在 Bambu Studio 切片通过，预计 6 小时 9 分、132.17 g PETG；重新打开工程后可重新切片，未发送打印。
-- [V13 图解安装说明书](outputs/ATX-Desk-v13/Style1_V13_Assembly_Manual.html)：17 件编号、热熔孔位与装配步骤。P12/P13 使用 V15 新件及修订尺寸，说明书中的旧件图保留作基线。
+- [最新完整 Fusion 模型](outputs/ATX-Desk-v16/ATX_Desk_v16_gpu_access.f3d)
+- [最新 Bambu Studio 十盘工程](outputs/ATX-Desk-v16/Style1_V16_All_Parts_10_Plates_With_Temporary_Repair.3mf)：前九盘保留原名称及“已打”标记，P12/P13/P14 已更新；第十盘额外放这次修补的三件。
+- [完整 17 件打印 STL](outputs/ATX-Desk-v16/PRINT_STL/)、[三件补打 STL](outputs/ATX-Desk-v16/REPRINT_STL/)
+- [三件补打包](outputs/Style1-V16-GPU-Replacement-Parts.zip)、[第十盘检查记录](outputs/ATX-Desk-v16/ten_plate_project_verification.json)：含 5 mm brim 的三件一盘包络已检查，V16 尚未在 Bambu Studio 重切片；未发送打印。
+- [V13 图解安装说明书](outputs/ATX-Desk-v13/Style1_V13_Assembly_Manual.html)：17 件编号、热熔孔位与装配步骤。P12/P13/P14 使用 V16 新件及修订尺寸，说明书中的旧件图保留作基线。
 - [V13 装配参考图](outputs/ATX-Desk-v13/Assembly.png)、[说明书及维护资料包](outputs/ATX-Desk-v13/Style1_V13_Illustrated_Manual.zip)
 
-V13 原九盘工程与 V14、早期版本留在各自目录作追溯。`Style1-V15-GPU-Replacement-Parts.zip` 内为先前单独打包的一盘未切片工程；继续使用完整工程时优先打开上面的 V15 十盘文件。
+V13 原九盘工程、V14/V15 修订和早期版本留在各自目录作追溯。V15 的 6 小时 9 分、132.17 g 仅为旧版两件补打盘的切片结果，不适用于 V16。继续使用完整工程时打开上面的 V16 十盘文件。
 
 ## 风格 2：V09
 

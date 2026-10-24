@@ -1,0 +1,14 @@
+{
+  "changed_parts": [
+    "07_GPU_REINFORCED_REAR_TOWER",
+    "08_GPU_UPPER_EAR_LEDGE_ADJUSTABLE",
+    "08_GPU_LOWER_TWO_TAB_RECEIVER_ADJUSTABLE"
+  ],
+  "unchanged_parts": 14,
+  "stl_count": 17,
+  "replacement_stl_count": 3,
+  "replacement_plates": 1,
+  "sliced": false,
+  "supports": "P12 normal auto, build plate only; P13/P14 off",
+  "printer_jobs_sent": false
+}
