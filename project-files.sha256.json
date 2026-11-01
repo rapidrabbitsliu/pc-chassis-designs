@@ -19,8 +19,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5607,
-      "sha256": "448a939d6e702ea8f7a045275eb5b842f2705af2ea8a4f7be27fb1b86e8ec023"
+      "bytes": 5747,
+      "sha256": "f950d0c6b6dccd8cfb2b85f8994891ba51667f046fdaedb668e29c52e274c746"
     },
     {
       "path": "docs/.nojekyll",
@@ -29,8 +29,8 @@
     },
     {
       "path": "docs/index.html",
-      "bytes": 2475196,
-      "sha256": "bbe1bdb817813d7c3aa9b7dd7f14ce591212326b3c0a7f9e5a5894a7c884e864"
+      "bytes": 2474666,
+      "sha256": "ff810ede38cee910fe1b1dcfa553c507431c9881f3fbb81b405664e80df78794"
     },
     {
       "path": "docs/其他电脑恢复项目.md",
@@ -1664,8 +1664,8 @@
     },
     {
       "path": "outputs/ATX-Desk-v13/Style1_V13_Assembly_Manual.html",
-      "bytes": 3691776,
-      "sha256": "fed5faf6de2e4ab6eeea3af7dd306306cc9757e4b4dfcd3792436b2c085cf1e0"
+      "bytes": 2474666,
+      "sha256": "ff810ede38cee910fe1b1dcfa553c507431c9881f3fbb81b405664e80df78794"
     },
     {
       "path": "outputs/ATX-Desk-v13/Style1_V13_Illustrated_Manual.zip",
@@ -2559,8 +2559,13 @@
     },
     {
       "path": "outputs/ATX-Desk-v23/Style1_V23_Assembly_Manual.html",
-      "bytes": 2475196,
-      "sha256": "bbe1bdb817813d7c3aa9b7dd7f14ce591212326b3c0a7f9e5a5894a7c884e864"
+      "bytes": 2474666,
+      "sha256": "ff810ede38cee910fe1b1dcfa553c507431c9881f3fbb81b405664e80df78794"
+    },
+    {
+      "path": "outputs/ATX-Desk-v23/manual_from_print_project_verification.json",
+      "bytes": 4631,
+      "sha256": "83ace0fc63f47c8231e1cd65c93a086242409faacafc301bacf96418af6d506d"
     },
     {
       "path": "outputs/First-Print-V12/FIRST_CPU_Mainboard_Rail_V12.3mf",
@@ -2774,8 +2779,8 @@
     },
     {
       "path": "outputs/Style1-V23-3MF-and-Manual.zip",
-      "bytes": 2020463,
-      "sha256": "67a6222887072a9823da940654d717fc93d2b2f3f08f2f8f88c415cec8c348c4"
+      "bytes": 2020128,
+      "sha256": "3029d79850157339c7d9256f456d8220e4978b5ce5946b8050c3a4d5f1a1a250"
     },
     {
       "path": "outputs/Style2-V06-A1-PETG-Print-Package.zip",

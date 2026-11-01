@@ -1,0 +1,114 @@
+{
+  "source_project": "Style1_V23_All_Latest_Parts_9_Plates_GUI.3mf",
+  "source_project_sha256": "ad7e600907d1d9807c3997cd1796e67f8f3f7bc18f6d996230a0a953ebb4f767",
+  "printed_part_count": 15,
+  "historical_printed_mesh_fallback": false,
+  "reference_hardware": "unchanged approximate envelope only",
+  "checks": [
+    {
+      "name": "18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm",
+      "triangles": 912,
+      "volume_error_percent": 0.009840809749100378,
+      "assembled_bounds_verified": true,
+      "illustration_stl_sha256": "17dbbe27a2c006e083db8c686f47f2c7ef0db5621641c3680bf45d2943e6247b"
+    },
+    {
+      "name": "04_front_GROUND_BAR_290mm_FLAT_PSU",
+      "triangles": 420,
+      "volume_error_percent": 0.007689057782459269,
+      "assembled_bounds_verified": true,
+      "illustration_stl_sha256": "16e488144b4037fd08adbe54c26d2ce71b8ccdbf4bab8262476f7bec2cfbff25"
+    },
+    {
+      "name": "20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm",
+      "triangles": 1324,
+      "volume_error_percent": 0.06163036013269758,
+      "assembled_bounds_verified": true,
+      "illustration_stl_sha256": "bcdda30ca3b599d1ec04612b58b053f2bdb4daa218d80f7664fcf0f79a82a3f4"
+    },
+    {
+      "name": "04_rear_GROUND_BAR_290mm_FLAT_PSU",
+      "triangles": 420,
+      "volume_error_percent": 0.007689441066754634,
+      "assembled_bounds_verified": true,
+      "illustration_stl_sha256": "28996dcf2fa4befa5c9001da08c7310cde0a3550c91c61532840b334da0582bc"
+    },
+    {
+      "name": "19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm",
+      "triangles": 980,
+      "volume_error_percent": 0.016688383522986752,
+      "assembled_bounds_verified": true,
+      "illustration_stl_sha256": "b91b60bba70bd29c8c2d86161b282c473570219a1e2220412f01837eb60ab2d3"
+    },
+    {
+      "name": "19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm",
+      "triangles": 968,
+      "volume_error_percent": 0.01758035067292308,
+      "assembled_bounds_verified": true,
+      "illustration_stl_sha256": "1e35cb452b7c257711b6554106d7cfd0bf9eea2f1fedce7f2e6db721ba3187e6"
+    },
+    {
+      "name": "19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm",
+      "triangles": 980,
+      "volume_error_percent": 0.030408111611253365,
+      "assembled_bounds_verified": true,
+      "illustration_stl_sha256": "9672da902693c032a55fc6f4dd753e69ce7989a7d9120f9d5a5b83fa77eff7ed"
+    },
+    {
+      "name": "16_PCI_INSET_SIDE_16_45mm",
+      "triangles": 748,
+      "volume_error_percent": 0.004065757459161373,
+      "assembled_bounds_verified": true,
+      "illustration_stl_sha256": "5789dfd3655b3572be33c59311a09b67020f1a6ebc39f8758d116b43a5cdace7"
+    },
+    {
+      "name": "10_CPU_140_FAN_MOUNT",
+      "triangles": 1436,
+      "volume_error_percent": 0.15967247627323286,
+      "assembled_bounds_verified": true,
+      "illustration_stl_sha256": "bc7269386fc53933f3ed78715406122d9b95d65b34c442b4a7f0fff48f172b0e"
+    },
+    {
+      "name": "12_front_PCI_SUPPORT_FRAME",
+      "triangles": 916,
+      "volume_error_percent": 0.01015150714083715,
+      "assembled_bounds_verified": true,
+      "illustration_stl_sha256": "98e4a0bec19ede33fc442035261d6211bdded533021ca706bc25751c7da4a668"
+    },
+    {
+      "name": "05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE",
+      "triangles": 1136,
+      "volume_error_percent": 0.05929023604817992,
+      "assembled_bounds_verified": true,
+      "illustration_stl_sha256": "1b09fd70ffe65a9c46af241e0a59e9acaaae17d4a3550291595e176cb742a182"
+    },
+    {
+      "name": "10_GPU_140_FAN_MOUNT",
+      "triangles": 1436,
+      "volume_error_percent": 0.1596698094160025,
+      "assembled_bounds_verified": true,
+      "illustration_stl_sha256": "21b4229f226d6dbad381de3ab61adc2893ffb883ce81d1de3f7e4aac7848f10f"
+    },
+    {
+      "name": "12_front_CPU_SUPPORT_FRAME",
+      "triangles": 864,
+      "volume_error_percent": 0.008081393841921993,
+      "assembled_bounds_verified": true,
+      "illustration_stl_sha256": "049fb0489e5192c1432d852a3c2d3a0c154ad7d9418418e400acfadbce88e137"
+    },
+    {
+      "name": "07_GPU_INTEGRATED_LIGHTWEIGHT_FRAME",
+      "triangles": 1376,
+      "volume_error_percent": 0.006250294441931556,
+      "assembled_bounds_verified": true,
+      "illustration_stl_sha256": "29412ed62c9ce8c41c95da8fe22fdd8983e8d99d5464547629165d00e023cc97"
+    },
+    {
+      "name": "16_CPU_VERTICAL_SIDE_FLUSH_TO_BEAM",
+      "triangles": 748,
+      "volume_error_percent": 0.004064384519147019,
+      "assembled_bounds_verified": true,
+      "illustration_stl_sha256": "51d8d0fa9c7cf1e9352561eb15fc30806d9218e214725180cdde246361f9542a"
+    }
+  ]
+}
