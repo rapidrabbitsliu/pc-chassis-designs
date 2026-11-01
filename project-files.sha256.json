@@ -19,8 +19,18 @@
     },
     {
       "path": "README.md",
-      "bytes": 4470,
-      "sha256": "1abf1f443047cb884377b2205bb1d9e2ead41a02c7353051cbf250e702752934"
+      "bytes": 5607,
+      "sha256": "448a939d6e702ea8f7a045275eb5b842f2705af2ea8a4f7be27fb1b86e8ec023"
+    },
+    {
+      "path": "docs/.nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "docs/index.html",
+      "bytes": 2475196,
+      "sha256": "bbe1bdb817813d7c3aa9b7dd7f14ce591212326b3c0a7f9e5a5894a7c884e864"
     },
     {
       "path": "docs/其他电脑恢复项目.md",
@@ -2543,6 +2553,16 @@
       "sha256": "3c973e1aea3c3543b5da425f7c186d44de55a6e25edbd696c7797810a7ae1d4d"
     },
     {
+      "path": "outputs/ATX-Desk-v23/Style1_V23_All_Latest_Parts_9_Plates_GUI.3mf",
+      "bytes": 330868,
+      "sha256": "ad7e600907d1d9807c3997cd1796e67f8f3f7bc18f6d996230a0a953ebb4f767"
+    },
+    {
+      "path": "outputs/ATX-Desk-v23/Style1_V23_Assembly_Manual.html",
+      "bytes": 2475196,
+      "sha256": "bbe1bdb817813d7c3aa9b7dd7f14ce591212326b3c0a7f9e5a5894a7c884e864"
+    },
+    {
       "path": "outputs/First-Print-V12/FIRST_CPU_Mainboard_Rail_V12.3mf",
       "bytes": 33115,
       "sha256": "da1db627167d422a287d404b6e47797bed1daf2e67289da8ece92bc3cb3ee48e"
@@ -2751,6 +2771,11 @@
       "path": "outputs/Style1-V16-GPU-Replacement-Parts.zip",
       "bytes": 61893,
       "sha256": "365a18578cc8243b2681b4d59fdf9082006e3ec7e30c7854b8742ab450d219ac"
+    },
+    {
+      "path": "outputs/Style1-V23-3MF-and-Manual.zip",
+      "bytes": 2020463,
+      "sha256": "67a6222887072a9823da940654d717fc93d2b2f3f08f2f8f88c415cec8c348c4"
     },
     {
       "path": "outputs/Style2-V06-A1-PETG-Print-Package.zip",

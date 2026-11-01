@@ -4,9 +4,23 @@
 
 **当前版本：风格 1 V16；风格 2 V09。** 风格编号表示结构方案，版本号分别演进。实物配合、长期承重与散热仍需实测，具体已验证及待验证事项见各版本说明。
 
+
+## 最新交付：样式1 V23（2026年11月1日）
+
+仓库已按用户要求公开。本次发布最新全套15件九盘3MF与同步更新的说明书；下面V16等条目为历史资料。
+
+- [在线安装说明书（GitHub Pages）](https://rapidrabbitsliu.github.io/pc-chassis-designs/)
+- [V23全套15件九盘3MF](outputs/ATX-Desk-v23/Style1_V23_All_Latest_Parts_9_Plates_GUI.3mf)
+- [V23离线HTML说明书](outputs/ATX-Desk-v23/Style1_V23_Assembly_Manual.html)
+- [3MF与说明书ZIP下载包](outputs/Style1-V23-3MF-and-Manual.zip)
+
+最新工程包含V22电源螺丝孔避让托架、V23风扇阶梯孔面板和一体轻量显卡支架，P13/P14停用。沿用A1/0.4、PETG、0.2层高、5墙和40% gyroid。可编辑工程打开后请重新切片；49小时44分、1106.22 g为2026年10月26日历史切片估计。未发送打印。
+
+说明书包含15件独立图、19组热熔孔位图及13步完成图。43个有效热熔位置，另P05一个停用旧孔；风扇使用8颗用户实测短自攻螺丝，不用螺帽。手机、桌面、离线图片和勾选保存/重置检查通过。新零件配合及承载仍需实测。
+
 ## 换电脑恢复
 
-从私有仓库克隆或完整下载 ZIP，再直接打开对应 `.f3d`、`.3mf` 或 `.html` 文件。
+从公开仓库克隆或完整下载 ZIP，再直接打开对应 `.f3d`、`.3mf` 或 `.html` 文件。
 
 ```sh
 git clone https://github.com/rapidrabbitsliu/pc-chassis-designs.git
