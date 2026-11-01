@@ -1,0 +1,16 @@
+﻿盘号,分组,零件,打印尺寸mm,支撑,brim宽度mm
+1,01 V24 P16 left fan panel - counterbores UP,10_GPU_140_FAN_MOUNT,140.0 x 140.0 x 16.0,无,5
+2,02 V24 P17 right fan panel - counterbores UP,10_CPU_140_FAN_MOUNT,140.0 x 140.0 x 16.0,无,5
+3,03 V22 P08 PSU stops - screw access corrected,05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE,158.0 x 184.0 x 36.0,自动普通支撑_仅热床,5
+4,04 P03 front PCI frame + V20 P12 integrated GPU,12_front_PCI_SUPPORT_FRAME,140.0 x 156.1 x 16.0,无,5
+4,04 P03 front PCI frame + V20 P12 integrated GPU,07_GPU_INTEGRATED_LIGHTWEIGHT_FRAME,80.0 x 128.0 x 28.0,无,5
+5,05 P04 front CPU frame - support on,12_front_CPU_SUPPORT_FRAME,162.45 x 140.0 x 19.0,自动普通支撑_仅热床,5
+6,06 P02 CPU side + P09 P10 P11 board rails,16_CPU_VERTICAL_SIDE_FLUSH_TO_BEAM,247.84 x 140.0 x 16.0,无,3
+6,06 P02 CPU side + P09 P10 P11 board rails,19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm,243.84 x 29.51 x 18.0,无,5
+6,06 P02 CPU side + P09 P10 P11 board rails,19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm,243.84 x 18.0 x 30.0,自动普通支撑_仅热床,5
+6,06 P02 CPU side + P09 P10 P11 board rails,19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm,243.84 x 16.0 x 18.0,无,5
+7,07 P01 PCI inset side - outer face flat,16_PCI_INSET_SIDE_16_45mm,247.84 x 142.83 x 15.891,无,3
+8,08 P05 rear beam + P15 dual fan rail - diagonal,18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm,220.936 x 220.936 x 20.0,无,5
+8,08 P05 rear beam + P15 dual fan rail - diagonal,20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm,209.304 x 209.304 x 31.0,自动普通支撑_仅热床,5
+9,09 P06 P07 ground bars - diagonal,04_front_GROUND_BAR_290mm_FLAT_PSU,207.889 x 207.889 x 8.0,无,5
+9,09 P06 P07 ground bars - diagonal,04_rear_GROUND_BAR_290mm_FLAT_PSU,207.889 x 207.889 x 8.0,无,5

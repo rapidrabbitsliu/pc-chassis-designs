@@ -1,0 +1,92 @@
+[
+  {
+    "part": "10_GPU_140_FAN_MOUNT",
+    "source": "C:\\Users\\sieme\\Documents\\ChatGPT\\\u7535\u8111\u4e0a\u6d1e\u6d1e\u677f\\outputs\\ATX-Desk-v24\\PRINT_STL\\10_GPU_140_FAN_MOUNT.stl",
+    "sha256": "e0579c39efe54c5f1a9b74a3a5c4dad99c52894fae09a1bdde29f0454bf7905b",
+    "volume_error_percent": 0.15966922494083158
+  },
+  {
+    "part": "10_CPU_140_FAN_MOUNT",
+    "source": "C:\\Users\\sieme\\Documents\\ChatGPT\\\u7535\u8111\u4e0a\u6d1e\u6d1e\u677f\\outputs\\ATX-Desk-v24\\PRINT_STL\\10_CPU_140_FAN_MOUNT.stl",
+    "sha256": "fd5c9c792d63fbc18cba3621034ab140731ee0fc8a19609bc2c0384baf28ccab",
+    "volume_error_percent": 0.15967244969407404
+  },
+  {
+    "part": "04_front_GROUND_BAR_290mm_FLAT_PSU",
+    "source": "C:\\Users\\sieme\\Documents\\ChatGPT\\\u7535\u8111\u4e0a\u6d1e\u6d1e\u677f\\outputs\\ATX-Desk-v24\\PRINT_STL\\04_front_GROUND_BAR_290mm_FLAT_PSU.stl",
+    "sha256": "383dd163cee8b6152a85165d49bf848bff2a1ed3457c2c31d2294a15ef67091d",
+    "volume_error_percent": 0.007684400368215834
+  },
+  {
+    "part": "04_rear_GROUND_BAR_290mm_FLAT_PSU",
+    "source": "C:\\Users\\sieme\\Documents\\ChatGPT\\\u7535\u8111\u4e0a\u6d1e\u6d1e\u677f\\outputs\\ATX-Desk-v24\\PRINT_STL\\04_rear_GROUND_BAR_290mm_FLAT_PSU.stl",
+    "sha256": "a9f73ef99d84274c2d4cc3ff9b13b2a8f1f9804c237f5c160a2d2c841d527db4",
+    "volume_error_percent": 0.007690218871550089
+  },
+  {
+    "part": "05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE",
+    "source": "C:\\Users\\sieme\\Documents\\ChatGPT\\\u7535\u8111\u4e0a\u6d1e\u6d1e\u677f\\outputs\\ATX-Desk-v24\\PRINT_STL\\05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE.stl",
+    "sha256": "62f16365c03b699c1d7f98d7fb46157d18ef0fd9e86a5cd105931812297acd94",
+    "volume_error_percent": 0.0927445301693791
+  },
+  {
+    "part": "12_front_PCI_SUPPORT_FRAME",
+    "source": "C:\\Users\\sieme\\Documents\\ChatGPT\\\u7535\u8111\u4e0a\u6d1e\u6d1e\u677f\\outputs\\ATX-Desk-v24\\PRINT_STL\\12_front_PCI_SUPPORT_FRAME.stl",
+    "sha256": "d739e9ccda818f14739c86d78c26c011e5da16829358912352bd2c6313c35573",
+    "volume_error_percent": 0.012730976656275518
+  },
+  {
+    "part": "12_front_CPU_SUPPORT_FRAME",
+    "source": "C:\\Users\\sieme\\Documents\\ChatGPT\\\u7535\u8111\u4e0a\u6d1e\u6d1e\u677f\\outputs\\ATX-Desk-v24\\PRINT_STL\\12_front_CPU_SUPPORT_FRAME.stl",
+    "sha256": "33c27458beec46cd00a2f3423517643f6cdb879f31c4b4c2123b7fbc18b412c0",
+    "volume_error_percent": 0.010600802170324405
+  },
+  {
+    "part": "16_CPU_VERTICAL_SIDE_FLUSH_TO_BEAM",
+    "source": "C:\\Users\\sieme\\Documents\\ChatGPT\\\u7535\u8111\u4e0a\u6d1e\u6d1e\u677f\\outputs\\ATX-Desk-v24\\PRINT_STL\\16_CPU_VERTICAL_SIDE_FLUSH_TO_BEAM.stl",
+    "sha256": "d3a5fc5315a3196a0e1a054f8e90831cd9542472669b940a161f7cad35db75a6",
+    "volume_error_percent": 0.004064063438485025
+  },
+  {
+    "part": "16_PCI_INSET_SIDE_16_45mm",
+    "source": "C:\\Users\\sieme\\Documents\\ChatGPT\\\u7535\u8111\u4e0a\u6d1e\u6d1e\u677f\\outputs\\ATX-Desk-v24\\PRINT_STL\\16_PCI_INSET_SIDE_16_45mm.stl",
+    "sha256": "0ca270cf467d9c7b2b39e872c421ff84e71a8b842f9e8865b535f83ebae6bdf0",
+    "volume_error_percent": 0.004063655866988093
+  },
+  {
+    "part": "19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "source": "C:\\Users\\sieme\\Documents\\ChatGPT\\\u7535\u8111\u4e0a\u6d1e\u6d1e\u677f\\outputs\\ATX-Desk-v24\\PRINT_STL\\19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+    "sha256": "3b6e3a6f71e065f2835f048c1032d3f729858b43d99779b5ef0305d32bc8246b",
+    "volume_error_percent": 0.013106098195920474
+  },
+  {
+    "part": "19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "source": "C:\\Users\\sieme\\Documents\\ChatGPT\\\u7535\u8111\u4e0a\u6d1e\u6d1e\u677f\\outputs\\ATX-Desk-v24\\PRINT_STL\\19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+    "sha256": "9b101c33fc02632c96784d1896dd63e8b5c63c648463456c6c767dc098505c4f",
+    "volume_error_percent": 0.014586187705088858
+  },
+  {
+    "part": "19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "source": "C:\\Users\\sieme\\Documents\\ChatGPT\\\u7535\u8111\u4e0a\u6d1e\u6d1e\u677f\\outputs\\ATX-Desk-v24\\PRINT_STL\\19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+    "sha256": "e21bcea23917b7980622098b4e2a68289fca7f563a5a3c1c1082ab02fd431327",
+    "volume_error_percent": 0.023942963613512152
+  },
+  {
+    "part": "18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm",
+    "source": "C:\\Users\\sieme\\Documents\\ChatGPT\\\u7535\u8111\u4e0a\u6d1e\u6d1e\u677f\\outputs\\ATX-Desk-v24\\PRINT_STL\\18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm.stl",
+    "sha256": "92e3275caa8527d06f9eb32b54a20cf902a74d5827cdcdcc3383e5929672181c",
+    "volume_error_percent": 0.012027597616053065
+  },
+  {
+    "part": "20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm",
+    "source": "C:\\Users\\sieme\\Documents\\ChatGPT\\\u7535\u8111\u4e0a\u6d1e\u6d1e\u677f\\outputs\\ATX-Desk-v24\\PRINT_STL\\20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm.stl",
+    "sha256": "08ce06df4ad19de6250d095701ed163592cf7880ded17404d8f5014a2e18c62b",
+    "volume_error_percent": 0.07905827736696727
+  },
+  {
+    "part": "07_GPU_INTEGRATED_LIGHTWEIGHT_FRAME",
+    "source": "C:\\Users\\sieme\\Documents\\ChatGPT\\\u7535\u8111\u4e0a\u6d1e\u6d1e\u677f\\outputs\\ATX-Desk-v24\\PRINT_STL\\07_GPU_INTEGRATED_LIGHTWEIGHT_FRAME.stl",
+    "sha256": "33f8e52eddccdb6c593d931dd3a9ad211e12276829befe8505be89ee1bc592a8",
+    "volume_error_percent": 0.006250367752462517
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "part": "10_GPU_140_FAN_MOUNT",
+    "closed_mesh": true,
+    "print_size_mm": [
+      139.99999618530273,
+      140.0000019073487,
+      16.00000021798271
+    ],
+    "volume_error_pct": 0.15966354638732616
+  },
+  {
+    "part": "10_CPU_140_FAN_MOUNT",
+    "closed_mesh": true,
+    "print_size_mm": [
+      140.0,
+      140.0,
+      16.000000000000004
+    ],
+    "volume_error_pct": 0.15967244969413166
+  },
+  {
+    "part": "04_front_GROUND_BAR_290mm_FLAT_PSU",
+    "closed_mesh": true,
+    "print_size_mm": [
+      207.8894041266788,
+      207.8894041266788,
+      8.000000142935159
+    ],
+    "volume_error_pct": 0.007685102819514354
+  },
+  {
+    "part": "04_rear_GROUND_BAR_290mm_FLAT_PSU",
+    "closed_mesh": true,
+    "print_size_mm": [
+      207.8893988667512,
+      207.8893988667512,
+      7.999999888621982
+    ],
+    "volume_error_pct": 0.007685324107124107
+  },
+  {
+    "part": "05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE",
+    "closed_mesh": true,
+    "print_size_mm": [
+      157.99999545968097,
+      184.00000169005588,
+      36.000000703840016
+    ],
+    "volume_error_pct": 0.09274764168446864
+  },
+  {
+    "part": "12_front_PCI_SUPPORT_FRAME",
+    "closed_mesh": true,
+    "print_size_mm": [
+      156.10000406901042,
+      139.99999817533174,
+      15.999999791466493
+    ],
+    "volume_error_pct": 0.012726420753428764
+  },
+  {
+    "part": "12_front_CPU_SUPPORT_FRAME",
+    "closed_mesh": true,
+    "print_size_mm": [
+      162.45000813802085,
+      139.99999649331232,
+      18.999999524092395
+    ],
+    "volume_error_pct": 0.010593282515042414
+  },
+  {
+    "part": "16_CPU_VERTICAL_SIDE_FLUSH_TO_BEAM",
+    "closed_mesh": true,
+    "print_size_mm": [
+      247.83999755859378,
+      140.0000006895515,
+      16.000000078805897
+    ],
+    "volume_error_pct": 0.004065541108962137
+  },
+  {
+    "part": "16_PCI_INSET_SIDE_16_45mm",
+    "closed_mesh": true,
+    "print_size_mm": [
+      247.83999561625265,
+      142.83027926300832,
+      15.890681688567897
+    ],
+    "volume_error_pct": 0.004063059297679404
+  },
+  {
+    "part": "19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "closed_mesh": true,
+    "print_size_mm": [
+      243.8399969281798,
+      29.510000300319817,
+      18.000000043574488
+    ],
+    "volume_error_pct": 0.013104344158531431
+  },
+  {
+    "part": "19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "closed_mesh": true,
+    "print_size_mm": [
+      243.83999755859378,
+      18.000000090111,
+      30.000000150184945
+    ],
+    "volume_error_pct": 0.014584421903255604
+  },
+  {
+    "part": "19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "closed_mesh": true,
+    "print_size_mm": [
+      243.8399975585936,
+      16.00000008009863,
+      18.000000090110944
+    ],
+    "volume_error_pct": 0.02393986495626038
+  },
+  {
+    "part": "18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm",
+    "closed_mesh": true,
+    "print_size_mm": [
+      220.9355251575972,
+      220.93552515759723,
+      20.000000248415077
+    ],
+    "volume_error_pct": 0.012034015089476323
+  },
+  {
+    "part": "20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm",
+    "closed_mesh": true,
+    "print_size_mm": [
+      209.30360459080703,
+      209.30360459080705,
+      31.00000020819651
+    ],
+    "volume_error_pct": 0.07906289463341178
+  },
+  {
+    "part": "07_GPU_INTEGRATED_LIGHTWEIGHT_FRAME",
+    "closed_mesh": true,
+    "print_size_mm": [
+      80.0,
+      127.99999999999997,
+      28.0
+    ],
+    "volume_error_pct": 0.006250367752576857
+  }
+]

@@ -1,0 +1,337 @@
+{
+  "version": "V24",
+  "changed_parts": [
+    "05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE",
+    "12_front_PCI_SUPPORT_FRAME",
+    "12_front_CPU_SUPPORT_FRAME",
+    "19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm",
+    "20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm"
+  ],
+  "changed_head_wells": 20,
+  "retained_D8_2_head_wells": [
+    {
+      "part": "07_GPU_INTEGRATED_LIGHTWEIGHT_FRAME",
+      "centre_mm": [
+        140.0,
+        248.5,
+        143.0
+      ],
+      "diameter_mm": 8.2,
+      "gauge_overlap_mm3": 0.0
+    },
+    {
+      "part": "07_GPU_INTEGRATED_LIGHTWEIGHT_FRAME",
+      "centre_mm": [
+        80.0,
+        248.5,
+        143.0
+      ],
+      "diameter_mm": 8.2,
+      "gauge_overlap_mm3": 0.0
+    }
+  ],
+  "checks": [
+    {
+      "part": "05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE",
+      "centre_mm": [
+        225.39999999999998,
+        203.92,
+        11.0
+      ],
+      "axis": "z",
+      "old_CAD_diameter_mm": 6.6,
+      "new_CAD_diameter_mm": 8.2,
+      "depth_mm": 19.0,
+      "nominal_bearing_web_mm": 3,
+      "gauge_D7_6_overlap_mm3": 0.0
+    },
+    {
+      "part": "05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE",
+      "centre_mm": [
+        79.4,
+        203.92,
+        11.0
+      ],
+      "axis": "z",
+      "old_CAD_diameter_mm": 6.6,
+      "new_CAD_diameter_mm": 8.2,
+      "depth_mm": 19.0,
+      "nominal_bearing_web_mm": 3,
+      "gauge_D7_6_overlap_mm3": 0.0
+    },
+    {
+      "part": "05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE",
+      "centre_mm": [
+        225.39999999999998,
+        39.92,
+        11.0
+      ],
+      "axis": "z",
+      "old_CAD_diameter_mm": 6.6,
+      "new_CAD_diameter_mm": 8.2,
+      "depth_mm": 19.0,
+      "nominal_bearing_web_mm": 3,
+      "gauge_D7_6_overlap_mm3": 0.0
+    },
+    {
+      "part": "05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE",
+      "centre_mm": [
+        79.4,
+        39.92,
+        11.0
+      ],
+      "axis": "z",
+      "old_CAD_diameter_mm": 6.6,
+      "new_CAD_diameter_mm": 8.2,
+      "depth_mm": 19.0,
+      "nominal_bearing_web_mm": 3,
+      "gauge_D7_6_overlap_mm3": 0.0
+    },
+    {
+      "part": "12_front_PCI_SUPPORT_FRAME",
+      "centre_mm": [
+        4.9399999999999995,
+        -10.0,
+        132.0
+      ],
+      "axis": "y",
+      "old_CAD_diameter_mm": 6.6,
+      "new_CAD_diameter_mm": 8.2,
+      "depth_mm": 13.0,
+      "nominal_bearing_web_mm": 3,
+      "gauge_D7_6_overlap_mm3": 0.0
+    },
+    {
+      "part": "12_front_PCI_SUPPORT_FRAME",
+      "centre_mm": [
+        19.509999999999998,
+        -10.0,
+        8.0
+      ],
+      "axis": "y",
+      "old_CAD_diameter_mm": 6.6,
+      "new_CAD_diameter_mm": 8.2,
+      "depth_mm": 13.0,
+      "nominal_bearing_web_mm": 3,
+      "gauge_D7_6_overlap_mm3": 0.0
+    },
+    {
+      "part": "12_front_CPU_SUPPORT_FRAME",
+      "centre_mm": [
+        294.45,
+        -10.0,
+        132.0
+      ],
+      "axis": "y",
+      "old_CAD_diameter_mm": 6.6,
+      "new_CAD_diameter_mm": 8.2,
+      "depth_mm": 13.0,
+      "nominal_bearing_web_mm": 3,
+      "gauge_D7_6_overlap_mm3": 0.0
+    },
+    {
+      "part": "12_front_CPU_SUPPORT_FRAME",
+      "centre_mm": [
+        294.45,
+        -10.0,
+        8.0
+      ],
+      "axis": "y",
+      "old_CAD_diameter_mm": 6.6,
+      "new_CAD_diameter_mm": 8.2,
+      "depth_mm": 13.0,
+      "nominal_bearing_web_mm": 3,
+      "gauge_D7_6_overlap_mm3": 0.0
+    },
+    {
+      "part": "19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm",
+      "centre_mm": [
+        4.0,
+        225.0,
+        143.0
+      ],
+      "axis": "z",
+      "old_CAD_diameter_mm": 6.6,
+      "new_CAD_diameter_mm": 8.2,
+      "depth_mm": 5.0,
+      "nominal_bearing_web_mm": 3,
+      "gauge_D7_6_overlap_mm3": 0.0
+    },
+    {
+      "part": "19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm",
+      "centre_mm": [
+        4.0,
+        20.0,
+        143.0
+      ],
+      "axis": "z",
+      "old_CAD_diameter_mm": 6.6,
+      "new_CAD_diameter_mm": 8.2,
+      "depth_mm": 5.0,
+      "nominal_bearing_web_mm": 3,
+      "gauge_D7_6_overlap_mm3": 0.0
+    },
+    {
+      "part": "19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm",
+      "centre_mm": [
+        134.0,
+        222.5,
+        143.0
+      ],
+      "axis": "z",
+      "old_CAD_diameter_mm": 6.6,
+      "new_CAD_diameter_mm": 8.2,
+      "depth_mm": 5.0,
+      "nominal_bearing_web_mm": 3,
+      "gauge_D7_6_overlap_mm3": 0.0
+    },
+    {
+      "part": "19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm",
+      "centre_mm": [
+        134.0,
+        3.0,
+        143.0
+      ],
+      "axis": "z",
+      "old_CAD_diameter_mm": 6.6,
+      "new_CAD_diameter_mm": 8.2,
+      "depth_mm": 5.0,
+      "nominal_bearing_web_mm": 3,
+      "gauge_D7_6_overlap_mm3": 0.0
+    },
+    {
+      "part": "19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm",
+      "centre_mm": [
+        294.0,
+        225.0,
+        143.0
+      ],
+      "axis": "z",
+      "old_CAD_diameter_mm": 6.6,
+      "new_CAD_diameter_mm": 8.2,
+      "depth_mm": 5.0,
+      "nominal_bearing_web_mm": 3,
+      "gauge_D7_6_overlap_mm3": 0.0
+    },
+    {
+      "part": "19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm",
+      "centre_mm": [
+        294.0,
+        20.0,
+        143.0
+      ],
+      "axis": "z",
+      "old_CAD_diameter_mm": 6.6,
+      "new_CAD_diameter_mm": 8.2,
+      "depth_mm": 5.0,
+      "nominal_bearing_web_mm": 3,
+      "gauge_D7_6_overlap_mm3": 0.0
+    },
+    {
+      "part": "18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm",
+      "centre_mm": [
+        294.0,
+        256.84,
+        132.0
+      ],
+      "axis": "y",
+      "old_CAD_diameter_mm": 6.6,
+      "new_CAD_diameter_mm": 8.2,
+      "depth_mm": 5.0,
+      "nominal_bearing_web_mm": 3,
+      "gauge_D7_6_overlap_mm3": 0.0
+    },
+    {
+      "part": "18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm",
+      "centre_mm": [
+        4.0,
+        256.84,
+        132.0
+      ],
+      "axis": "y",
+      "old_CAD_diameter_mm": 6.6,
+      "new_CAD_diameter_mm": 8.2,
+      "depth_mm": 5.0,
+      "nominal_bearing_web_mm": 3,
+      "gauge_D7_6_overlap_mm3": 0.0
+    },
+    {
+      "part": "20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm",
+      "centre_mm": [
+        265.0,
+        2.0,
+        143.0
+      ],
+      "axis": "z",
+      "old_CAD_diameter_mm": 6.6,
+      "new_CAD_diameter_mm": 8.2,
+      "depth_mm": 11.0,
+      "nominal_bearing_web_mm": 3,
+      "gauge_D7_6_overlap_mm3": 0.0
+    },
+    {
+      "part": "20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm",
+      "centre_mm": [
+        200.0,
+        2.0,
+        143.0
+      ],
+      "axis": "z",
+      "old_CAD_diameter_mm": 6.6,
+      "new_CAD_diameter_mm": 8.2,
+      "depth_mm": 11.0,
+      "nominal_bearing_web_mm": 3,
+      "gauge_D7_6_overlap_mm3": 0.0
+    },
+    {
+      "part": "20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm",
+      "centre_mm": [
+        110.0,
+        2.0,
+        143.0
+      ],
+      "axis": "z",
+      "old_CAD_diameter_mm": 6.6,
+      "new_CAD_diameter_mm": 8.2,
+      "depth_mm": 11.0,
+      "nominal_bearing_web_mm": 3,
+      "gauge_D7_6_overlap_mm3": 0.0
+    },
+    {
+      "part": "20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm",
+      "centre_mm": [
+        50.0,
+        2.0,
+        143.0
+      ],
+      "axis": "z",
+      "old_CAD_diameter_mm": 6.6,
+      "new_CAD_diameter_mm": 8.2,
+      "depth_mm": 11.0,
+      "nominal_bearing_web_mm": 3,
+      "gauge_D7_6_overlap_mm3": 0.0
+    }
+  ],
+  "head_diameter_mm": 7,
+  "screw_thread": "M3",
+  "thread_length_mm": 6,
+  "new_CAD_head_well_mm": 8.2,
+  "measured_previous_CAD_and_print_mm": [
+    6.6,
+    6.3
+  ],
+  "expected_print_range_mm": [
+    7.6,
+    7.9
+  ],
+  "physical_fit_test_required": true,
+  "bearing_web_nominal_mm": 3,
+  "non_head_geometry_unchanged": true,
+  "printed_parts": 15,
+  "interferences": 0,
+  "timeline": "healthy",
+  "sent_to_printer": false
+}

@@ -1,0 +1,257 @@
+[
+  {
+    "plate": 1,
+    "plate_name": "01 V24 P16 left fan panel - counterbores UP",
+    "part": "10_GPU_140_FAN_MOUNT",
+    "print_xyz_mm": [
+      140.0,
+      140.0,
+      16.0
+    ],
+    "xy_mm": [
+      58.0,
+      58.0
+    ],
+    "brim_mm": 5,
+    "support": false,
+    "bed_contact_mm2": 6241.38
+  },
+  {
+    "plate": 2,
+    "plate_name": "02 V24 P17 right fan panel - counterbores UP",
+    "part": "10_CPU_140_FAN_MOUNT",
+    "print_xyz_mm": [
+      140.0,
+      140.0,
+      16.0
+    ],
+    "xy_mm": [
+      58.0,
+      58.0
+    ],
+    "brim_mm": 5,
+    "support": false,
+    "bed_contact_mm2": 6241.38
+  },
+  {
+    "plate": 3,
+    "plate_name": "03 V22 P08 PSU stops - screw access corrected",
+    "part": "05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE",
+    "print_xyz_mm": [
+      158.0,
+      184.0,
+      36.0
+    ],
+    "xy_mm": [
+      49.0,
+      36.0
+    ],
+    "brim_mm": 5,
+    "support": true,
+    "bed_contact_mm2": 364.1
+  },
+  {
+    "plate": 4,
+    "plate_name": "04 P03 front PCI frame + V20 P12 integrated GPU",
+    "part": "12_front_PCI_SUPPORT_FRAME",
+    "print_xyz_mm": [
+      140.0,
+      156.1,
+      16.0
+    ],
+    "xy_mm": [
+      10.0,
+      49.95
+    ],
+    "brim_mm": 5,
+    "support": false,
+    "bed_contact_mm2": 10652.55
+  },
+  {
+    "plate": 4,
+    "plate_name": "04 P03 front PCI frame + V20 P12 integrated GPU",
+    "part": "07_GPU_INTEGRATED_LIGHTWEIGHT_FRAME",
+    "print_xyz_mm": [
+      80.0,
+      128.0,
+      28.0
+    ],
+    "xy_mm": [
+      166,
+      64
+    ],
+    "brim_mm": 5,
+    "support": false,
+    "bed_contact_mm2": 6031.74
+  },
+  {
+    "plate": 5,
+    "plate_name": "05 P04 front CPU frame - support on",
+    "part": "12_front_CPU_SUPPORT_FRAME",
+    "print_xyz_mm": [
+      162.45,
+      140.0,
+      19.0
+    ],
+    "xy_mm": [
+      46.775,
+      58.0
+    ],
+    "brim_mm": 5,
+    "support": true,
+    "bed_contact_mm2": 10711.05
+  },
+  {
+    "plate": 6,
+    "plate_name": "06 P02 CPU side + P09 P10 P11 board rails",
+    "part": "16_CPU_VERTICAL_SIDE_FLUSH_TO_BEAM",
+    "print_xyz_mm": [
+      247.84,
+      140.0,
+      16.0
+    ],
+    "xy_mm": [
+      4.08,
+      5.245
+    ],
+    "brim_mm": 3,
+    "support": false,
+    "bed_contact_mm2": 13719.68
+  },
+  {
+    "plate": 6,
+    "plate_name": "06 P02 CPU side + P09 P10 P11 board rails",
+    "part": "19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "print_xyz_mm": [
+      243.84,
+      29.51,
+      18.0
+    ],
+    "xy_mm": [
+      6.08,
+      157.245
+    ],
+    "brim_mm": 5,
+    "support": false,
+    "bed_contact_mm2": 7177.77
+  },
+  {
+    "plate": 6,
+    "plate_name": "06 P02 CPU side + P09 P10 P11 board rails",
+    "part": "19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "print_xyz_mm": [
+      243.84,
+      18.0,
+      30.0
+    ],
+    "xy_mm": [
+      6.08,
+      200.755
+    ],
+    "brim_mm": 5,
+    "support": true,
+    "bed_contact_mm2": 1854.72
+  },
+  {
+    "plate": 6,
+    "plate_name": "06 P02 CPU side + P09 P10 P11 board rails",
+    "part": "19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "print_xyz_mm": [
+      243.84,
+      16.0,
+      18.0
+    ],
+    "xy_mm": [
+      6.08,
+      232.755
+    ],
+    "brim_mm": 5,
+    "support": false,
+    "bed_contact_mm2": 3883.49
+  },
+  {
+    "plate": 7,
+    "plate_name": "07 P01 PCI inset side - outer face flat",
+    "part": "16_PCI_INSET_SIDE_16_45mm",
+    "print_xyz_mm": [
+      247.84,
+      142.83,
+      15.891
+    ],
+    "xy_mm": [
+      4.08,
+      56.585
+    ],
+    "brim_mm": 3,
+    "support": false,
+    "bed_contact_mm2": 13944.88
+  },
+  {
+    "plate": 8,
+    "plate_name": "08 P05 rear beam + P15 dual fan rail - diagonal",
+    "part": "18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm",
+    "print_xyz_mm": [
+      220.936,
+      220.936,
+      20.0
+    ],
+    "xy_mm": [
+      7.359,
+      27.706
+    ],
+    "brim_mm": 5,
+    "support": false,
+    "bed_contact_mm2": 6815.63
+  },
+  {
+    "plate": 8,
+    "plate_name": "08 P05 rear beam + P15 dual fan rail - diagonal",
+    "part": "20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm",
+    "print_xyz_mm": [
+      209.304,
+      209.304,
+      31.0
+    ],
+    "xy_mm": [
+      39.338,
+      7.359
+    ],
+    "brim_mm": 5,
+    "support": true,
+    "bed_contact_mm2": 3408.0
+  },
+  {
+    "plate": 9,
+    "plate_name": "09 P06 P07 ground bars - diagonal",
+    "part": "04_front_GROUND_BAR_290mm_FLAT_PSU",
+    "print_xyz_mm": [
+      207.889,
+      207.889,
+      8.0
+    ],
+    "xy_mm": [
+      36.43,
+      11.681
+    ],
+    "brim_mm": 5,
+    "support": false,
+    "bed_contact_mm2": 5462.05
+  },
+  {
+    "plate": 9,
+    "plate_name": "09 P06 P07 ground bars - diagonal",
+    "part": "04_rear_GROUND_BAR_290mm_FLAT_PSU",
+    "print_xyz_mm": [
+      207.889,
+      207.889,
+      8.0
+    ],
+    "xy_mm": [
+      11.681,
+      36.43
+    ],
+    "brim_mm": 5,
+    "support": false,
+    "bed_contact_mm2": 5462.05
+  }
+]

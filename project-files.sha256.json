@@ -19,8 +19,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5747,
-      "sha256": "f950d0c6b6dccd8cfb2b85f8994891ba51667f046fdaedb668e29c52e274c746"
+      "bytes": 6658,
+      "sha256": "71610f2d5fcb8049ab91dddfe2087460706e0551d37925a96b5bc3811532658c"
     },
     {
       "path": "docs/.nojekyll",
@@ -29,8 +29,8 @@
     },
     {
       "path": "docs/index.html",
-      "bytes": 2474666,
-      "sha256": "ff810ede38cee910fe1b1dcfa553c507431c9881f3fbb81b405664e80df78794"
+      "bytes": 2478910,
+      "sha256": "67a49452d2354e97a2ff4e95f253ff8233717b5b01dbf7471a7a59b5d31f13c3"
     },
     {
       "path": "docs/其他电脑恢复项目.md",
@@ -1664,8 +1664,8 @@
     },
     {
       "path": "outputs/ATX-Desk-v13/Style1_V13_Assembly_Manual.html",
-      "bytes": 2474666,
-      "sha256": "ff810ede38cee910fe1b1dcfa553c507431c9881f3fbb81b405664e80df78794"
+      "bytes": 2478910,
+      "sha256": "67a49452d2354e97a2ff4e95f253ff8233717b5b01dbf7471a7a59b5d31f13c3"
     },
     {
       "path": "outputs/ATX-Desk-v13/Style1_V13_Illustrated_Manual.zip",
@@ -2568,6 +2568,171 @@
       "sha256": "83ace0fc63f47c8231e1cd65c93a086242409faacafc301bacf96418af6d506d"
     },
     {
+      "path": "outputs/ATX-Desk-v24/ATX_Desk_v24_M3_D7_head_clearance.f3d",
+      "bytes": 2481955,
+      "sha256": "da5d73940953ba0e43429edb476409703691ad7d7d9a165f37444e8f54d0a3d1"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/PRINT_STL/04_front_GROUND_BAR_290mm_FLAT_PSU.stl",
+      "bytes": 21084,
+      "sha256": "383dd163cee8b6152a85165d49bf848bff2a1ed3457c2c31d2294a15ef67091d"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/PRINT_STL/04_rear_GROUND_BAR_290mm_FLAT_PSU.stl",
+      "bytes": 21084,
+      "sha256": "a9f73ef99d84274c2d4cc3ff9b13b2a8f1f9804c237f5c160a2d2c841d527db4"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/PRINT_STL/05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE.stl",
+      "bytes": 56884,
+      "sha256": "62f16365c03b699c1d7f98d7fb46157d18ef0fd9e86a5cd105931812297acd94"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/PRINT_STL/07_GPU_INTEGRATED_LIGHTWEIGHT_FRAME.stl",
+      "bytes": 68884,
+      "sha256": "33f8e52eddccdb6c593d931dd3a9ad211e12276829befe8505be89ee1bc592a8"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/PRINT_STL/10_CPU_140_FAN_MOUNT.stl",
+      "bytes": 71884,
+      "sha256": "fd5c9c792d63fbc18cba3621034ab140731ee0fc8a19609bc2c0384baf28ccab"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/PRINT_STL/10_GPU_140_FAN_MOUNT.stl",
+      "bytes": 71884,
+      "sha256": "e0579c39efe54c5f1a9b74a3a5c4dad99c52894fae09a1bdde29f0454bf7905b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/PRINT_STL/12_front_CPU_SUPPORT_FRAME.stl",
+      "bytes": 43684,
+      "sha256": "33c27458beec46cd00a2f3423517643f6cdb879f31c4b4c2123b7fbc18b412c0"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/PRINT_STL/12_front_PCI_SUPPORT_FRAME.stl",
+      "bytes": 46284,
+      "sha256": "d739e9ccda818f14739c86d78c26c011e5da16829358912352bd2c6313c35573"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/PRINT_STL/16_CPU_VERTICAL_SIDE_FLUSH_TO_BEAM.stl",
+      "bytes": 37484,
+      "sha256": "d3a5fc5315a3196a0e1a054f8e90831cd9542472669b940a161f7cad35db75a6"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/PRINT_STL/16_PCI_INSET_SIDE_16_45mm.stl",
+      "bytes": 37484,
+      "sha256": "0ca270cf467d9c7b2b39e872c421ff84e71a8b842f9e8865b535f83ebae6bdf0"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/PRINT_STL/18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm.stl",
+      "bytes": 45684,
+      "sha256": "92e3275caa8527d06f9eb32b54a20cf902a74d5827cdcdcc3383e5929672181c"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/PRINT_STL/19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 49084,
+      "sha256": "e21bcea23917b7980622098b4e2a68289fca7f563a5a3c1c1082ab02fd431327"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/PRINT_STL/19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 47284,
+      "sha256": "9b101c33fc02632c96784d1896dd63e8b5c63c648463456c6c767dc098505c4f"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/PRINT_STL/19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm.stl",
+      "bytes": 49084,
+      "sha256": "3b6e3a6f71e065f2835f048c1032d3f729858b43d99779b5ef0305d32bc8246b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/PRINT_STL/20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm.stl",
+      "bytes": 66284,
+      "sha256": "08ce06df4ad19de6250d095701ed163592cf7880ded17404d8f5014a2e18c62b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/README.txt",
+      "bytes": 1290,
+      "sha256": "0db3b46082be37a602daac74a105008dd2a61b2870f9f9696cd582fd61ba06f8"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/Sources/arrange_v24_all_parts.py",
+      "bytes": 4664,
+      "sha256": "3b7edfa042db23692fc061222074bd409b754e7265be8cba2764d39b87c92fe5"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/Sources/audit_v24_head_wells.py",
+      "bytes": 1357,
+      "sha256": "4b9a0f858e4036f7ef843ea4bf71b55ecebb8a8bb695fec7cacc1b17d735bccd"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/Sources/build_atx_v24_m3_head_clearance.py",
+      "bytes": 5792,
+      "sha256": "0f9f3ffef178c24acd919eac96f11c751e6095a35a42c9ce716134d65d65db48"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/Sources/build_manual_style1_v24.py",
+      "bytes": 35081,
+      "sha256": "d885e5b55605245b991e0e27a25800b994a9b75ce214315ad373cdcf0024db84"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/Sources/package_atx_v24.py",
+      "bytes": 2446,
+      "sha256": "846dd76a7f37d184f740d9b3f5cd5fee3d19b02aedf4f697177700ac4f7a3e8a"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/Sources/refresh_manual_meshes_from_v24_3mf.py",
+      "bytes": 4404,
+      "sha256": "d932ce328231ae554d75f10a97c793cfad117ad5a69f80fda5bfaecfbf5ce5bd"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/Sources/v23_head_geometry_audit.json",
+      "bytes": 24571,
+      "sha256": "cace1ebe8d10e10f7fcf81d5de2a99f7c352ce25507ea245fd8e3755bfa6b4d5"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/Style1_V24_All_Latest_Parts_9_Plates.3mf",
+      "bytes": 155109,
+      "sha256": "88d08ec17b7532b11147a0982cb808022d32aabb58febde03af3ed9db6a025c9"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/Style1_V24_Assembly_Manual.html",
+      "bytes": 2478991,
+      "sha256": "e81a5bbdafac3820c12b715f9992d0f4b0da57c52f2727d01b7d7fdb0ca9bdb5"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/all-parts-plate-checks.json",
+      "bytes": 5079,
+      "sha256": "97d4c18689dfd9523e78afcc07817be035d18c4cf34d79af2e88dde29c3144df"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/all-parts-plate-list.csv",
+      "bytes": 1765,
+      "sha256": "32d848d6edee491102d98f2e336a965b3000bb54e0bd7d565d0573f8ba9a202e"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/all-parts-source-verification.json",
+      "bytes": 5370,
+      "sha256": "c2a36f2bd949aaa6ac463b8ee80280e8f21f2371ec7a51fa654fe52ce7249e2a"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/manual_from_print_project_verification.json",
+      "bytes": 4630,
+      "sha256": "a5c480a823f733cca2296dfbaf59ce60780d1d368dd34084e33ec369dc003f7f"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/mesh_checks.json",
+      "bytes": 3588,
+      "sha256": "34d2be6b48447a54fbb6aa780da47d71e41eea8e223282751df89dc690efa43d"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/parts.json",
+      "bytes": 2718,
+      "sha256": "6a9adcbc23f46e101fce9878dbbadc1c8a6d687026b73521578532811c088d2b"
+    },
+    {
+      "path": "outputs/ATX-Desk-v24/verification.json",
+      "bytes": 8101,
+      "sha256": "3d5aeb5eea77481aeb64bfd3c8039295eb0aa0f2508507ca861052016d361d77"
+    },
+    {
       "path": "outputs/First-Print-V12/FIRST_CPU_Mainboard_Rail_V12.3mf",
       "bytes": 33115,
       "sha256": "da1db627167d422a287d404b6e47797bed1daf2e67289da8ece92bc3cb3ee48e"
@@ -2781,6 +2946,11 @@
       "path": "outputs/Style1-V23-3MF-and-Manual.zip",
       "bytes": 2020128,
       "sha256": "3029d79850157339c7d9256f456d8220e4978b5ce5946b8050c3a4d5f1a1a250"
+    },
+    {
+      "path": "outputs/Style1-V24-3MF-and-Manual.zip",
+      "bytes": 4627014,
+      "sha256": "ab67aee772f35240fcc87f3770243e54159538c0397789ac62834a9df2abd97b"
     },
     {
       "path": "outputs/Style2-V06-A1-PETG-Print-Package.zip",

@@ -5,6 +5,18 @@
 **当前版本：风格 1 V16；风格 2 V09。** 风格编号表示结构方案，版本号分别演进。实物配合、长期承重与散热仍需实测，具体已验证及待验证事项见各版本说明。
 
 
+## 最新交付：样式1 V24（2026年11月1日）
+
+修正7 mm头径M3×6螺丝放不入的问题：P03/P04/P05/P08/P09/P10/P11/P15共20处头井由Ø6.6改为CAD Ø8.2，原3 mm承压层保留；P12两处原Ø8.2已核对。实测旧净孔6.3 mm，新孔预计7.6～7.9 mm，仍需试装。
+
+- [在线装配说明书](https://rapidrabbitsliu.github.io/pc-chassis-designs/)
+- [V24九盘15件3MF](outputs/ATX-Desk-v24/Style1_V24_All_Latest_Parts_9_Plates.3mf)
+- [完整Fusion模型](outputs/ATX-Desk-v24/ATX_Desk_v24_M3_D7_head_clearance.f3d)
+- [全部STL](outputs/ATX-Desk-v24/PRINT_STL) · [修改及检查说明](outputs/ATX-Desk-v24/README.txt)
+- [完整打印包、8件补打STL和离线说明书](outputs/Style1-V24-3MF-and-Manual.zip)
+
+沿用打印配置，V24未切片，打开后重新切片，未发送打印。说明书15件独立图及13步完成图已重绘；下方V23等条目为历史记录。
+
 ## 最新交付：样式1 V23（2026年11月1日）
 
 仓库已按用户要求公开。本次发布最新全套15件九盘3MF与同步更新的说明书；下面V16等条目为历史资料。

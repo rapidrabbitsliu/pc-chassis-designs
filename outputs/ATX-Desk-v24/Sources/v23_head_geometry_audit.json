@@ -1,0 +1,1209 @@
+[
+  {
+    "name": "10_GPU_140_FAN_MOUNT",
+    "cylinders": [
+      {
+        "diameter": 6.999999999999993,
+        "origin": [
+          144.9,
+          -22.0,
+          342.5
+        ],
+        "axis": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "min": [
+          141.4,
+          -22.0,
+          339.0
+        ],
+        "max": [
+          148.4,
+          -19.0,
+          346.0
+        ]
+      },
+      {
+        "diameter": 6.999999999999993,
+        "origin": [
+          144.9,
+          -22.0,
+          217.5
+        ],
+        "axis": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "min": [
+          141.4,
+          -22.0,
+          214.0
+        ],
+        "max": [
+          148.4,
+          -19.0,
+          221.0
+        ]
+      },
+      {
+        "diameter": 7.000000000000002,
+        "origin": [
+          19.9,
+          -22.0,
+          342.5
+        ],
+        "axis": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "min": [
+          16.4,
+          -22.0,
+          339.0
+        ],
+        "max": [
+          23.4,
+          -19.0,
+          346.0
+        ]
+      },
+      {
+        "diameter": 7.000000000000002,
+        "origin": [
+          19.9,
+          -22.0,
+          217.5
+        ],
+        "axis": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "min": [
+          16.4,
+          -22.0,
+          214.0
+        ],
+        "max": [
+          23.4,
+          -19.0,
+          221.0
+        ]
+      }
+    ],
+    "features": [
+      {
+        "name": "V23 125 pitch D5.5 clearance for fan self tapping screw",
+        "sketch": "V23 125 pitch D5.5 clearance for fan self tapping screw profile"
+      },
+      {
+        "name": "V23 125 pitch D5.5 clearance for fan self tapping screw (1)",
+        "sketch": "V23 125 pitch D5.5 clearance for fan self tapping screw profile (1)"
+      },
+      {
+        "name": "V23 125 pitch D5.5 clearance for fan self tapping screw (2)",
+        "sketch": "V23 125 pitch D5.5 clearance for fan self tapping screw profile (2)"
+      },
+      {
+        "name": "V23 125 pitch D5.5 clearance for fan self tapping screw (3)",
+        "sketch": "V23 125 pitch D5.5 clearance for fan self tapping screw profile (3)"
+      }
+    ]
+  },
+  {
+    "name": "10_CPU_140_FAN_MOUNT",
+    "cylinders": [
+      {
+        "diameter": 7.000000000000028,
+        "origin": [
+          288.9,
+          -22.0,
+          342.5
+        ],
+        "axis": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "min": [
+          285.4,
+          -22.0,
+          339.0
+        ],
+        "max": [
+          292.4,
+          -19.0,
+          346.0
+        ]
+      },
+      {
+        "diameter": 7.000000000000028,
+        "origin": [
+          288.9,
+          -22.0,
+          217.5
+        ],
+        "axis": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "min": [
+          285.4,
+          -22.0,
+          214.0
+        ],
+        "max": [
+          292.4,
+          -19.0,
+          221.0
+        ]
+      },
+      {
+        "diameter": 7.000000000000028,
+        "origin": [
+          163.9,
+          -22.0,
+          342.5
+        ],
+        "axis": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "min": [
+          160.39999999999998,
+          -22.0,
+          339.0
+        ],
+        "max": [
+          167.40000000000003,
+          -19.0,
+          346.0
+        ]
+      },
+      {
+        "diameter": 7.000000000000028,
+        "origin": [
+          163.9,
+          -22.0,
+          217.5
+        ],
+        "axis": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "min": [
+          160.39999999999998,
+          -22.0,
+          214.0
+        ],
+        "max": [
+          167.40000000000003,
+          -19.0,
+          221.0
+        ]
+      }
+    ],
+    "features": [
+      {
+        "name": "V23 125 pitch D5.5 clearance for fan self tapping screw",
+        "sketch": "V23 125 pitch D5.5 clearance for fan self tapping screw profile"
+      },
+      {
+        "name": "V23 125 pitch D5.5 clearance for fan self tapping screw (1)",
+        "sketch": "V23 125 pitch D5.5 clearance for fan self tapping screw profile (1)"
+      },
+      {
+        "name": "V23 125 pitch D5.5 clearance for fan self tapping screw (2)",
+        "sketch": "V23 125 pitch D5.5 clearance for fan self tapping screw profile (2)"
+      },
+      {
+        "name": "V23 125 pitch D5.5 clearance for fan self tapping screw (3)",
+        "sketch": "V23 125 pitch D5.5 clearance for fan self tapping screw profile (3)"
+      }
+    ]
+  },
+  {
+    "name": "04_front_GROUND_BAR_290mm_FLAT_PSU",
+    "cylinders": [],
+    "features": []
+  },
+  {
+    "name": "04_rear_GROUND_BAR_290mm_FLAT_PSU",
+    "cylinders": [],
+    "features": []
+  },
+  {
+    "name": "05_CENTERED_FLAT_PSU_CRADLE_OPEN_INTAKE",
+    "cylinders": [
+      {
+        "diameter": 6.599999999999966,
+        "origin": [
+          225.39999999999998,
+          203.92,
+          11.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          222.10000000000002,
+          200.62,
+          11.0
+        ],
+        "max": [
+          228.7,
+          207.21999999999997,
+          30.0
+        ]
+      },
+      {
+        "diameter": 6.599999999999984,
+        "origin": [
+          79.4,
+          203.92,
+          11.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          76.10000000000001,
+          200.62,
+          11.0
+        ],
+        "max": [
+          82.69999999999999,
+          207.21999999999997,
+          30.0
+        ]
+      },
+      {
+        "diameter": 6.599999999999966,
+        "origin": [
+          225.39999999999998,
+          39.92,
+          11.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          222.10000000000002,
+          36.62000000000002,
+          11.0
+        ],
+        "max": [
+          228.7,
+          43.219999999999985,
+          30.0
+        ]
+      },
+      {
+        "diameter": 6.599999999999984,
+        "origin": [
+          79.4,
+          39.92,
+          11.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          76.10000000000001,
+          36.620000000000005,
+          11.0
+        ],
+        "max": [
+          82.69999999999999,
+          43.21999999999999,
+          30.0
+        ]
+      }
+    ],
+    "features": [
+      {
+        "name": "Cradle to crossbar screw clearance",
+        "sketch": "Cradle to crossbar screw clearance profile"
+      },
+      {
+        "name": "Cradle screw well leaving 3 mm web",
+        "sketch": "Cradle screw well leaving 3 mm web profile"
+      },
+      {
+        "name": "Cradle to crossbar screw clearance (1)",
+        "sketch": "Cradle to crossbar screw clearance profile (1)"
+      },
+      {
+        "name": "Cradle screw well leaving 3 mm web (1)",
+        "sketch": "Cradle screw well leaving 3 mm web profile (1)"
+      },
+      {
+        "name": "Cradle to crossbar screw clearance (2)",
+        "sketch": "Cradle to crossbar screw clearance profile (2)"
+      },
+      {
+        "name": "Cradle screw well leaving 3 mm web (2)",
+        "sketch": "Cradle screw well leaving 3 mm web profile (2)"
+      },
+      {
+        "name": "Cradle to crossbar screw clearance (3)",
+        "sketch": "Cradle to crossbar screw clearance profile (3)"
+      },
+      {
+        "name": "Cradle screw well leaving 3 mm web (3)",
+        "sketch": "Cradle screw well leaving 3 mm web profile (3)"
+      }
+    ]
+  },
+  {
+    "name": "12_front_PCI_SUPPORT_FRAME",
+    "cylinders": [
+      {
+        "diameter": 6.599999999999998,
+        "origin": [
+          4.9399999999999995,
+          -10.0,
+          132.0
+        ],
+        "axis": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "min": [
+          1.6400000000000003,
+          -10.0,
+          128.7
+        ],
+        "max": [
+          8.239999999999998,
+          3.0000000000000004,
+          135.29999999999998
+        ]
+      },
+      {
+        "diameter": 6.599999999999997,
+        "origin": [
+          19.509999999999998,
+          -10.0,
+          8.0
+        ],
+        "axis": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "min": [
+          16.21,
+          -10.0,
+          4.700000000000002
+        ],
+        "max": [
+          22.809999999999995,
+          3.0000000000000004,
+          11.299999999999999
+        ]
+      }
+    ],
+    "features": [
+      {
+        "name": "Front corner screw well leaving 3 mm web",
+        "sketch": "Front corner screw well leaving 3 mm web profile"
+      },
+      {
+        "name": "Front corner screw well leaving 3 mm web (1)",
+        "sketch": "Front corner screw well leaving 3 mm web profile (1)"
+      }
+    ]
+  },
+  {
+    "name": "12_front_CPU_SUPPORT_FRAME",
+    "cylinders": [
+      {
+        "diameter": 6.599999999999966,
+        "origin": [
+          294.45,
+          -10.0,
+          132.0
+        ],
+        "axis": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "min": [
+          291.15000000000003,
+          -10.0,
+          128.70000000000002
+        ],
+        "max": [
+          297.75,
+          3.0000000000000004,
+          135.29999999999998
+        ]
+      },
+      {
+        "diameter": 6.599999999999966,
+        "origin": [
+          294.45,
+          -10.0,
+          8.0
+        ],
+        "axis": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "min": [
+          291.15000000000003,
+          -10.0,
+          4.700000000000017
+        ],
+        "max": [
+          297.75,
+          3.0000000000000004,
+          11.299999999999983
+        ]
+      }
+    ],
+    "features": [
+      {
+        "name": "Front corner screw well leaving 3 mm web",
+        "sketch": "Front corner screw well leaving 3 mm web profile"
+      },
+      {
+        "name": "Front corner screw well leaving 3 mm web (1)",
+        "sketch": "Front corner screw well leaving 3 mm web profile (1)"
+      }
+    ]
+  },
+  {
+    "name": "16_CPU_VERTICAL_SIDE_FLUSH_TO_BEAM",
+    "cylinders": [],
+    "features": []
+  },
+  {
+    "name": "16_PCI_INSET_SIDE_16_45mm",
+    "cylinders": [],
+    "features": []
+  },
+  {
+    "name": "19_PCI_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "cylinders": [
+      {
+        "diameter": 6.6,
+        "origin": [
+          4.0,
+          225.0,
+          143.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          0.7000000000000006,
+          221.70000000000002,
+          143.0
+        ],
+        "max": [
+          7.3,
+          228.29999999999998,
+          148.0
+        ]
+      },
+      {
+        "diameter": 6.6,
+        "origin": [
+          4.0,
+          20.0,
+          143.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          0.7000000000000006,
+          16.7,
+          143.0
+        ],
+        "max": [
+          7.3,
+          23.3,
+          148.0
+        ]
+      },
+      {
+        "diameter": 7.999999999999998,
+        "origin": [
+          16.51,
+          6.35,
+          148.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          12.510000000000003,
+          2.350000000000001,
+          148.0
+        ],
+        "max": [
+          20.51,
+          10.35,
+          158.0
+        ]
+      },
+      {
+        "diameter": 7.999999999999998,
+        "origin": [
+          16.51,
+          78.74,
+          148.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          12.510000000000003,
+          74.74000000000001,
+          148.0
+        ],
+        "max": [
+          20.51,
+          82.74,
+          158.0
+        ]
+      },
+      {
+        "diameter": 7.999999999999998,
+        "origin": [
+          16.51,
+          233.68,
+          148.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          12.510000000000003,
+          229.68000000000004,
+          148.0
+        ],
+        "max": [
+          20.51,
+          237.68,
+          158.0
+        ]
+      }
+    ],
+    "features": [
+      {
+        "name": "M3x6 rail mounting head well",
+        "sketch": "M3x6 rail mounting head well profile"
+      },
+      {
+        "name": "M3x6 rail mounting head well (1)",
+        "sketch": "M3x6 rail mounting head well profile (1)"
+      }
+    ]
+  },
+  {
+    "name": "19_MID_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "cylinders": [
+      {
+        "diameter": 6.600000000000001,
+        "origin": [
+          134.0,
+          222.5,
+          143.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          131.97,
+          219.20000000000002,
+          143.0
+        ],
+        "max": [
+          137.3,
+          225.79999999999998,
+          148.0
+        ]
+      },
+      {
+        "diameter": 6.600000000000001,
+        "origin": [
+          134.0,
+          3.0,
+          143.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          131.97,
+          0.0,
+          143.0
+        ],
+        "max": [
+          132.62522729151326,
+          0.3982505885462456,
+          148.0
+        ]
+      },
+      {
+        "diameter": 6.600000000000001,
+        "origin": [
+          134.0,
+          3.0,
+          143.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          131.97,
+          0.0,
+          143.0
+        ],
+        "max": [
+          137.3,
+          6.300000000000001,
+          148.0
+        ]
+      },
+      {
+        "diameter": 8.000000000000007,
+        "origin": [
+          140.97,
+          6.35,
+          148.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          136.97,
+          2.3499999999999965,
+          148.0
+        ],
+        "max": [
+          144.97,
+          10.350000000000003,
+          158.0
+        ]
+      },
+      {
+        "diameter": 8.000000000000007,
+        "origin": [
+          140.97,
+          78.74,
+          148.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          136.97,
+          74.74,
+          148.0
+        ],
+        "max": [
+          144.97,
+          82.74000000000001,
+          158.0
+        ]
+      },
+      {
+        "diameter": 8.000000000000007,
+        "origin": [
+          140.97,
+          233.68,
+          148.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          136.97,
+          229.68000000000004,
+          148.0
+        ],
+        "max": [
+          144.97,
+          237.68,
+          158.0
+        ]
+      }
+    ],
+    "features": [
+      {
+        "name": "M3x6 rail mounting head well",
+        "sketch": "M3x6 rail mounting head well profile"
+      },
+      {
+        "name": "M3x6 rail mounting head well (1)",
+        "sketch": "M3x6 rail mounting head well profile (1)"
+      }
+    ]
+  },
+  {
+    "name": "19_CPU_LONGITUDINAL_BOARD_RAIL_243_84mm",
+    "cylinders": [
+      {
+        "diameter": 6.599999999999966,
+        "origin": [
+          294.0,
+          225.0,
+          143.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          290.7,
+          221.70000000000002,
+          143.0
+        ],
+        "max": [
+          297.29999999999995,
+          228.29999999999998,
+          148.0
+        ]
+      },
+      {
+        "diameter": 6.599999999999966,
+        "origin": [
+          294.0,
+          20.0,
+          143.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          290.7,
+          16.700000000000017,
+          143.0
+        ],
+        "max": [
+          297.29999999999995,
+          23.299999999999983,
+          148.0
+        ]
+      },
+      {
+        "diameter": 7.999999999999972,
+        "origin": [
+          298.45,
+          6.35,
+          148.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          294.45,
+          2.3500000000000143,
+          148.0
+        ],
+        "max": [
+          302.45,
+          10.349999999999985,
+          158.0
+        ]
+      },
+      {
+        "diameter": 7.999999999999972,
+        "origin": [
+          298.45,
+          78.74,
+          148.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          294.45,
+          74.74000000000001,
+          148.0
+        ],
+        "max": [
+          302.45,
+          82.73999999999998,
+          158.0
+        ]
+      },
+      {
+        "diameter": 7.999999999999972,
+        "origin": [
+          298.45,
+          210.82,
+          148.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          294.45,
+          206.82000000000002,
+          148.0
+        ],
+        "max": [
+          302.45,
+          214.82,
+          158.0
+        ]
+      }
+    ],
+    "features": [
+      {
+        "name": "M3x6 rail mounting head well",
+        "sketch": "M3x6 rail mounting head well profile"
+      },
+      {
+        "name": "M3x6 rail mounting head well (1)",
+        "sketch": "M3x6 rail mounting head well profile (1)"
+      }
+    ]
+  },
+  {
+    "name": "18_ONE_PIECE_REAR_LOAD_BEAM_304_45mm",
+    "cylinders": [
+      {
+        "diameter": 6.599999999999966,
+        "origin": [
+          294.0,
+          256.84,
+          132.0
+        ],
+        "axis": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "min": [
+          290.7,
+          256.84,
+          128.70000000000002
+        ],
+        "max": [
+          297.29999999999995,
+          261.84,
+          135.29999999999998
+        ]
+      },
+      {
+        "diameter": 6.6,
+        "origin": [
+          4.0,
+          256.84,
+          132.0
+        ],
+        "axis": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "min": [
+          0.7000000000000006,
+          256.84,
+          128.7
+        ],
+        "max": [
+          7.3,
+          261.84,
+          135.29999999999998
+        ]
+      }
+    ],
+    "features": [
+      {
+        "name": "Rear end screw clearance",
+        "sketch": "Rear end screw clearance profile"
+      },
+      {
+        "name": "Rear end screw head well leaving 3 mm web",
+        "sketch": "Rear end screw head well leaving 3 mm web profile"
+      },
+      {
+        "name": "Rear end screw clearance (1)",
+        "sketch": "Rear end screw clearance profile (1)"
+      },
+      {
+        "name": "Rear end screw head well leaving 3 mm web (1)",
+        "sketch": "Rear end screw head well leaving 3 mm web profile (1)"
+      }
+    ]
+  },
+  {
+    "name": "20_ONE_PIECE_DUAL_140_FAN_RAIL_284mm",
+    "cylinders": [
+      {
+        "diameter": 6.599999999999966,
+        "origin": [
+          265.0,
+          2.0,
+          143.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          261.70000000000005,
+          -1.299999999999983,
+          143.0
+        ],
+        "max": [
+          268.29999999999995,
+          5.299999999999983,
+          154.0
+        ]
+      },
+      {
+        "diameter": 6.599999999999966,
+        "origin": [
+          200.0,
+          2.0,
+          143.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          196.70000000000002,
+          -1.299999999999983,
+          143.0
+        ],
+        "max": [
+          203.29999999999998,
+          5.299999999999983,
+          154.0
+        ]
+      },
+      {
+        "diameter": 6.600000000000001,
+        "origin": [
+          110.0,
+          2.0,
+          143.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          106.7,
+          -1.3000000000000007,
+          143.0
+        ],
+        "max": [
+          113.3,
+          5.300000000000001,
+          154.0
+        ]
+      },
+      {
+        "diameter": 6.600000000000001,
+        "origin": [
+          50.0,
+          2.0,
+          143.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          46.7,
+          -1.3000000000000007,
+          143.0
+        ],
+        "max": [
+          53.3,
+          5.300000000000001,
+          154.0
+        ]
+      }
+    ],
+    "features": [
+      {
+        "name": "Fan arm screw well for M3x6 leaving 3 mm web",
+        "sketch": "Fan arm screw well for M3x6 leaving 3 mm web profile"
+      },
+      {
+        "name": "Fan arm screw well for M3x6 leaving 3 mm web (1)",
+        "sketch": "Fan arm screw well for M3x6 leaving 3 mm web profile (1)"
+      },
+      {
+        "name": "Fan arm screw well for M3x6 leaving 3 mm web (2)",
+        "sketch": "Fan arm screw well for M3x6 leaving 3 mm web profile (2)"
+      },
+      {
+        "name": "Fan arm screw well for M3x6 leaving 3 mm web (3)",
+        "sketch": "Fan arm screw well for M3x6 leaving 3 mm web profile (3)"
+      }
+    ]
+  },
+  {
+    "name": "07_GPU_INTEGRATED_LIGHTWEIGHT_FRAME",
+    "cylinders": [
+      {
+        "diameter": 8.200000000000003,
+        "origin": [
+          140.0,
+          248.5,
+          143.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          135.9,
+          244.4,
+          143.0
+        ],
+        "max": [
+          144.1,
+          252.60000000000002,
+          148.0
+        ]
+      },
+      {
+        "diameter": 8.200000000000003,
+        "origin": [
+          80.0,
+          248.5,
+          143.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          75.9,
+          244.4,
+          143.0
+        ],
+        "max": [
+          84.1,
+          252.60000000000002,
+          148.0
+        ]
+      },
+      {
+        "diameter": 6.000000000000014,
+        "origin": [
+          146.99999999999997,
+          247.0,
+          140.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          147.0,
+          244.0,
+          140.0
+        ],
+        "max": [
+          150.0,
+          247.0,
+          148.0
+        ]
+      },
+      {
+        "diameter": 5.9999999999999964,
+        "origin": [
+          73.0,
+          246.99999999999994,
+          140.0
+        ],
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "min": [
+          70.0,
+          243.99999999999994,
+          140.0
+        ],
+        "max": [
+          73.0,
+          247.0,
+          148.0
+        ]
+      }
+    ],
+    "features": [
+      {
+        "name": "V20 unchanged head well and 3 mm bearing web",
+        "sketch": "V20 unchanged head well and 3 mm bearing web profile"
+      },
+      {
+        "name": "V20 unchanged head well and 3 mm bearing web (1)",
+        "sketch": "V20 unchanged head well and 3 mm bearing web profile (1)"
+      }
+    ]
+  }
+]
